@@ -1,0 +1,8 @@
+Excution0: https://batdongsan.com.vn/ban-can-ho-chung-cu-phuong-duong-noi-prj-the-sparks/-ban-gap-86m2-ct8-tk-2pn-2wc-nha-that-day-du-gia-1ty450-lh-096-323000-pr31063350
+Traceback (most recent call last):
+  File "C:\Users\vietdata\AppData\Local\Temp\ipykernel_21668\1442785917.py", line 100, in run
+    data = self.gather(driver.page_source)
+  File "C:\Users\vietdata\AppData\Local\Temp\ipykernel_21668\1442785917.py", line 25, in gather
+    address = page.xpath("""//*[@id="product-detail-web"]/span""")[0].text
+IndexError: list index out of range
+
