@@ -1,8 +1,73 @@
-Excution0: https://batdongsan.com.vn/ban-can-ho-chung-cu-phuong-duong-noi-prj-the-sparks/-ban-gap-86m2-ct8-tk-2pn-2wc-nha-that-day-du-gia-1ty450-lh-096-323000-pr31063350
+Success:https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-khuat-duy-tien-phuong-nhan-chinh-prj-viet-duc-complex/quy-ngoai-giao-thang-8-2022-ha-gia-toan-bo-quy-chu-dau-tu-moi-giam-them-300-600tr-pr34819032
+Success:https://batdongsan.com.vn/ban-nha-mat-pho-duong-ngo-dinh-man-phuong-la-khe/ban-kinh-doanh-via-he-o-to-do-60m2-8-tang-thang-may-mt-8m-gia-chi-11-5-ty-pr36000282
+Success:https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-truong-dinh-phuong-hoang-van-thu-4/cat-lo-ban-h1-minh-khai-mai-full-noi-that-gia-soc-pr35732280
+Excution0: https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-ham-nghi-phuong-my-dinh-2-prj-mon-city/duy-nhat-goc-thoang-mat-67m2-2pn-tai-hd-lien-he-0835-93-5678-pr36000810
 Traceback (most recent call last):
-  File "C:\Users\vietdata\AppData\Local\Temp\ipykernel_21668\1442785917.py", line 100, in run
+  File "C:\Users\vietdata\AppData\Local\Temp\ipykernel_4144\1442785917.py", line 100, in run
     data = self.gather(driver.page_source)
-  File "C:\Users\vietdata\AppData\Local\Temp\ipykernel_21668\1442785917.py", line 25, in gather
+  File "C:\Users\vietdata\AppData\Local\Temp\ipykernel_4144\1442785917.py", line 25, in gather
     address = page.xpath("""//*[@id="product-detail-web"]/span""")[0].text
 IndexError: list index out of range
 
+Success:https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-ham-nghi-phuong-my-dinh-2-prj-mon-city/duy-nhat-goc-thoang-mat-67m2-2pn-tai-hd-lien-he-0835-93-5678-pr36000810
+Excution0: https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-pham-hung-phuong-my-dinh-1-prj-vinhomes-skylake/ban-penthouse-skyvilla-hung-pr35521012
+Traceback (most recent call last):
+  File "C:\Users\vietdata\AppData\Local\Temp\ipykernel_4144\1442785917.py", line 100, in run
+    data = self.gather(driver.page_source)
+  File "C:\Users\vietdata\AppData\Local\Temp\ipykernel_4144\1442785917.py", line 25, in gather
+    address = page.xpath("""//*[@id="product-detail-web"]/span""")[0].text
+IndexError: list index out of range
+
+Success:https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-pham-hung-phuong-my-dinh-1-prj-vinhomes-skylake/ban-penthouse-skyvilla-hung-pr35521012
+Success:https://batdongsan.com.vn/ban-nha-rieng-duong-xuan-thuy-phuong-dich-vong/ban-toa-ccmn-75m2-mt-5m-lo-goc-x-7-tang-moi-cach-mp-30m-gia-16-5-ty-pr35682332
+Success:https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-pham-van-dong-phuong-co-nhue-1-prj-an-binh-city/chinh-chu-b-nhh-90m-tg-trung-b-cong-nam-full-noi-that-tai-du-city-pr36000808
+Success:https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-le-van-luong-phuong-nhan-chinh-prj-viet-duc-complex/pkd-ra-hang-dot-cuoi-30-ngoai-giao-gia-chi-25-trieu-m2-lien-he-0979998886-pr34892821
+Excution0: https://batdongsan.com.vn/ban-nha-biet-thu-lien-ke-duong-truong-dinh-phuong-hoang-van-thu-4-prj-louis-city-hoang-mai/ban-pho-95m2-xay-5-tang-gia-chi-nhinh-11-5-ty-pr35850072
+Traceback (most recent call last):
+  File "C:\Users\vietdata\AppData\Local\Temp\ipykernel_4144\1442785917.py", line 100, in run
+    data = self.gather(driver.page_source)
+  File "C:\Users\vietdata\AppData\Local\Temp\ipykernel_4144\1442785917.py", line 25, in gather
+    address = page.xpath("""//*[@id="product-detail-web"]/span""")[0].text
+IndexError: list index out of range
+
+Success:https://batdongsan.com.vn/ban-nha-biet-thu-lien-ke-duong-truong-dinh-phuong-hoang-van-thu-4-prj-louis-city-hoang-mai/ban-pho-95m2-xay-5-tang-gia-chi-nhinh-11-5-ty-pr35850072
+Excution0: https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-nghiem-xuan-yem-phuong-dai-kim-prj-khu-do-thi-kim-van-kim-lu-golden-silk/ban-gap-trong-thang-tai-toa-ct12c-dt-54m2-2-pn-full-lh-0983466681-pr36000805
+Traceback (most recent call last):
+  File "C:\Users\vietdata\AppData\Local\Temp\ipykernel_4144\1442785917.py", line 100, in run
+    data = self.gather(driver.page_source)
+  File "C:\Users\vietdata\AppData\Local\Temp\ipykernel_4144\1442785917.py", line 25, in gather
+    address = page.xpath("""//*[@id="product-detail-web"]/span""")[0].text
+IndexError: list index out of range
+
+Success:https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-nghiem-xuan-yem-phuong-dai-kim-prj-khu-do-thi-kim-van-kim-lu-golden-silk/ban-gap-trong-thang-tai-toa-ct12c-dt-54m2-2-pn-full-lh-0983466681-pr36000805
+Excution0: https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-nguyen-tuan-phuong-thanh-xuan-trung-prj-thong-nhat-complex/gia-dinh-nhuong-lai-88m2-3-ngu-tai-gia-3-6-ty-full-noi-that-pr32517734
+Traceback (most recent call last):
+  File "C:\Users\vietdata\AppData\Local\Temp\ipykernel_4144\1442785917.py", line 100, in run
+    data = self.gather(driver.page_source)
+  File "C:\Users\vietdata\AppData\Local\Temp\ipykernel_4144\1442785917.py", line 25, in gather
+    address = page.xpath("""//*[@id="product-detail-web"]/span""")[0].text
+IndexError: list index out of range
+
+Success:https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-nguyen-tuan-phuong-thanh-xuan-trung-prj-thong-nhat-complex/gia-dinh-nhuong-lai-88m2-3-ngu-tai-gia-3-6-ty-full-noi-that-pr32517734
+Success:https://batdongsan.com.vn/ban-nha-rieng-pho-lang-ha-phuong-thanh-cong/chinh-chu-can-ban-gap-ba-dinh-45m-5tang-7-9-ty-lo-goc-oto-qua-kinh-doanh-pr36000508
+Success:https://batdongsan.com.vn/ban-nha-rieng-duong-nguyen-khang-phuong-yen-hoa-2/ban-35m2-mt-4m-x-4-tang-ngo-255-gia-4-1-ty-pr35931742
+Excution0: https://batdongsan.com.vn/ban-nha-rieng-xa-nam-phuong-tien/ban-dau-gia-136m2-dat-2-mat-ngo-thon-hanh-bo-chuong-my-ha-noi-pr35995167
+Traceback (most recent call last):
+  File "C:\Users\vietdata\AppData\Local\Temp\ipykernel_4144\1442785917.py", line 100, in run
+    data = self.gather(driver.page_source)
+  File "C:\Users\vietdata\AppData\Local\Temp\ipykernel_4144\1442785917.py", line 25, in gather
+    address = page.xpath("""//*[@id="product-detail-web"]/span""")[0].text
+IndexError: list index out of range
+
+Success:https://batdongsan.com.vn/ban-nha-rieng-xa-nam-phuong-tien/ban-dau-gia-136m2-dat-2-mat-ngo-thon-hanh-bo-chuong-my-ha-noi-pr35995167
+Success:https://batdongsan.com.vn/ban-nha-mat-pho-duong-cau-giay-phuong-dich-vong/sieu-hiem-ban-dien-tich-194m-x-3-tang-tien-6m-gia-ban-chi-53-ty-pr35310611
+Success:https://batdongsan.com.vn/ban-nha-rieng-phuong-phu-la/chi-3-35-ty-tl-xay-moi-o-to-do-cach-10m-ngay-trung-tam-cho-van-dt-33m2-4t-lh-0961913663-pr36000804
+Excution0: https://batdongsan.com.vn/ban-shophouse-nha-pho-thuong-mai-duong-ham-nghi-thi-tran-cau-dien-prj-vinhomes-gardenia/ban-ban-lien-ke-day-b3-25-ty-pr35483665
+Traceback (most recent call last):
+  File "C:\Users\vietdata\AppData\Local\Temp\ipykernel_4144\1442785917.py", line 100, in run
+    data = self.gather(driver.page_source)
+  File "C:\Users\vietdata\AppData\Local\Temp\ipykernel_4144\1442785917.py", line 25, in gather
+    address = page.xpath("""//*[@id="product-detail-web"]/span""")[0].text
+IndexError: list index out of range
+
+Success:https://batdongsan.com.vn/ban-shophouse-nha-pho-thuong-mai-duong-ham-nghi-thi-tran-cau-dien-prj-vinhomes-gardenia/ban-ban-lien-ke-day-b3-25-ty-pr35483665
