@@ -1,0 +1,224 @@
+Excution4: https://homedy.com/ban-can-ho-masteri-west-heights/dau-tu-studio-cao-cap-dong-tien-cho-thue-hang-nam-150-trieu-es2050499
+Traceback (most recent call last):
+  File "C:\Users\TuanAnh\AppData\Local\Temp\ipykernel_23508\2541164251.py", line 157, in run
+    data = self.gather(driver.page_source)
+  File "C:\Users\TuanAnh\AppData\Local\Temp\ipykernel_23508\2541164251.py", line 67, in gather
+    address =  page.xpath("""/html/body/div[1]/div[5]/div[2]/div[2]/div/div[1]/div/div[1]/div/div[2]/a""")[0].get("title")
+IndexError: list index out of range
+
+Excution4: https://homedy.com/ban-can-ho-khu-phuc-hop-imperia-garden/gap-2-phong-ngu-tai-noi-that-dep-gia-giam-sau-33-ty-es2050465
+Traceback (most recent call last):
+  File "C:\Users\TuanAnh\AppData\Local\Temp\ipykernel_23508\2541164251.py", line 157, in run
+    data = self.gather(driver.page_source)
+  File "C:\Users\TuanAnh\AppData\Local\Temp\ipykernel_23508\2541164251.py", line 67, in gather
+    address =  page.xpath("""/html/body/div[1]/div[5]/div[2]/div[2]/div/div[1]/div/div[1]/div/div[2]/a""")[0].get("title")
+IndexError: list index out of range
+
+Excution4: https://homedy.com/ban-nha-mat-pho-quan-nam-tu-liem-ha-noi/biet-thu-kdt-my-dinh-2-190m2-50-ty-vip-o-to-do-cua-es2050173
+Traceback (most recent call last):
+  File "C:\Users\TuanAnh\AppData\Local\Temp\ipykernel_23508\2541164251.py", line 157, in run
+    data = self.gather(driver.page_source)
+  File "C:\Users\TuanAnh\AppData\Local\Temp\ipykernel_23508\2541164251.py", line 67, in gather
+    address =  page.xpath("""/html/body/div[1]/div[5]/div[2]/div[2]/div/div[1]/div/div[1]/div/div[2]/a""")[0].get("title")
+IndexError: list index out of range
+
+Excution4: https://homedy.com/ban-can-ho-imperia-sky-garden/chinh-chu-2-ngu-2wc-so-11-view-thoang-tai-gia-soc-37-ty-es2050067
+Traceback (most recent call last):
+  File "C:\Users\TuanAnh\AppData\Local\Temp\ipykernel_23508\2541164251.py", line 157, in run
+    data = self.gather(driver.page_source)
+  File "C:\Users\TuanAnh\AppData\Local\Temp\ipykernel_23508\2541164251.py", line 67, in gather
+    address =  page.xpath("""/html/body/div[1]/div[5]/div[2]/div[2]/div/div[1]/div/div[1]/div/div[2]/a""")[0].get("title")
+IndexError: list index out of range
+
+Excution4: https://homedy.com/ban-nha-rieng-quan-hai-ba-trung-ha-noi/gia-380-ty-es2048828
+Traceback (most recent call last):
+  File "C:\Users\TuanAnh\AppData\Local\Temp\ipykernel_23508\2541164251.py", line 157, in run
+    data = self.gather(driver.page_source)
+  File "C:\Users\TuanAnh\AppData\Local\Temp\ipykernel_23508\2541164251.py", line 67, in gather
+    address =  page.xpath("""/html/body/div[1]/div[5]/div[2]/div[2]/div/div[1]/div/div[1]/div/div[2]/a""")[0].get("title")
+IndexError: list index out of range
+
+Excution4: https://homedy.com/ban-nha-rieng-quan-ha-dong-ha-noi/nguyen-van-loc-45m2-4-tang-nhinh-8-ty-moi-es2048185
+Traceback (most recent call last):
+  File "C:\Users\TuanAnh\AppData\Local\Temp\ipykernel_23508\2541164251.py", line 157, in run
+    data = self.gather(driver.page_source)
+  File "C:\Users\TuanAnh\AppData\Local\Temp\ipykernel_23508\2541164251.py", line 67, in gather
+    address =  page.xpath("""/html/body/div[1]/div[5]/div[2]/div[2]/div/div[1]/div/div[1]/div/div[2]/a""")[0].get("title")
+IndexError: list index out of range
+
+Excution4: https://homedy.com/ban-nha-rieng-quan-tay-ho-ha-noi/pho-phu-thuong-co-garage-o-to-cho-thang-may-view-bat-tan-35m2-5-ty-es2047760
+Traceback (most recent call last):
+  File "C:\Users\TuanAnh\AppData\Local\Temp\ipykernel_23508\2541164251.py", line 157, in run
+    data = self.gather(driver.page_source)
+  File "C:\Users\TuanAnh\AppData\Local\Temp\ipykernel_23508\2541164251.py", line 67, in gather
+    address =  page.xpath("""/html/body/div[1]/div[5]/div[2]/div[2]/div/div[1]/div/div[1]/div/div[2]/a""")[0].get("title")
+IndexError: list index out of range
+
+Excution4: https://homedy.com/ban-can-ho-the-zei-my-dinh/duplex-toa-186m2-thong-2-tang-view-svd-chiet-khau-khung-lien-he-em-ly-es2036165
+Traceback (most recent call last):
+  File "C:\Users\TuanAnh\AppData\Local\Temp\ipykernel_23508\2541164251.py", line 157, in run
+    data = self.gather(driver.page_source)
+  File "C:\Users\TuanAnh\AppData\Local\Temp\ipykernel_23508\2541164251.py", line 67, in gather
+    address =  page.xpath("""/html/body/div[1]/div[5]/div[2]/div[2]/div/div[1]/div/div[1]/div/div[2]/a""")[0].get("title")
+IndexError: list index out of range
+
+Excution4: https://homedy.com/ban-can-ho-the-zei-my-dinh/duy-nhat-1-goc-3-pn-cong-dong-nam-105m2-gia-chi-6-ty-es2041030
+Traceback (most recent call last):
+  File "C:\Users\TuanAnh\AppData\Local\Temp\ipykernel_23508\2541164251.py", line 157, in run
+    data = self.gather(driver.page_source)
+  File "C:\Users\TuanAnh\AppData\Local\Temp\ipykernel_23508\2541164251.py", line 67, in gather
+    address =  page.xpath("""/html/body/div[1]/div[5]/div[2]/div[2]/div/div[1]/div/div[1]/div/div[2]/a""")[0].get("title")
+IndexError: list index out of range
+
+Excution4: https://homedy.com/ban-nha-rieng-quan-hoang-mai-ha-noi/gia-460-ty-es2046370
+Traceback (most recent call last):
+  File "C:\Users\TuanAnh\AppData\Local\Temp\ipykernel_23508\2541164251.py", line 157, in run
+    data = self.gather(driver.page_source)
+  File "C:\Users\TuanAnh\AppData\Local\Temp\ipykernel_23508\2541164251.py", line 67, in gather
+    address =  page.xpath("""/html/body/div[1]/div[5]/div[2]/div[2]/div/div[1]/div/div[1]/div/div[2]/a""")[0].get("title")
+IndexError: list index out of range
+
+Excution4: https://homedy.com/ban-can-ho-rose-town-79-ngoc-hoi/quan-hoang-mai-ha-noi-gia-260-ty-es2046247
+Traceback (most recent call last):
+  File "C:\Users\TuanAnh\AppData\Local\Temp\ipykernel_23508\2541164251.py", line 157, in run
+    data = self.gather(driver.page_source)
+  File "C:\Users\TuanAnh\AppData\Local\Temp\ipykernel_23508\2541164251.py", line 67, in gather
+    address =  page.xpath("""/html/body/div[1]/div[5]/div[2]/div[2]/div/div[1]/div/div[1]/div/div[2]/a""")[0].get("title")
+IndexError: list index out of range
+
+Excution4: https://homedy.com/ban-can-ho-tecco-garden/tai-thanh-tri-ha-noi-gia-thoa-thuan-es2046096
+Traceback (most recent call last):
+  File "C:\Users\TuanAnh\AppData\Local\Temp\ipykernel_23508\2541164251.py", line 157, in run
+    data = self.gather(driver.page_source)
+  File "C:\Users\TuanAnh\AppData\Local\Temp\ipykernel_23508\2541164251.py", line 67, in gather
+    address =  page.xpath("""/html/body/div[1]/div[5]/div[2]/div[2]/div/div[1]/div/div[1]/div/div[2]/a""")[0].get("title")
+IndexError: list index out of range
+
+Excution4: https://homedy.com/ban-can-ho-lang-quoc-te-thang-long/110m2-3-ngu-gia-37-ty-tai-tran-dang-ninh-dich-vong-cau-giay-es2043542
+Traceback (most recent call last):
+  File "C:\Users\TuanAnh\AppData\Local\Temp\ipykernel_23508\2541164251.py", line 157, in run
+    data = self.gather(driver.page_source)
+  File "C:\Users\TuanAnh\AppData\Local\Temp\ipykernel_23508\2541164251.py", line 67, in gather
+    address =  page.xpath("""/html/body/div[1]/div[5]/div[2]/div[2]/div/div[1]/div/div[1]/div/div[2]/a""")[0].get("title")
+IndexError: list index out of range
+
+Excution4: https://homedy.com/ban-nha-rieng-quan-cau-giay-ha-noi/gia-410-ty-es2042609
+Traceback (most recent call last):
+  File "C:\Users\TuanAnh\AppData\Local\Temp\ipykernel_23508\2541164251.py", line 157, in run
+    data = self.gather(driver.page_source)
+  File "C:\Users\TuanAnh\AppData\Local\Temp\ipykernel_23508\2541164251.py", line 67, in gather
+    address =  page.xpath("""/html/body/div[1]/div[5]/div[2]/div[2]/div/div[1]/div/div[1]/div/div[2]/a""")[0].get("title")
+IndexError: list index out of range
+
+Excution4: https://homedy.com/ban-can-ho-tecco-garden/gia-tot-nhat-hien-nay-ch-4pn-127m2-chi-3045-ty-nhan-nha-o-ngay-don-tet-es2042507
+Traceback (most recent call last):
+  File "C:\Users\TuanAnh\AppData\Local\Temp\ipykernel_23508\2541164251.py", line 157, in run
+    data = self.gather(driver.page_source)
+  File "C:\Users\TuanAnh\AppData\Local\Temp\ipykernel_23508\2541164251.py", line 67, in gather
+    address =  page.xpath("""/html/body/div[1]/div[5]/div[2]/div[2]/div/div[1]/div/div[1]/div/div[2]/a""")[0].get("title")
+IndexError: list index out of range
+
+Excution4: https://homedy.com/ban-can-ho-rivera-park-ha-noi/gap-goc-104m2-tai-du-an-69-vu-trong-phung-54-ty-es2041763
+Traceback (most recent call last):
+  File "C:\Users\TuanAnh\AppData\Local\Temp\ipykernel_23508\2541164251.py", line 157, in run
+    data = self.gather(driver.page_source)
+  File "C:\Users\TuanAnh\AppData\Local\Temp\ipykernel_23508\2541164251.py", line 67, in gather
+    address =  page.xpath("""/html/body/div[1]/div[5]/div[2]/div[2]/div/div[1]/div/div[1]/div/div[2]/a""")[0].get("title")
+IndexError: list index out of range
+
+Excution4: https://homedy.com/ban-can-ho-quan-dong-da-ha-noi/hot-mo-chung-cu-doan-thi-diem-cat-linh-o-ngay-full-do-27-50-61m2-so-hong-lau-dai-es1545368
+Traceback (most recent call last):
+  File "C:\Users\TuanAnh\AppData\Local\Temp\ipykernel_23508\2541164251.py", line 157, in run
+    data = self.gather(driver.page_source)
+  File "C:\Users\TuanAnh\AppData\Local\Temp\ipykernel_23508\2541164251.py", line 67, in gather
+    address =  page.xpath("""/html/body/div[1]/div[5]/div[2]/div[2]/div/div[1]/div/div[1]/div/div[2]/a""")[0].get("title")
+IndexError: list index out of range
+
+Excution4: https://homedy.com/ban-nha-rieng-quan-dong-da-ha-noi/sieu-rong-de-xay-van-phong-tai-mat-pho-vu-ngoc-phan-es2039939
+Traceback (most recent call last):
+  File "C:\Users\TuanAnh\AppData\Local\Temp\ipykernel_23508\2541164251.py", line 157, in run
+    data = self.gather(driver.page_source)
+  File "C:\Users\TuanAnh\AppData\Local\Temp\ipykernel_23508\2541164251.py", line 67, in gather
+    address =  page.xpath("""/html/body/div[1]/div[5]/div[2]/div[2]/div/div[1]/div/div[1]/div/div[2]/a""")[0].get("title")
+IndexError: list index out of range
+
+Excution4: https://homedy.com/ban-nha-rieng-quan-nam-tu-liem-ha-noi/chinh-chu-can-gap-xuan-phuong-gia-35-ty-es2038863
+Traceback (most recent call last):
+  File "C:\Users\TuanAnh\AppData\Local\Temp\ipykernel_23508\2541164251.py", line 157, in run
+    data = self.gather(driver.page_source)
+  File "C:\Users\TuanAnh\AppData\Local\Temp\ipykernel_23508\2541164251.py", line 67, in gather
+    address =  page.xpath("""/html/body/div[1]/div[5]/div[2]/div[2]/div/div[1]/div/div[1]/div/div[2]/a""")[0].get("title")
+IndexError: list index out of range
+
+Excution4: https://homedy.com/ban-nha-rieng-quan-nam-tu-liem-ha-noi/gia-237-ty-es2038875
+Traceback (most recent call last):
+  File "C:\Users\TuanAnh\AppData\Local\Temp\ipykernel_23508\2541164251.py", line 157, in run
+    data = self.gather(driver.page_source)
+  File "C:\Users\TuanAnh\AppData\Local\Temp\ipykernel_23508\2541164251.py", line 67, in gather
+    address =  page.xpath("""/html/body/div[1]/div[5]/div[2]/div[2]/div/div[1]/div/div[1]/div/div[2]/a""")[0].get("title")
+IndexError: list index out of range
+
+Excution4: https://homedy.com/ban-can-ho-chelsea-park-khu-do-thi-moi-yen-hoa/chung-cu-toa-nam-trung-kinh-es2038274
+Traceback (most recent call last):
+  File "C:\Users\TuanAnh\AppData\Local\Temp\ipykernel_23508\2541164251.py", line 157, in run
+    data = self.gather(driver.page_source)
+  File "C:\Users\TuanAnh\AppData\Local\Temp\ipykernel_23508\2541164251.py", line 67, in gather
+    address =  page.xpath("""/html/body/div[1]/div[5]/div[2]/div[2]/div/div[1]/div/div[1]/div/div[2]/a""")[0].get("title")
+IndexError: list index out of range
+
+Excution4: https://homedy.com/ban-nha-rieng-quan-dong-da-ha-noi/nhinh-7-ty-can-gap-ngo-o-to-cat-linh-52m2-x-5-tang-mat-tien-4m-es2037410
+Traceback (most recent call last):
+  File "C:\Users\TuanAnh\AppData\Local\Temp\ipykernel_23508\2541164251.py", line 157, in run
+    data = self.gather(driver.page_source)
+  File "C:\Users\TuanAnh\AppData\Local\Temp\ipykernel_23508\2541164251.py", line 67, in gather
+    address =  page.xpath("""/html/body/div[1]/div[5]/div[2]/div[2]/div/div[1]/div/div[1]/div/div[2]/a""")[0].get("title")
+IndexError: list index out of range
+
+Excution4: https://homedy.com/ban-nha-rieng-quan-ba-dinh-ha-noi/dang-kinh-doanh-chung-cu-mini-doi-can-51m2-x-5-tang-47m-mt-gia-7-ty-es2037402
+Traceback (most recent call last):
+  File "C:\Users\TuanAnh\AppData\Local\Temp\ipykernel_23508\2541164251.py", line 157, in run
+    data = self.gather(driver.page_source)
+  File "C:\Users\TuanAnh\AppData\Local\Temp\ipykernel_23508\2541164251.py", line 67, in gather
+    address =  page.xpath("""/html/body/div[1]/div[5]/div[2]/div[2]/div/div[1]/div/div[1]/div/div[2]/a""")[0].get("title")
+IndexError: list index out of range
+
+Excution4: https://homedy.com/ban-nha-rieng-quan-dong-da-ha-noi/dat-tang-lo-goc-an-trach-70m-x-3-mat-tien-47m-nhinh-6-ty-es2037391
+Traceback (most recent call last):
+  File "C:\Users\TuanAnh\AppData\Local\Temp\ipykernel_23508\2541164251.py", line 157, in run
+    data = self.gather(driver.page_source)
+  File "C:\Users\TuanAnh\AppData\Local\Temp\ipykernel_23508\2541164251.py", line 67, in gather
+    address =  page.xpath("""/html/body/div[1]/div[5]/div[2]/div[2]/div/div[1]/div/div[1]/div/div[2]/a""")[0].get("title")
+IndexError: list index out of range
+
+Excution4: https://homedy.com/ban-can-ho-seasons-avenue/chinh-chu-dinh-cu-nuoc-ngoai-gap-3-phong-ngu-es1315232
+Traceback (most recent call last):
+  File "C:\Users\TuanAnh\AppData\Local\Temp\ipykernel_23508\2541164251.py", line 157, in run
+    data = self.gather(driver.page_source)
+  File "C:\Users\TuanAnh\AppData\Local\Temp\ipykernel_23508\2541164251.py", line 67, in gather
+    address =  page.xpath("""/html/body/div[1]/div[5]/div[2]/div[2]/div/div[1]/div/div[1]/div/div[2]/a""")[0].get("title")
+IndexError: list index out of range
+
+Excution4: https://homedy.com/ban-can-ho-the-zei-my-dinh/penthouse-tang-40-41-dt-244m2-tai-du-an-mua-truc-tiep-chu-dau-tu-es2035088
+Traceback (most recent call last):
+  File "C:\Users\TuanAnh\AppData\Local\Temp\ipykernel_23508\2541164251.py", line 152, in run
+    id = self.get_id(driver.page_source)
+  File "C:\Users\TuanAnh\AppData\Local\Temp\ipykernel_23508\2541164251.py", line 31, in get_id
+    infors = bs.find_all("div", {"class": "product-info"})[0]
+IndexError: list index out of range
+
+Excution4: https://homedy.com/ban-can-ho-the-legacy/quan-ly-cap-nhat-cac-3pn-gap-tai-gia-tu-40tr-m2-es2030409
+Traceback (most recent call last):
+  File "C:\Users\TuanAnh\AppData\Local\Temp\ipykernel_23508\2541164251.py", line 157, in run
+    data = self.gather(driver.page_source)
+  File "C:\Users\TuanAnh\AppData\Local\Temp\ipykernel_23508\2541164251.py", line 67, in gather
+    address =  page.xpath("""/html/body/div[1]/div[5]/div[2]/div[2]/div/div[1]/div/div[1]/div/div[2]/a""")[0].get("title")
+IndexError: list index out of range
+
+Excution4: https://homedy.com/ban-can-ho-king-palace/danh-sach-50-chung-cu-108-nguyen-trai-gia-chi-4-ty-es2030359
+Traceback (most recent call last):
+  File "C:\Users\TuanAnh\AppData\Local\Temp\ipykernel_23508\2541164251.py", line 157, in run
+    data = self.gather(driver.page_source)
+  File "C:\Users\TuanAnh\AppData\Local\Temp\ipykernel_23508\2541164251.py", line 67, in gather
+    address =  page.xpath("""/html/body/div[1]/div[5]/div[2]/div[2]/div/div[1]/div/div[1]/div/div[2]/a""")[0].get("title")
+IndexError: list index out of range
+
