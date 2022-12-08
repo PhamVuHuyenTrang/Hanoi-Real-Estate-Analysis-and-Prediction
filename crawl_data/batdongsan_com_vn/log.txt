@@ -1,0 +1,60 @@
+Excution0: https://batdongsan.com.vn/ban-dat-duong-416-phuong-kim-son-6/nha-em-can-ban-gap-manh-view-ho-dong-mo-60-2m-full-tho-cu-tai-chinh-700tr-so-do-trao-tan-tay-pr35396427
+Traceback (most recent call last):
+  File "D:\Programming\Python\DS\crawling_data\Hanoi-Real-Estate-Analysis-and-Prediction\run.py", line 117, in run
+    data = self.gather(driver.page_source)
+  File "D:\Programming\Python\DS\crawling_data\Hanoi-Real-Estate-Analysis-and-Prediction\run.py", line 42, in gather
+    address = page.xpath("""//*[@id="product-detail-web"]/span""")[0].text
+IndexError: list index out of range
+
+Success:https://batdongsan.com.vn/ban-dat-duong-416-phuong-kim-son-6/nha-em-can-ban-gap-manh-view-ho-dong-mo-60-2m-full-tho-cu-tai-chinh-700tr-so-do-trao-tan-tay-pr35396427
+Success:https://batdongsan.com.vn/ban-nha-rieng-duong-mieu-nha-phuong-tay-mo/lo-dat-vuong-dep-60m2-gan-oto-hang-xom-van-minh-gia-2-85-ty-co-gia-loc-pr36029600
+Success:https://batdongsan.com.vn/ban-nha-biet-thu-lien-ke-duong-nguyen-tam-trinh-phuong-hoang-van-thu-4-prj-khu-do-thi-vinh-hoang/ban-kdt-oto-tranh-via-he-kd-90m2-x5t-mt-6m-pr36032554
+Success:https://batdongsan.com.vn/ban-dat-duong-21-1-xa-co-dong/can-quay-vong-von-kinh-doanh-ban-khu-cnc-hoa-lac-sat-ql21-va-truong-dh-viet-hung-chi-1-1-ty-pr35418543
+Success:https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-ham-nghi-phuong-my-dinh-1-prj-khu-do-thi-my-dinh-i/-ban-1-dien-tich-63m-2pn-1-vs-lh-ms-trang-0981245437-pr36032545
+Success:https://batdongsan.com.vn/ban-can-ho-chung-cu-pho-trung-kinh-phuong-yen-hoa-2-prj-chelsea-park/-ban-100m2-toa-gia-4-1-ty-co-thuong-luong-pr35893195
+Success:https://batdongsan.com.vn/ban-can-ho-chung-cu-phuong-xuan-dinh-prj-n01-t1-ngoai-giao-doan/ban-a-hau-toa-n01t1-132m2-4-png-ngu-3wc-view-dieu-a-lh-0905-618-555-pr35149349
+Excution0: https://batdongsan.com.vn/ban-nha-rieng-duong-au-co-phuong-nhat-tan-2/ban-tay-ho-gan-thung-lung-hoa-ho-tay-42m2-4-35-ty-pr36007065
+Traceback (most recent call last):
+  File "D:\Programming\Python\DS\crawling_data\Hanoi-Real-Estate-Analysis-and-Prediction\run.py", line 117, in run
+    data = self.gather(driver.page_source)
+  File "D:\Programming\Python\DS\crawling_data\Hanoi-Real-Estate-Analysis-and-Prediction\run.py", line 42, in gather
+    address = page.xpath("""//*[@id="product-detail-web"]/span""")[0].text
+IndexError: list index out of range
+
+Success:https://batdongsan.com.vn/ban-nha-rieng-duong-au-co-phuong-nhat-tan-2/ban-tay-ho-gan-thung-lung-hoa-ho-tay-42m2-4-35-ty-pr36007065
+Excution0: https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-tran-duy-hung-phuong-trung-hoa-4-prj-vinhomes-d-capitale/ban-goc-2pn-city-view-co-noi-that-du-an-dcapitale-gia-2-4-ty-lh-0944010255-pr30603540
+Traceback (most recent call last):
+  File "D:\Programming\Python\DS\crawling_data\Hanoi-Real-Estate-Analysis-and-Prediction\run.py", line 117, in run
+    data = self.gather(driver.page_source)
+  File "D:\Programming\Python\DS\crawling_data\Hanoi-Real-Estate-Analysis-and-Prediction\run.py", line 42, in gather
+    address = page.xpath("""//*[@id="product-detail-web"]/span""")[0].text
+IndexError: list index out of range
+
+Success:https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-tran-duy-hung-phuong-trung-hoa-4-prj-vinhomes-d-capitale/ban-goc-2pn-city-view-co-noi-that-du-an-dcapitale-gia-2-4-ty-lh-0944010255-pr30603540
+Success:https://batdongsan.com.vn/ban-loai-bat-dong-san-khac-duong-vu-pham-ham-phuong-yen-hoa-2-prj-park-view-city/bql-ban-van-phong-parkview-280m2-800m2-gia-35tr-m2-pr35300261
+Success:https://batdongsan.com.vn/ban-shophouse-nha-pho-thuong-mai-xa-duong-xa-prj-vinhomes-ocean-park-gia-lam/-lien-ke-doi-dien-4-toa-chung-cu-ruby-120m2-30m-18-ty-pr36032509
+Success:https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-thanh-thai-phuong-dich-vong-prj-khu-do-thi-moi-dich-vong/-ban-133m2-toa-n09b2-gia-5-3-ty-pr35893410
+Excution0: https://batdongsan.com.vn/ban-nha-biet-thu-lien-ke-duong-nguyen-van-huyen-phuong-phu-thuong-1-prj-khu-do-thi-nam-thang-long-ciputra/ban-shop-house-mat-suat-ngoai-giao-pr33845986
+Traceback (most recent call last):
+  File "D:\Programming\Python\DS\crawling_data\Hanoi-Real-Estate-Analysis-and-Prediction\run.py", line 117, in run
+    data = self.gather(driver.page_source)
+  File "D:\Programming\Python\DS\crawling_data\Hanoi-Real-Estate-Analysis-and-Prediction\run.py", line 42, in gather
+    address = page.xpath("""//*[@id="product-detail-web"]/span""")[0].text
+IndexError: list index out of range
+
+Success:https://batdongsan.com.vn/ban-nha-biet-thu-lien-ke-duong-nguyen-van-huyen-phuong-phu-thuong-1-prj-khu-do-thi-nam-thang-long-ciputra/ban-shop-house-mat-suat-ngoai-giao-pr33845986
+Success:https://batdongsan.com.vn/ban-nha-rieng-duong-vinh-phuc-phuong-vinh-phuc/dem-khong-gian-que-len-pho-cuc-dep-co-san-55m2-5-tang-ba-dinh-6-2-ty-pr33877014
+Success:https://batdongsan.com.vn/ban-nha-biet-thu-lien-ke-duong-nguyen-duc-thuan-xa-dang-xa-prj-lan-vien-villa/can-tien-tra-no-ngan-hang-ban-shophouse-2-dt-132m-gia-12-4-ti-lh-0855019006-pr35077032
+Excution0: https://batdongsan.com.vn/ban-shophouse-nha-pho-thuong-mai-thi-tran-trau-quy-prj-du-an-thuan-an/sieu-pham-50-ti-hai-phat-can-goc-195m2-mat-ho-lh-0855019006-pr35409051
+Traceback (most recent call last):
+  File "D:\Programming\Python\DS\crawling_data\Hanoi-Real-Estate-Analysis-and-Prediction\run.py", line 117, in run
+    data = self.gather(driver.page_source)
+  File "D:\Programming\Python\DS\crawling_data\Hanoi-Real-Estate-Analysis-and-Prediction\run.py", line 42, in gather
+    address = page.xpath("""//*[@id="product-detail-web"]/span""")[0].text
+IndexError: list index out of range
+
+Success:https://batdongsan.com.vn/ban-shophouse-nha-pho-thuong-mai-thi-tran-trau-quy-prj-du-an-thuan-an/sieu-pham-50-ti-hai-phat-can-goc-195m2-mat-ho-lh-0855019006-pr35409051
+Success:https://batdongsan.com.vn/ban-can-ho-chung-cu-pho-lieu-giai-phuong-ngoc-khanh-prj-vinhomes-metropolis-lieu-giai/mua-nha-cho-con-o-nhung-no-dinh-my-nen-toi-ban-lai-2pn-o-metroplois-giai-pr36015890
+Success:https://batdongsan.com.vn/ban-can-ho-chung-cu-pho-lieu-giai-phuong-ngoc-khanh-prj-vinhomes-metropolis-lieu-giai/vi-tri-khuon-vien-tien-ich-khong-co-nao-sanh-bang-du-an-vinhome-giai-pr35610595
+Success:https://batdongsan.com.vn/ban-nha-biet-thu-lien-ke-duong-ngo-xuan-quang-thi-tran-trau-quy-prj-east-center/tot-nhat-truong-shophouse-song-hong-dt-90m-30m-gia-19-ti-lh-0855019006-pr32107649
+Success:https://batdongsan.com.vn/ban-nha-biet-thu-lien-ke-duong-ngo-xuan-quang-thi-tran-trau-quy-prj-east-center/shophouse-song-hong-kinh-doanh-van-phong-cafe-dt-90m-mt-6m-gia-16-2-ti-lh-0855019006-pr30342884
