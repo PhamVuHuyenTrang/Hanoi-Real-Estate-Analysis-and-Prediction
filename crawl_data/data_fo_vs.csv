@@ -1,0 +1,1794 @@
+,Price,Area,Mặt tiền,Số phòng ngủ,Hướng ban công,Tình trạng pháp lý,Hướng nhà,Số tầng,Bồn cầu,City,District,Name
+0,8000.0,65,None,None,None,None,None,None,None,Hà Nội,Quận Ba Đình,Bán Nhà riêng tại Đường Đào Tấn
+1,2800.0,50,None,None,None,None,None,None,None,Hà Nội,Quận Hà Đông,Bán Nhà riêng tại Đường 6
+2,2200.0,37,None,None,None,None,None,None,None,Hà Nội,Quận Hà Đông,Bán Nhà riêng tại Phường Yên Nghĩa
+3,2850.0,33,None,None,None,None,None,None,None,Hà Nội,Quận Hà Đông,Bán Nhà riêng tại Đường Yên Lộ
+4,950.0,50.0,None,3.0,None,None,None,None,None,Hà Nội,Quận Thanh Xuân,Bán Căn hộ chung cư tại Đường Nguyễn Trãi
+5,1090.0,45.0,None,2.0,None,None,None,None,1.0,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Giải Phóng
+8,2450.0,32,None,None,None,None,None,None,None,Hà Nội,Quận Hà Đông,Bán Nhà riêng tại Đường Tố Hữu
+9,6250.0,39,4m,4.0,None,Sổ hồng,Tây-Bắc,5.0,1.0,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Đường Khương Trung
+10,2600.0,35,None,None,None,None,None,None,None,Hà Nội,Quận Hà Đông,Bán Nhà riêng tại Đường Nghĩa Lộ
+11,Thỏa thuận,"20,6",None,None,None,None,None,None,None,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Phố Cự Lộc
+12,3800.0,30,None,None,None,None,None,None,None,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Lĩnh Nam
+13,4150.0,34,None,None,None,None,None,None,None,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Đại Từ
+14,10000.0,50,None,None,None,None,None,None,None,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Kim Đồng
+15,2720.0,30,None,None,None,None,None,None,None,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Tây Trà
+16,4800.0,45,None,None,None,None,None,None,None,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Tân Mai
+17,25500.0,93,None,None,None,None,None,None,None,Hà Nội,Quận Hoàn Kiếm,Bán Nhà riêng tại Đường Trần Hưng Đạo
+19,Thỏa thuận,53,"3,5m",4.0,None,None,None,5.0,None,Hà Nội,Quận Long Biên,Bán Nhà riêng tại Đường Bồ Đề
+27,2640.0,88,None,None,None,None,None,None,None,Hà Nội,Huyện Đan Phượng,Bán Đất tại Xã Phương Đình
+33,1700.0,66,None,None,None,None,None,None,None,Hà Nội,Huyện Sóc Sơn,Bán Nhà riêng tại Xã Quang Tiến
+34,1350.0,45,None,None,None,None,None,None,None,Hà Nội,Huyện Sóc Sơn,Bán Nhà riêng tại Đường Tân Trại
+35,6300.0,--,"7,5m",4.0,None,Sổ đỏ,None,6.0,1.0,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Đường Trường Chinh
+36,2200.0,127,None,None,None,None,None,None,None,Hà Nội,Huyện Sóc Sơn,Bán Nhà riêng tại Đường 35
+38,3950.0,86,None,None,None,None,None,None,None,Hà Nội,Quận Thanh Xuân,Bán Căn hộ chung cư tại Phố Lê Văn Thiêm
+39,8000.0,40,None,None,None,None,None,None,None,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Đường Hoàng Văn Thái
+40,8000.0,70,None,None,None,None,None,None,None,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Đường Hoàng Văn Thái
+41,8800.0,120,None,6.0,None,Sổ đỏ,None,None,None,Hà Nội,Quận Nam Từ Liêm,Bán Nhà riêng tại Đường Phú Đô
+42,4500.0,52,None,None,None,None,None,None,None,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Đường Hoàng Văn Thái
+43,12000.0,40,None,None,None,None,None,None,None,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Đường Hoàng Văn Thái
+44,22500.0,123,None,None,None,None,None,None,None,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Phường Khương Trung
+45,41680.0,110,None,None,None,None,None,None,None,Hà Nội,Quận Ba Đình,Bán Nhà riêng tại Phố Liễu Giai
+46,39000.0,160,None,None,None,None,None,None,None,Hà Nội,Quận Ba Đình,Bán Nhà riêng tại Phố Kim Mã
+47,5500.0,40,None,None,None,None,None,None,None,Hà Nội,Quận Ba Đình,Bán Nhà riêng tại Đường Lê Hồng Phong
+48,4850.0,36,None,None,None,None,None,None,None,Hà Nội,Quận Ba Đình,Bán Nhà riêng tại Đường Đội Cấn
+49,4650.0,34,None,None,None,None,None,None,None,Hà Nội,Quận Ba Đình,Bán Nhà riêng tại Đường Hoàng Hoa Thám
+58,29800.0,70,None,None,None,None,None,None,None,Hà Nội,Quận Đống Đa,Bán Nhà riêng tại Đường Nguyên Hồng
+59,2880.0,27,None,None,None,None,None,None,None,Hà Nội,Quận Đống Đa,Bán Nhà riêng tại Đường Cát Linh
+60,22000.0,65,None,None,None,None,None,None,None,Hà Nội,Quận Đống Đa,Bán Nhà riêng tại Phố Thái Hà
+61,5200.0,41,None,None,None,None,None,None,None,Hà Nội,Quận Đống Đa,Bán Nhà riêng tại Đường Láng
+62,11500.0,60,None,None,None,None,None,None,None,Hà Nội,Quận Đống Đa,Bán Nhà riêng tại Phố Láng Hạ
+65,2300.0,62,None,None,None,None,None,None,None,Hà Nội,Quận Cầu Giấy,Bán Căn hộ chung cư tại Phố Trần Bình
+69,1950.0,57,None,None,None,None,None,None,None,Hà Nội,Quận Cầu Giấy,Bán Căn hộ chung cư tại Đường Mạc Thái Tông
+74,4350.0,116,None,None,None,None,None,None,None,Hà Nội,Quận Cầu Giấy,Bán Căn hộ chung cư tại Đường Tú Mỡ
+80,3550.0,30,35m,3.0,None,Sổ đỏ,None,4.0,1.0,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Hoàng Mai
+82,800,48,None,None,None,None,None,None,None,Hà Nội,Quận Hoàng Mai,Bán Căn hộ chung cư tại Đường Minh Khai
+84,3100.0,85,None,None,None,None,None,None,None,Hà Nội,Quận Hoàng Mai,Bán Căn hộ chung cư tại Đường Trần Thủ Độ
+86,850.0,42.5,None,2.0,None,Sổ đỏ,None,None,1.0,Hà Nội,Quận Ba Đình,Bán Căn hộ chung cư tại Đường Hoàng Hoa Thám
+89,1025.0,52.5,None,1.0,None,Sổ hồng,None,None,1.0,Hà Nội,Quận Ba Đình,Bán Căn hộ chung cư tại Phố Liễu Giai
+90,740.0,41.0,None,2.0,None,Sổ đỏ,None,None,1.0,Hà Nội,Quận Đống Đa,Bán Căn hộ chung cư tại Đường Hồ Ba Mẫu
+91,825.0,43.5,None,2.0,None,Sổ đỏ,None,None,1.0,Hà Nội,Quận Đống Đa,Bán Căn hộ chung cư tại Phố Khương Thượng
+92,1230.0,61,None,3.0,None,None,None,None,1.0,Hà Nội,Quận Đống Đa,Bán Căn hộ chung cư tại Phường Láng Hạ
+93,875.0,40.0,None,2.0,None,Sổ hồng,None,None,1.0,Hà Nội,Quận Đống Đa,Bán Căn hộ chung cư tại Phường Kim Liên
+94,860.0,43.0,None,2.0,None,Sổ đỏ,None,None,1.0,Hà Nội,Quận Ba Đình,Bán Căn hộ chung cư tại Đường Hoàng Hoa Thám
+95,800.0,45.0,None,2.0,None,Sổ đỏ,None,None,1.0,Hà Nội,Quận Tây Hồ,Bán Căn hộ chung cư tại Đường Bưởi
+96,Thỏa thuận,140,7m,None,None,Sổ hồng,None,None,None,Hà Nội,Quận Long Biên,Bán Đất tại Đường Hoa Lâm
+97,Thỏa thuận,125,11m,None,None,Sổ hồng,None,3.0,None,Hà Nội,Quận Long Biên,Bán Nhà riêng tại Đường Bắc Cầu
+98,3600.0,31.5,35m,None,None,Sổ đỏ,None,5.0,1.0,Hà Nội,Quận Nam Từ Liêm,Bán Nhà riêng tại Đường Lê Quang Đạo
+102,4550.0,35,"3,5m",4.0,None,None,None,6.0,None,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Đường Lê Trọng Tấn
+104,22000.0,81,None,None,None,Sổ đỏ,None,None,1.0,Hà Nội,Quận Cầu Giấy,Bán Nhà riêng tại Đường Quan Hoa
+105,"4,2",35,None,3.0,None,Sổ đỏ,None,5.0,None,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Kim Đồng
+107,Thỏa thuận,64.5,None,2.0,None,Sổ đỏ,None,8.0,1.0,Hà Nội,Quận Nam Từ Liêm,Bán Căn hộ chung cư tại Đường Trần Hữu Dực
+109,18100.0,75,None,None,None,Sổ đỏ,None,None,1.0,Hà Nội,Quận Cầu Giấy,Bán Nhà riêng tại Đường Nguyễn Đình Hoàn
+111,999,16,None,None,None,None,None,None,None,Hà Nội,Huyện Chương Mỹ,Bán Đất tại Thị trấn Xuân Mai
+112,Thỏa thuận,86,None,None,None,None,None,None,None,Hà Nội,Huyện Chương Mỹ,Bán Đất tại Xã Đông Sơn
+114,2350.0,30,"3,65m",3.0,None,Sổ đỏ,Đông-Nam,4.0,1.0,Hà Nội,Huyện Hoài Đức,Bán Nhà riêng tại Phố Đồng Nhân
+115,2600.0,131,None,3.0,None,Sổ đỏ,None,None,None,Hà Nội,Quận Đống Đa,Bán Căn hộ chung cư tại Phố Thái Hà
+116,9200.0,50,None,5.0,None,Sổ đỏ,None,5.0,None,Hà Nội,Quận Cầu Giấy,Bán Nhà riêng tại Đường Hoàng Quốc Việt
+118,4680.0,35,4m,3.0,None,Sổ đỏ,None,5.0,1.0,Hà Nội,Quận Đống Đa,Bán Nhà riêng tại Phố Pháo Đài Láng
+119,13700.0,91,None,4.0,None,Sổ đỏ,None,18.0,None,Hà Nội,Quận Tây Hồ,Bán Căn hộ chung cư tại đường Thụy Khuê
+123,900,50,None,1.0,None,Sổ đỏ,Đông-Bắc,7.0,None,Hà Nội,Quận Đống Đa,Bán Căn hộ chung cư tại Đường Đông Tác
+124,600,27,None,1.0,Đông-Bắc,Sổ đỏ,Nam,8.0,None,Hà Nội,Quận Đống Đa,Bán Căn hộ chung cư tại Đường Đông Tác
+125,1000.0,48,None,2.0,None,Sổ đỏ,Đông-Bắc,6.0,None,Hà Nội,Quận Đống Đa,Bán Căn hộ chung cư tại Đường Đê La Thành
+126,860,35,None,1.0,Đông-Nam,Sổ đỏ,Đông-Nam,6.0,None,Hà Nội,Quận Hoàng Mai,Bán Căn hộ chung cư tại Đường Hoàng Mai
+127,650,35,None,1.0,Đông-Bắc,Sổ đỏ,Đông-Bắc,6.0,None,Hà Nội,Quận Đống Đa,Bán Căn hộ chung cư tại Đường Đông Tác
+128,680,35,None,1.0,Đông-Bắc,Sổ đỏ,Nam,6.0,None,Hà Nội,Quận Hoàng Mai,Bán Căn hộ chung cư tại Đường Hoàng Mai
+129,45000.0,196,8m,None,None,Sổ đỏ,None,4.0,None,Hà Nội,Quận Thanh Xuân,Bán Nhà mặt phố tại Đường Trường Chinh
+130,4250.0,31,None,None,None,None,None,None,None,Hà Nội,Quận Hai Bà Trưng,Bán Nhà riêng tại Phố Lạc Trung
+132,4050.0,35,None,None,None,None,None,None,None,Hà Nội,Quận Bắc Từ Liêm,Bán Nhà riêng tại Phường Phú Diễn
+133,3450.0,38,None,3.0,None,Sổ đỏ,None,5.0,None,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Đặng Xuân Bảng
+134,3300.0,36,None,3.0,None,Sổ đỏ,None,5.0,None,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Đại Từ
+135,4600.0,60,None,4.0,None,Sổ đỏ,None,None,None,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Trương Định
+136,2560.0,85,None,3.0,None,Sổ đỏ,None,None,None,Hà Nội,Quận Hoàng Mai,Bán Căn hộ chung cư tại Đường Linh Đàm
+137,5800.0,55,"3,3m",None,None,Sổ hồng,Tây-Nam,None,None,Hà Nội,Quận Hà Đông,Bán Đất tại Phố Bà Triệu
+138,3500.0,37,"6,4m",4.0,None,None,None,4.0,1.0,Hà Nội,Quận Hà Đông,Bán Nhà riêng tại Đường Lê Trọng Tấn
+139,8000.0,45,"3,5m",4.0,None,Sổ đỏ,None,6.0,1.0,Hà Nội,Quận Hà Đông,Bán Nhà riêng tại Đường Quang Trung
+140,3250.0,36,None,4.0,None,Sổ đỏ,None,5.0,None,Hà Nội,Huyện Thanh Trì,Bán Nhà riêng tại Đường Kim Giang
+141,7000.0,55,None,None,None,Sổ đỏ,Tây-Bắc,8.0,None,Hà Nội,Quận Hà Đông,Bán Căn hộ chung cư tại Đường Yên Xá
+142,Thỏa thuận,43,None,None,None,None,None,None,None,Hà Nội,Quận Nam Từ Liêm,Bán Nhà riêng tại đường Mỹ Đình
+143,4200.0,40,5m,4.0,None,Sổ đỏ,None,4.0,1.0,Hà Nội,Quận Hà Đông,Bán Nhà riêng tại Phường La Khê
+144,28000.0,140,"8,5m",4.0,None,None,None,8.0,1.0,Hà Nội,Quận Tây Hồ,Bán Nhà mặt phố tại Đường Lạc Long Quân
+146,58000.0,65,"5,5m",4.0,None,Sổ đỏ,None,3.0,1.0,Hà Nội,Quận Hoàn Kiếm,Bán Nhà mặt phố tại Phố Hàng Buồm
+147,14000.0,40,4m,4.0,None,Sổ đỏ,None,8.0,1.0,Hà Nội,Quận Cầu Giấy,Bán Nhà mặt phố tại Đường Dương Khuê
+148,17500.0,60,"5,5m",4.0,None,Sổ đỏ,Tây-Bắc,4.0,1.0,Hà Nội,Quận Cầu Giấy,Bán Nhà mặt phố tại Phố Phạm Tuấn Tài
+149,57500.0,65,"5,5m",3.0,None,Sổ đỏ,None,3.0,1.0,Hà Nội,Quận Hoàn Kiếm,Bán Nhà mặt phố tại Đường Đào Duy Từ
+152,16000.0,50,5m,4.0,None,Sổ đỏ,Tây-Bắc,4.0,1.0,Hà Nội,Quận Cầu Giấy,Bán Nhà mặt phố tại Đường Hoàng Quốc Việt
+153,4050.0,38,None,None,None,None,None,None,None,Hà Nội,Quận Nam Từ Liêm,Bán Đất tại Phường Phương Canh
+155,2350.0,55,None,None,None,None,None,None,None,Hà Nội,Huyện Hoài Đức,Bán Đất tại Xã Di Trạch
+156,1920.0,88,None,None,None,None,None,None,None,Hà Nội,Huyện Ba Vì,Bán Đất tại Xã Yên Bài
+157,18500.0,244,None,None,None,None,None,None,None,Hà Nội,Quận Nam Từ Liêm,Bán Căn hộ chung cư tại đường Mỹ Đình
+161,4200.0,90,"7,5m",1.0,None,Sổ đỏ,None,1.0,1.0,Hà Nội,Quận Cầu Giấy,Bán Nhà riêng tại Phường Nghĩa Tân
+170,4450.0,36,"3,5m",4.0,None,Sổ đỏ,None,4.0,1.0,Hà Nội,Quận Đống Đa,Bán Nhà riêng tại Đường Yên Lãng
+171,13000.0,71,None,None,None,Sổ đỏ,None,None,None,Hà Nội,Quận Long Biên,Bán Nhà riêng tại Phố Hồng Tiến
+173,2680.0,64,None,None,None,None,None,None,None,Hà Nội,Quận Nam Từ Liêm,Bán Căn hộ chung cư tại Phường Tây Mỗ
+174,4690.0,45,5m,4.0,None,None,None,5.0,1.0,Hà Nội,Quận Hai Bà Trưng,Bán Nhà riêng tại Đường Minh Khai
+179,5250.0,42,None,4.0,None,None,None,4.0,1.0,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Đường Nguyễn Trãi
+184,11800.0,75,5m,None,None,None,None,5.0,None,Hà Nội,Quận Thanh Xuân,Bán Nhà mặt phố tại Phố Vũ Tông Phan
+185,Thỏa thuận,1057,26m,None,None,None,None,None,None,Hà Nội,Huyện Chương Mỹ,Bán Đất tại Đường 21
+186,3500.0,30,3m,3.0,None,Sổ đỏ,None,5.0,1.0,Hà Nội,Quận Đống Đa,Bán Nhà riêng tại Đường Thịnh Quang
+187,26980.0,65,None,None,None,None,None,None,None,Hà Nội,Quận Đống Đa,Bán Nhà riêng tại Đường Nguyên Hồng
+188,4350.0,38,None,3.0,None,Sổ đỏ,None,None,None,Hà Nội,Quận Đống Đa,Bán Nhà riêng tại Đường Thịnh Quang
+189,8900.0,78,None,None,None,None,None,None,None,Hà Nội,Quận Đống Đa,Bán Nhà riêng tại Phố Xã Đàn
+190,26980.0,65,None,None,None,None,None,None,None,Hà Nội,Quận Đống Đa,Bán Nhà riêng tại Đường Huỳnh Thúc Kháng
+191,8600.0,40,None,None,None,None,None,None,None,Hà Nội,Quận Đống Đa,Bán Nhà riêng tại Phố Thái Hà
+192,8400.0,68,None,None,None,None,None,None,None,Hà Nội,Quận Đống Đa,Bán Nhà riêng tại Phố Thái Thịnh
+193,7000.0,42,None,None,None,None,None,None,None,Hà Nội,Quận Cầu Giấy,Bán Nhà riêng tại Phố Trung Kính
+194,14800.0,55,None,None,None,None,None,None,None,Hà Nội,Quận Cầu Giấy,Bán Nhà riêng tại Phố Trung Kính
+195,9000.0,70,None,None,None,None,None,None,None,Hà Nội,Quận Cầu Giấy,Bán Nhà riêng tại Phố Trung Kính
+196,3900.0,33,None,None,None,None,None,None,None,Hà Nội,Quận Cầu Giấy,Bán Nhà riêng tại Phố Trung Kính
+197,5800.0,48,None,None,None,None,None,None,None,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Phố Khương Hạ
+198,4500.0,30,None,None,None,None,None,None,None,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Phố Khương Hạ
+199,"4,8",33,None,None,None,None,None,None,None,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Đường Bùi Xương Trạch
+200,4200.0,42,None,None,None,None,None,None,None,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Đường Khương Đình
+201,6000.0,58,None,None,None,None,None,None,None,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Đường Khương Đình
+202,78000.0,356,None,None,None,Sổ đỏ,Nam,None,None,Hà Nội,Quận Ba Đình,Bán Nhà riêng tại Đường Giang Văn Minh
+203,6200.0,45,"4,5m",4.0,None,Sổ đỏ,None,5.0,1.0,Hà Nội,Quận Cầu Giấy,Bán Nhà riêng tại Đường Phạm Văn Đồng
+204,5350.0,42,4m,4.0,None,None,None,4.0,1.0,Hà Nội,Quận Hai Bà Trưng,Bán Nhà riêng tại Đường Thanh Nhàn
+205,11500.0,90,None,2.0,None,Sổ đỏ,None,None,None,Hà Nội,Quận Cầu Giấy,Bán Nhà riêng tại Đường Nguyễn Khánh Toàn
+206,Thỏa thuận,1058,None,None,None,Sổ đỏ,None,None,None,Hà Nội,Huyện Chương Mỹ,Bán Đất tại Đường Hồ Chí Minh
+207,9000.0,40,None,None,None,None,None,None,None,Hà Nội,Quận Ba Đình,Bán Nhà riêng tại Đường Đào Tấn
+208,23400.0,81,None,None,None,None,None,None,None,Hà Nội,Quận Ba Đình,Bán Nhà riêng tại Đường Đào Tấn
+209,4900.0,35,36m,4.0,None,Sổ hồng,None,6.0,None,Hà Nội,Quận Nam Từ Liêm,Bán Nhà riêng tại Đường Lê Quang Đạo
+210,17900.0,91,None,None,None,None,None,None,None,Hà Nội,Quận Ba Đình,Bán Nhà riêng tại Đường Đào Tấn
+211,5100.0,30,None,None,None,None,None,None,None,Hà Nội,Quận Ba Đình,Bán Nhà riêng tại Đường Đào Tấn
+212,13800.0,50,None,None,None,None,None,None,None,Hà Nội,Quận Ba Đình,Bán Nhà riêng tại Đường Đào Tấn
+214,1850.0,31,None,None,None,None,None,None,None,Hà Nội,Quận Hà Đông,Bán Nhà riêng tại Phường Yên Nghĩa
+215,2600.0,35,None,None,None,None,None,None,None,Hà Nội,Quận Hà Đông,Bán Nhà riêng tại Phường Yên Nghĩa
+217,2800.0,50,None,None,None,None,None,None,None,Hà Nội,Quận Hà Đông,Bán Nhà riêng tại Đường Quang Trung
+218,2450.0,30,None,None,None,None,None,None,None,Hà Nội,Quận Hà Đông,Bán Nhà riêng tại Phường Yên Nghĩa
+219,1890.0,33,None,None,None,None,None,None,None,Hà Nội,Quận Hà Đông,Bán Nhà riêng tại Đường Yên Bình
+220,4000.0,52,None,None,None,None,None,None,None,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Phường Tân Mai
+222,6850.0,35,None,None,None,None,None,None,None,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Trần Nguyên Đán
+223,3800.0,46,None,None,None,None,None,None,None,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Đặng Xuân Bảng
+224,4350.0,48,None,None,None,None,None,None,None,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Kim Giang
+225,4700.0,45,None,None,None,None,None,None,None,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Kim Giang
+226,3000.0,21,None,None,None,None,None,None,None,Hà Nội,Quận Hoàn Kiếm,Bán Nhà riêng tại Phố Hàng Bông
+231,49000.0,168,None,None,None,None,None,None,None,Hà Nội,liền kề tại Quận Long Biên,Bán Nhà biệt thự
+236,2400.0,43,36m,2.0,None,None,Đông-Nam,2.0,None,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Giải Phóng
+237,5400.0,48,None,None,None,None,None,None,None,Hà Nội,Quận Ba Đình,Bán Nhà riêng tại Đường Hoàng Hoa Thám
+238,Thỏa thuận,116,None,None,None,None,None,None,None,Hà Nội,Quận Tây Hồ,Bán Nhà mặt phố tại Đường Tô Ngọc Vân
+239,3000.0,35,None,4.0,None,Sổ đỏ,Tây-Nam,None,None,Hà Nội,Quận Long Biên,Bán Nhà riêng tại Đường Nguyễn Văn Linh
+240,3200.0,135,None,3.0,None,Sổ đỏ,None,None,None,Hà Nội,Quận Hà Đông,Bán Căn hộ chung cư tại Đường Quang Trung
+241,2950.0,68,None,2.0,None,Sổ đỏ,None,None,1.0,Hà Nội,Quận Cầu Giấy,Bán Căn hộ chung cư tại Đường Yên Hòa
+242,1650.0,35,None,None,None,None,None,None,None,Hà Nội,Huyện Hoài Đức,Bán Đất tại Xã Kim Chung
+243,2700.0,170,None,None,None,None,None,None,None,Hà Nội,Quận Bắc Từ Liêm,Bán Đất nền dự án tại Đường 32
+244,4500.0,60,None,None,None,None,None,None,None,Hà Nội,Huyện Hoài Đức,Bán Đất tại Đường Đại lộ Thăng Long
+245,6900.0,230,None,None,None,None,None,None,None,Hà Nội,Huyện Hoài Đức,Bán Đất tại Xã La Phù
+246,2300.0,38,None,None,None,None,None,None,None,Hà Nội,Huyện Hoài Đức,Bán Đất tại Đường Lai Xá
+247,4600.0,61,None,None,None,None,None,None,None,Hà Nội,Huyện Hoài Đức,Bán Đất tại Xã Kim Chung
+248,1150.0,40,None,None,None,None,None,None,None,Hà Nội,Huyện Chương Mỹ,Bán Đất tại Xã Tiên Phương
+249,2300.0,534,None,None,None,None,None,None,None,Hà Nội,Huyện Chương Mỹ,Bán Đất tại Xã Hoàng Văn Thụ
+250,1000.0,50,None,None,None,None,None,None,None,Hà Nội,Huyện Chương Mỹ,Bán Đất tại Xã Phụng Châu
+252,850,48,None,None,None,None,None,None,None,Hà Nội,Huyện Chương Mỹ,Bán Đất tại Xã Phụng Châu
+254,650,22,None,1.0,None,None,None,None,None,Hà Nội,Quận Hoàng Mai,Bán Căn hộ chung cư tại Đường Giải Phóng
+256,8600.0,102,None,None,None,None,None,None,None,Hà Nội,Quận Ba Đình,Bán Căn hộ chung cư tại Phố Láng Hạ
+258,3990.0,50,None,None,None,None,None,None,None,Hà Nội,Quận Ba Đình,Bán Căn hộ chung cư tại Đường Trần Huy Liệu
+259,7350.0,98,None,None,None,None,None,None,None,Hà Nội,Quận Long Biên,Bán Đất tại Phường Thạch Bàn
+260,5500.0,85,None,None,None,None,None,None,None,Hà Nội,Quận Long Biên,Bán Đất tại Phường Phúc Đồng
+261,8520.0,66,None,None,None,None,None,None,None,Hà Nội,Quận Long Biên,Bán Đất tại Phường Thạch Bàn
+262,7600.0,80,None,None,None,None,None,None,None,Hà Nội,Quận Long Biên,Bán Đất tại Đường Bát Khối
+263,8000.0,175,None,None,None,None,None,None,None,Hà Nội,Quận Long Biên,Bán Đất tại Đường Huỳnh Văn Nghệ
+264,1250.0,14,None,3.0,None,None,None,4.0,None,Hà Nội,Quận Hoàn Kiếm,Bán Nhà riêng tại Phố Hàng Vải
+266,16000.0,115,6m,4.0,None,None,None,5.0,1.0,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Đường Cù Chính Lan
+267,14500.0,75,5m,4.0,None,Sổ đỏ,None,4.0,1.0,Hà Nội,Quận Thanh Xuân,Bán Nhà mặt phố tại Đường Vương Thừa Vũ
+268,1075.0,42.5,None,1.0,None,Giấy tờ hợp lệ,None,6.0,1.0,Hà Nội,Quận Hoàng Mai,Bán Căn hộ chung cư tại Ngõ Gốc Đề
+269,169000.0,700,None,None,None,None,None,None,None,Hà Nội,Quận Hà Đông,Bán Đất tại Đường Lê Trọng Tấn
+270,3100.0,40,None,None,None,None,None,None,None,Hà Nội,Quận Hà Đông,Bán Đất tại Đường Trần Phú
+271,5750.0,61,None,None,None,None,None,None,None,Hà Nội,Quận Hà Đông,Bán Đất tại Phường Nguyễn Trãi
+272,1500.0,69,None,None,None,None,None,None,None,Hà Nội,Quận Hà Đông,Bán Đất tại Phố Bà Triệu
+273,Thỏa thuận,75,5m,4.0,None,None,None,5.0,1.0,Hà Nội,Quận Thanh Xuân,Bán Nhà mặt phố tại Đường Tô Vĩnh Diện
+274,1300.0,50,None,1.0,None,Sổ đỏ,None,None,None,Hà Nội,Quận Hoàng Mai,Bán Căn hộ chung cư tại Đường Giải Phóng
+275,15000.0,115,6m,4.0,None,Sổ đỏ,None,5.0,None,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Đường Nguyễn Ngọc Nại
+280,3100.0,87,None,None,None,None,None,None,None,Hà Nội,Quận Cầu Giấy,Bán Căn hộ chung cư tại Phố Nguyễn Ngọc Vũ
+281,17900.0,125,6m,4.0,None,None,None,5.0,None,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Đường Hoàng Văn Thái
+283,"5,4",64,None,None,None,None,None,None,None,Hà Nội,Quận Hai Bà Trưng,Bán Nhà riêng tại Đường Dương Văn Bé
+284,6600.0,48,None,None,None,None,None,None,None,Hà Nội,Quận Hai Bà Trưng,Bán Nhà riêng tại Đường Minh Khai
+285,5250.0,30,None,None,None,None,None,None,None,Hà Nội,Quận Hai Bà Trưng,Bán Nhà riêng tại Đường Minh Khai
+286,"5,8",40,None,None,None,None,None,None,None,Hà Nội,Quận Hai Bà Trưng,Bán Nhà riêng tại Đường Minh Khai
+287,5250.0,40,None,None,None,None,None,None,None,Hà Nội,Quận Hai Bà Trưng,Bán Nhà riêng tại Phố Đại La
+288,21000.0,175,"8,5m",None,None,None,None,None,None,Hà Nội,Quận Long Biên,Bán Đất tại Phố Sài Đồng
+293,3140.0,74,None,None,None,None,None,None,None,Hà Nội,Huyện Gia Lâm,Bán Căn hộ chung cư tại Xã Dương Xá
+294,3800.0,35,None,4.0,None,Sổ đỏ,None,5.0,None,Hà Nội,Quận Nam Từ Liêm,Bán Nhà riêng tại Đường Phú Đô
+297,4250.0,47,"6,6m",4.0,None,Sổ đỏ,None,5.0,1.0,Hà Nội,Quận Cầu Giấy,Bán Nhà riêng tại Đường Hoàng Quốc Việt
+298,Thỏa thuận,70.5,None,None,None,Sổ hồng,Tây-Bắc,None,None,Hà Nội,Quận Nam Từ Liêm,Bán Căn hộ chung cư tại Đường 70
+301,Thỏa thuận,57,4m,4.0,None,Sổ đỏ,None,5.0,1.0,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Tây Trà
+302,10200.0,95,None,None,None,None,None,None,None,Hà Nội,Quận Cầu Giấy,Bán Nhà riêng tại Đường Yên Hòa
+303,13000.0,90,None,None,None,None,None,None,None,Hà Nội,Quận Cầu Giấy,Bán Nhà riêng tại Đường Đông Quan
+304,26800.0,60,None,None,None,None,None,None,None,Hà Nội,Quận Cầu Giấy,Bán Nhà riêng tại Đường Nguyễn Chánh
+305,13500.0,100,None,None,None,None,None,None,None,Hà Nội,Quận Cầu Giấy,Bán Nhà riêng tại Đường Nguyễn Khang
+306,8900.0,75,None,None,None,None,None,None,None,Hà Nội,Quận Cầu Giấy,Bán Nhà riêng tại Đường Đặng Thùy Trâm
+307,3120.0,32,None,None,None,None,None,None,None,Hà Nội,Quận Long Biên,Bán Nhà riêng tại Đường Nguyễn Văn Cừ
+308,9800.0,60,None,None,None,None,None,None,None,Hà Nội,Quận Long Biên,Bán Nhà riêng tại Phường Thạch Bàn
+309,1280.0,48,None,2.0,None,Sổ hồng,None,None,None,Hà Nội,Quận Đống Đa,Bán Căn hộ chung cư tại Phố Hào Nam
+310,6900.0,52,None,None,None,None,None,None,None,Hà Nội,Quận Long Biên,Bán Nhà riêng tại Đường Bồ Đề
+311,7600.0,58,None,None,None,None,None,None,None,Hà Nội,Quận Long Biên,Bán Nhà riêng tại Đường Vũ Xuân Thiều
+312,5100.0,45,None,None,None,None,None,None,None,Hà Nội,Quận Long Biên,Bán Nhà riêng tại Đường Thanh Am
+313,18700.0,85,None,None,None,Sổ đỏ,Tây-Bắc,None,None,Hà Nội,Quận Thanh Xuân,Bán Nhà phố thương mại Shophouse tại Đường Nguyễn Xiển
+315,Thỏa thuận,50,5m,4.0,None,Sổ đỏ,None,6.0,1.0,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Phố Yên Duyên
+317,950,46,None,2.0,None,None,None,None,None,Hà Nội,Quận Đống Đa,Bán Căn hộ chung cư tại Đường Thổ Quan
+318,850,48,None,2.0,None,None,None,None,None,Hà Nội,Quận Hoàng Mai,Bán Căn hộ chung cư tại Đường Hoàng Mai
+319,850,48,None,2.0,None,None,None,None,None,Hà Nội,Quận Hai Bà Trưng,Bán Căn hộ chung cư tại Đường Minh Khai
+320,930,48,None,2.0,None,None,Tây-Bắc,None,None,Hà Nội,Quận Đống Đa,Bán Căn hộ chung cư tại Phố Xã Đàn
+321,800.0,45.0,None,1.0,None,None,None,None,1.0,Hà Nội,Quận Bắc Từ Liêm,Bán Căn hộ chung cư tại Đường Xuân Đỉnh
+322,880.0,45.0,None,2.0,None,None,None,None,None,Hà Nội,Quận Ba Đình,Bán Căn hộ chung cư tại Đường Giang Văn Minh
+323,875.0,50.0,None,2.0,None,Sổ hồng,None,None,None,Hà Nội,Quận Đống Đa,Bán Căn hộ chung cư tại Phố Phương Mai
+324,900.0,44.0,None,2.0,None,None,None,None,None,Hà Nội,Quận Tây Hồ,Bán Căn hộ chung cư tại Đường Bưởi
+326,2900.0,76,None,3.0,None,None,None,None,None,Hà Nội,Quận Nam Từ Liêm,Bán Căn hộ chung cư tại Đường Đại lộ Thăng Long
+329,3250.0,45,None,1.0,None,Sổ đỏ,None,1.0,None,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Trương Định
+331,6200.0,42,4m,3.0,None,Sổ đỏ,None,5.0,1.0,Hà Nội,Quận Cầu Giấy,Bán Nhà riêng tại Đường Hạ Yên
+332,800,52,None,2.0,Nam,None,None,6.0,None,Hà Nội,Quận Hoàng Mai,Bán Căn hộ chung cư tại Đường Đại Từ
+333,4250.0,45,None,None,None,Sổ đỏ,None,None,None,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Trương Định
+334,Thỏa thuận,50,None,None,None,None,None,None,None,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Tam Trinh
+338,9000.0,85,None,None,None,Sổ đỏ,None,None,None,Hà Nội,Quận Cầu Giấy,Bán Nhà riêng tại Phố Phùng Chí Kiên
+343,Thỏa thuận,51,None,None,None,None,None,None,None,Hà Nội,Quận Đống Đa,Bán Nhà riêng tại Phố Mai Anh Tuấn
+345,Thỏa thuận,96,None,2.0,None,Sổ đỏ,Đông-Nam,8.0,1.0,Hà Nội,Quận Đống Đa,Bán Căn hộ chung cư tại Đường Trường Chinh
+349,3450.0,82,None,2.0,None,Sổ đỏ,None,None,1.0,Hà Nội,Quận Cầu Giấy,Bán Căn hộ chung cư tại Phố Trung Kính
+350,Thỏa thuận,44,4m,None,None,None,None,None,None,Hà Nội,Huyện Hoài Đức,Bán Đất tại Phố 72
+352,6500.0,86,7m,None,None,None,None,None,None,Hà Nội,Quận Bắc Từ Liêm,Bán Đất tại Đường Thụy Phương
+353,1135.0,49.0,None,2.0,None,Sổ đỏ,None,6.0,1.0,Hà Nội,Quận Đống Đa,Bán Căn hộ chung cư tại Đường Phạm Ngọc Thạch
+354,875.0,46.5,None,2.0,None,Sổ đỏ,Đông-Bắc,6.0,1.0,Hà Nội,Quận Đống Đa,Bán Căn hộ chung cư tại Phố Tôn Đức Thắng
+355,1015.0,45.0,None,2.0,None,Sổ đỏ,None,6.0,1.0,Hà Nội,Quận Hoàng Mai,Bán Căn hộ chung cư tại Đường Giải Phóng
+356,1005.0,44.0,None,2.0,None,Sổ đỏ,None,6.0,1.0,Hà Nội,Quận Đống Đa,Bán Căn hộ chung cư tại Đường Trần Quý Cáp
+357,10200.0,45,"4,2m",4.0,None,Sổ đỏ,None,4.0,1.0,Hà Nội,Quận Cầu Giấy,Bán Nhà riêng tại Phố Phạm Tuấn Tài
+363,800.0,45.0,None,2.0,Đông-Nam,None,None,3.0,1.0,Hà Nội,Quận Ba Đình,Bán Căn hộ chung cư tại Ngõ 279 Đội Cấn
+365,5300.0,155,None,4.0,None,Sổ đỏ,None,None,1.0,Hà Nội,Quận Đống Đa,Bán Căn hộ chung cư tại Đường Nguyễn Chí Thanh
+367,5500.0,50,"4,8m",4.0,None,None,None,5.0,None,Hà Nội,Quận Hai Bà Trưng,Bán Nhà riêng tại Đường Trương Định
+368,15000.0,70,7m,4.0,None,Sổ đỏ,None,4.0,1.0,Hà Nội,Quận Cầu Giấy,Bán Nhà mặt phố tại Phố Phan Văn Trường
+369,3900.0,30,3m,3.0,None,None,None,5.0,None,Hà Nội,Quận Hai Bà Trưng,Bán Nhà riêng tại Đường Minh Khai
+370,11950.0,75,"4,5m",4.0,None,None,None,4.0,None,Hà Nội,Quận Nam Từ Liêm,Bán Nhà mặt phố tại Đường Đại Mỗ
+371,6600.0,106,None,3.0,Đông-Nam,Sổ đỏ,Tây-Bắc,None,1.0,Hà Nội,Quận Thanh Xuân,Bán Căn hộ chung cư tại Phố Ngụy Như Kon Tum
+372,3330.0,38,None,3.0,None,Sổ đỏ,None,5.0,None,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Định Công Thượng
+373,58000.0,65,"5,5m",3.0,None,Sổ đỏ,Đông-Nam,3.0,1.0,Hà Nội,Quận Hoàn Kiếm,Bán Nhà mặt phố tại Đường Đào Duy Từ
+375,5900.0,60,None,4.0,None,Sổ đỏ,None,5.0,None,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Định Công
+376,15500.0,156,None,None,None,None,None,None,None,Hà Nội,Quận Cầu Giấy,Bán Nhà riêng tại Phố Trung Kính
+377,3300.0,23,None,None,None,None,None,None,None,Hà Nội,Quận Tây Hồ,Bán Nhà riêng tại Đường Âu Cơ
+378,7500.0,32,None,None,None,None,None,None,None,Hà Nội,Quận Tây Hồ,Bán Nhà riêng tại Đường Võng Thị
+380,7500.0,32,None,None,None,None,None,None,None,Hà Nội,Quận Tây Hồ,Bán Nhà riêng tại Đường Võng Thị
+381,28000.0,130,5m,None,None,Sổ đỏ,None,6.0,None,Hà Nội,Quận Cầu Giấy,Bán Nhà mặt phố tại Đường Trần Duy Hưng
+382,28000.0,120,None,None,None,None,None,None,None,Hà Nội,Quận Tây Hồ,Bán Nhà riêng tại Đường Tô Ngọc Vân
+383,9500.0,45,None,None,None,None,None,None,None,Hà Nội,Quận Tây Hồ,Bán Nhà riêng tại Đường Võng Thị
+384,2000.0,34,None,None,None,None,None,None,None,Hà Nội,Quận Hà Đông,Bán Nhà riêng tại Đường Quang Trung
+385,2800.0,51,None,None,None,None,None,None,None,Hà Nội,Quận Hà Đông,Bán Nhà riêng tại Phường Yên Nghĩa
+386,2350.0,33,None,None,None,None,None,None,None,Hà Nội,Quận Hà Đông,Bán Nhà riêng tại Phường Yên Nghĩa
+387,6950.0,50,None,None,None,None,None,None,None,Hà Nội,Quận Hà Đông,Bán Nhà riêng tại Phường Kiến Hưng
+389,5800.0,41,None,None,None,None,None,None,None,Hà Nội,Quận Đống Đa,Bán Nhà riêng tại Phố Pháo Đài Láng
+390,900,46,None,2.0,None,Sổ đỏ,None,7.0,None,Hà Nội,Quận Đống Đa,Bán Căn hộ chung cư tại Phố Hào Nam
+392,"4,8",31,None,None,None,Sổ hồng,None,None,None,Hà Nội,Quận Hai Bà Trưng,Bán Nhà riêng tại Đường Võ Thị Sáu
+393,860,55,None,None,None,None,None,None,None,Hà Nội,Quận Đống Đa,Bán Căn hộ chung cư tại Phố Giảng Võ
+394,3150.0,40,None,6.0,None,Sổ đỏ,None,None,None,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Nam Dư
+396,17600.0,110,None,None,None,Sổ đỏ,None,None,None,Hà Nội,Quận Cầu Giấy,Bán Nhà riêng tại Đường Hoàng Quốc Việt
+397,1550.0,30,"3,2m",None,None,Sổ đỏ,Tây-Nam,None,None,Hà Nội,Quận Hà Đông,Bán Đất tại Đường Quốc lộ 6
+398,Thỏa thuận,422.5,15m,None,None,Sổ hồng,Đông-Nam,None,None,Hà Nội,Huyện Quốc Oai,Bán Đất tại Xã Đông Xuân
+399,Thỏa thuận,60,4m,3.0,None,None,None,3.0,1.0,Hà Nội,Quận Hà Đông,Bán Nhà riêng tại Đường Lê Lợi
+400,5800.0,39,None,None,None,Sổ hồng,None,None,None,Hà Nội,Quận Đống Đa,Bán Nhà riêng tại Đường Nguyễn Chí Thanh
+401,4200.0,50,None,None,None,Sổ đỏ,None,None,None,Hà Nội,Quận Hoàn Kiếm,Bán Căn hộ chung cư tại Phố Hai Bà Trưng
+402,18500.0,85,None,7.0,None,Sổ đỏ,None,None,None,Hà Nội,Quận Tây Hồ,Bán Nhà riêng tại Đường Đặng Thai Mai
+403,7500.0,45,5m,4.0,None,None,None,5.0,1.0,Hà Nội,Quận Long Biên,Bán Nhà riêng tại Đường Ngọc Thụy
+404,3600.0,46,10m,None,None,Sổ đỏ,Đông-Nam,None,None,Hà Nội,Quận Hà Đông,Bán Đất tại Đường Văn Phú
+405,21500.0,100,None,13.0,None,Sổ đỏ,None,None,None,Hà Nội,Quận Tây Hồ,Bán Nhà riêng tại Đường Võng Thị
+406,"12,7",85,6m,4.0,None,Sổ đỏ,None,5.0,1.0,Hà Nội,Quận Đống Đa,Bán Nhà mặt phố tại Phố Khương Thượng
+407,1740.0,120,None,None,None,None,None,None,None,Hà Nội,Huyện Quốc Oai,Bán Đất tại Xã Phú Cát
+408,1700.0,80,None,None,None,None,None,None,None,Hà Nội,Huyện Quốc Oai,Bán Đất tại Xã Đông Xuân
+409,1200.0,60,None,None,None,None,None,None,None,Hà Nội,Huyện Quốc Oai,Bán Đất tại Đường 21
+410,1360.0,62,None,None,None,None,None,None,None,Hà Nội,Huyện Quốc Oai,Bán Đất tại Đường Đại lộ Thăng Long
+411,4100.0,93,None,None,None,None,None,None,None,Hà Nội,Quận Thanh Xuân,Bán Căn hộ chung cư tại Phố Lê Văn Thiêm
+412,37000.0,150,None,None,None,None,None,None,None,Hà Nội,Quận Ba Đình,Bán Nhà riêng tại Phố Kim Mã
+413,7400.0,50,None,None,None,None,None,None,None,Hà Nội,Quận Ba Đình,Bán Nhà riêng tại Đường Văn Cao
+414,7400.0,50,None,None,None,None,None,None,None,Hà Nội,Quận Ba Đình,Bán Nhà riêng tại Đường Văn Cao
+415,5500.0,48,None,None,None,None,None,None,None,Hà Nội,Quận Ba Đình,Bán Nhà riêng tại Phố Kim Mã
+416,4500.0,42,None,None,None,None,None,None,None,Hà Nội,Quận Ba Đình,Bán Nhà riêng tại Đường Hoàng Hoa Thám
+418,3850.0,86,None,None,None,None,None,None,None,Hà Nội,Quận Thanh Xuân,Bán Căn hộ chung cư tại Phố Lê Văn Thiêm
+419,4900.0,118,None,None,None,None,None,None,None,Hà Nội,Quận Thanh Xuân,Bán Căn hộ chung cư tại Phố Lê Văn Thiêm
+420,3800.0,93,None,None,None,None,None,None,None,Hà Nội,Quận Thanh Xuân,Bán Căn hộ chung cư tại Phố Lê Văn Thiêm
+425,Thỏa thuận,35,"5,2m",4.0,None,Sổ đỏ,None,4.0,None,Hà Nội,Quận Hoàn Kiếm,Bán Nhà mặt phố tại Phố Hàng Bông
+427,31000.0,86,None,None,None,Sổ đỏ,None,None,None,Hà Nội,Quận Hoàn Kiếm,Bán Nhà riêng tại Đường Lý Nam Đế
+429,8300.0,35,None,None,None,None,None,None,None,Hà Nội,Quận Hai Bà Trưng,Bán Nhà riêng tại Đường Minh Khai
+430,2480.0,27,None,2.0,None,Sổ đỏ,None,3.0,1.0,Hà Nội,Quận Đống Đa,Bán Nhà riêng tại Đường Thịnh Quang
+431,6800.0,124,None,None,None,None,None,None,None,Hà Nội,Quận Cầu Giấy,Bán Căn hộ chung cư tại Đường Xuân Thủy
+435,8000.0,52,None,None,None,None,None,None,None,Hà Nội,Quận Đống Đa,Bán Nhà riêng tại Đường Đê La Thành
+436,38000.0,32,None,None,None,None,None,None,None,Hà Nội,Quận Đống Đa,Bán Nhà riêng tại Phố Xã Đàn
+437,3200.0,22,None,None,None,None,None,None,None,Hà Nội,Quận Đống Đa,Bán Nhà riêng tại Phố Khương Thượng
+438,16000.0,60,None,None,None,None,None,None,None,Hà Nội,Quận Đống Đa,Bán Nhà riêng tại Đường Láng
+441,600,35,None,2.0,None,Sổ hồng,None,6.0,1.0,Hà Nội,Quận Hai Bà Trưng,Bán Căn hộ chung cư tại Phố Phố Vọng
+442,790,55,None,None,None,Sổ hồng,Đông,None,1.0,Hà Nội,Quận Hai Bà Trưng,Bán Căn hộ chung cư tại Đường Đê Trần Khát Chân
+443,Thỏa thuận,42,"5,3m",4.0,None,Sổ đỏ,None,5.0,1.0,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Đường Lê Trọng Tấn
+444,10500.0,450,None,None,None,Sổ đỏ,None,None,None,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Đường Tô Vĩnh Diện
+445,52000.0,1500,7m,4.0,None,Sổ đỏ,None,12.0,1.0,Hà Nội,Quận Ba Đình,Bán Nhà mặt phố tại Phố Kim Mã
+446,20500.0,500,4m,4.0,None,Sổ đỏ,None,7.0,1.0,Hà Nội,Quận Hà Đông,Bán Nhà mặt phố tại Đường Chiến Thắng
+447,600,30,None,2.0,None,Sổ đỏ,None,6.0,1.0,Hà Nội,Quận Tây Hồ,Bán Căn hộ chung cư tại Đường Lạc Long Quân
+448,18000.0,1800,15m,4.0,None,Sổ đỏ,None,8.0,1.0,Hà Nội,Quận Nam Từ Liêm,Bán Nhà mặt phố tại Đường Phùng Khoang
+449,600,30,None,2.0,None,Sổ đỏ,None,5.0,1.0,Hà Nội,Quận Hoàng Mai,Bán Căn hộ chung cư tại Đường Đền Lừ
+451,2900.0,33,None,3.0,None,Sổ đỏ,None,None,None,Hà Nội,Quận Long Biên,Bán Nhà riêng tại Đường Thượng Thanh
+453,3800.0,60,None,2.0,None,Sổ đỏ,None,None,1.0,Hà Nội,Quận Hoàn Kiếm,Bán Căn hộ chung cư tại Đường Vọng Đức
+471,580,28,None,None,None,Sổ đỏ,None,None,1.0,Hà Nội,Quận Đống Đa,Bán Căn hộ chung cư tại Phố Xã Đàn
+477,12000.0,40,4m,3.0,None,Sổ đỏ,None,4.0,1.0,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Đường Hoàng Văn Thái
+480,11900.0,55,None,5.0,None,Sổ đỏ,None,6.0,None,Hà Nội,Quận Cầu Giấy,Bán Nhà riêng tại Phố Phạm Tuấn Tài
+486,29000.0,115,None,None,None,Sổ đỏ,None,1.0,None,Hà Nội,Quận Bắc Từ Liêm,Bán Đất tại Đường Cổ Nhuế
+487,16500.0,58,"3,8m",None,None,Sổ đỏ,None,5.0,None,Hà Nội,Quận Cầu Giấy,Bán Nhà mặt phố tại Đường 800A
+488,10500.0,70,None,15.0,None,Sổ đỏ,None,6.0,None,Hà Nội,Quận Đống Đa,Bán Nhà riêng tại Phố Láng Hạ
+494,3000.0,50,None,None,None,None,None,None,None,Hà Nội,Huyện Hoài Đức,Bán Đất tại Xã Vân Canh
+495,2650.0,48,None,None,None,None,None,None,None,Hà Nội,Huyện Hoài Đức,Bán Đất tại Đường Vân Lũng
+497,1180.0,40,None,None,None,None,None,None,None,Hà Nội,Huyện Hoài Đức,Bán Đất tại Đường 422
+498,2950.0,50,None,None,None,None,None,None,None,Hà Nội,Huyện Hoài Đức,Bán Đất tại Đường Quốc lộ 32
+499,2540.0,40,None,None,None,None,None,None,None,Hà Nội,Huyện Hoài Đức,Bán Đất tại Xã Vân Canh
+500,3780.0,126,None,None,None,None,None,None,None,Hà Nội,Huyện Thạch Thất,Bán Đất tại Xã Tân Xã
+502,1000.0,65,None,None,None,None,None,None,None,Hà Nội,Huyện Thạch Thất,Bán Đất tại Xã Bình Yên
+503,773,72,None,None,None,None,None,None,None,Hà Nội,Huyện Thạch Thất,Bán Đất tại Xã Bình Yên
+504,980,93,None,None,None,None,None,None,None,Hà Nội,Huyện Thạch Thất,Bán Đất tại Xã Bình Yên
+505,700,60,None,None,None,None,None,None,None,Hà Nội,Huyện Thạch Thất,Bán Đất tại Xã Bình Yên
+506,998,40,None,None,None,None,None,None,None,Hà Nội,Huyện Thường Tín,Bán Đất tại Xã Ninh Sở
+508,Thỏa thuận,36,None,3.0,None,None,None,5.0,None,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Đường Bùi Xương Trạch
+509,2370.0,43,None,None,None,Sổ đỏ,Bắc,None,None,Hà Nội,Quận Long Biên,Bán Đất tại Đường Phúc Lợi
+511,Thỏa thuận,117,None,None,None,None,None,None,None,Hà Nội,Quận Long Biên,Bán Nhà riêng tại Phường Phúc Lợi
+512,2680.0,47,None,None,None,Sổ hồng,Đông-Bắc,None,None,Hà Nội,Huyện Hoài Đức,Bán Đất tại Đường Đại lộ Thăng Long
+513,7500.0,55,None,4.0,None,Sổ đỏ,Bắc,None,None,Hà Nội,Quận Long Biên,Bán Nhà riêng tại Đường Vũ Xuân Thiều
+514,3700.0,64,None,None,None,Sổ đỏ,Tây,None,None,Hà Nội,Quận Long Biên,Bán Đất tại Đường Bát Khối
+516,4400.0,35,None,4.0,None,Sổ đỏ,Bắc,None,None,Hà Nội,Quận Long Biên,Bán Nhà riêng tại Đường Bát Khối
+517,1550.0,30,None,None,None,Sổ đỏ,Tây-Bắc,None,None,Hà Nội,Quận Long Biên,Bán Đất tại Đường Thống Nhất
+518,2850.0,31,None,3.0,None,Sổ đỏ,Tây,None,None,Hà Nội,Quận Long Biên,Bán Nhà riêng tại Đường Cổ Linh
+519,3450.0,35,None,3.0,None,Sổ đỏ,Đông-Nam,None,None,Hà Nội,Quận Long Biên,Bán Nhà riêng tại Đường Đàm Quang Trung
+520,3250.0,30,None,3.0,None,Sổ đỏ,Tây-Nam,5.0,None,Hà Nội,Quận Long Biên,Bán Nhà riêng tại Đường Tư Đình
+521,950,34,None,None,None,Sổ đỏ,None,None,None,Hà Nội,Quận Cầu Giấy,Bán Căn hộ chung cư tại Đường Hạ Yên
+522,3500.0,25,4m,3.0,None,Sổ đỏ,None,4.0,None,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Đường Hoàng Văn Thái
+526,Thỏa thuận,43,4m,3.0,None,Sổ đỏ,None,4.0,1.0,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Phố Khương Hạ
+528,1275.0,49.0,None,2.0,None,Giấy tờ hợp lệ,None,6.0,1.0,Hà Nội,Quận Hai Bà Trưng,Bán Căn hộ chung cư tại Đường Kim Ngưu
+530,4250.0,50,None,4.0,None,Sổ đỏ,None,4.0,None,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Hoàng Mai
+533,Thỏa thuận,31,"3,1m",4.0,None,Sổ đỏ,None,5.0,1.0,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Đền Lừ
+537,3700.0,40,5m,4.0,None,Sổ đỏ,None,5.0,1.0,Hà Nội,Quận Long Biên,Bán Nhà riêng tại Đường Ngọc Thụy
+539,Thỏa thuận,34,None,4.0,None,Sổ đỏ,None,None,None,Hà Nội,Quận Cầu Giấy,Bán Nhà riêng tại Đường Dương Khuê
+540,3600.0,40,4m,4.0,None,Sổ đỏ,None,4.0,None,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Đại Kim
+541,3450.0,38,None,4.0,None,Sổ đỏ,None,4.0,1.0,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Hoàng Liệt
+542,3250.0,36,None,4.0,None,Sổ đỏ,None,None,None,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Bằng Liệt
+543,"4,6",61,4m,4.0,None,Sổ đỏ,None,5.0,1.0,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Kim Giang
+545,2150.0,35,"3,5m",3.0,None,Sổ đỏ,Tây-Nam,None,None,Hà Nội,Quận Hà Đông,Bán Nhà riêng tại Đường Yên Lộ
+546,3300.0,35,None,3.0,None,Sổ đỏ,None,None,None,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Hoàng Liệt
+547,5400.0,38,None,3.0,None,Sổ đỏ,None,5.0,None,Hà Nội,Quận Hai Bà Trưng,Bán Nhà riêng tại Đường Hoà Bình 7
+548,5300.0,35,None,3.0,None,Sổ đỏ,None,None,None,Hà Nội,Quận Cầu Giấy,Bán Nhà riêng tại Đường Trương Công Giai
+549,5700.0,50,5m,3.0,None,Sổ đỏ,Đông-Nam,None,None,Hà Nội,Quận Cầu Giấy,Bán Nhà riêng tại Đường Dịch Vọng
+550,1320.0,32,35m,None,None,None,None,None,None,Hà Nội,Quận Hà Đông,Bán Đất tại Phường Phú Lương
+551,4100.0,35,4m,3.0,None,Sổ đỏ,None,5.0,1.0,Hà Nội,Quận Long Biên,Bán Nhà riêng tại Đường Ngọc Lâm
+554,Thỏa thuận,41,None,None,None,None,None,None,None,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Đường Khương Đình
+555,73000.0,100,8m,10.0,None,Sổ đỏ,None,8.0,1.0,Hà Nội,Quận Cầu Giấy,Bán Nhà mặt phố tại Đường Trần Thái Tông
+556,15800.0,70,4m,4.0,None,Sổ đỏ,None,5.0,1.0,Hà Nội,Quận Bắc Từ Liêm,Bán Nhà riêng tại Phố Trần Cung
+558,36200.0,100,None,None,None,None,None,None,None,Hà Nội,Quận Cầu Giấy,Bán Nhà riêng tại Đường Dương Khuê
+559,14000.0,40,4m,4.0,None,Sổ đỏ,None,8.0,1.0,Hà Nội,Quận Cầu Giấy,Bán Nhà mặt phố tại Đường Dương Khuê
+560,55000.0,85,6m,4.0,None,Sổ đỏ,None,3.0,1.0,Hà Nội,Quận Hoàn Kiếm,Bán Nhà mặt phố tại Đường Đào Duy Từ
+562,58000.0,65,"5,5m",4.0,None,Sổ đỏ,Đông-Nam,3.0,1.0,Hà Nội,Quận Hoàn Kiếm,Bán Nhà mặt phố tại Đường Đào Duy Từ
+570,1830.0,36,None,None,None,None,None,None,None,Hà Nội,Huyện Hoài Đức,Bán Đất tại Xã Di Trạch
+571,4120.0,1250,None,None,None,None,None,None,None,Hà Nội,Huyện Ba Vì,Bán Đất tại Xã Yên Bài
+580,1300.0,70,None,None,None,None,None,None,None,Hà Nội,Quận Nam Từ Liêm,Bán Căn hộ chung cư tại Đường Tố Hữu
+581,1850.0,53,4m,None,None,Sổ đỏ,Bắc,None,None,Hà Nội,Huyện Thanh Trì,Bán Đất tại Đường Tả Thanh Oai
+583,4350.0,42,None,None,None,None,None,None,None,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Đường Khương Đình
+584,6450.0,51,None,None,None,None,None,None,None,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Đường Khương Đình
+585,4250.0,48,None,None,None,None,None,None,None,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Đường Khương Đình
+593,2680.0,47,None,None,None,None,None,None,None,Hà Nội,Huyện Hoài Đức,Bán Đất tại Đường Đại lộ Thăng Long
+594,1990.0,45,None,None,None,None,None,None,None,Hà Nội,Huyện Hoài Đức,Bán Đất tại Xã An Khánh
+595,2200.0,60,None,None,None,None,None,None,None,Hà Nội,Huyện Hoài Đức,Bán Đất tại Xã An Thượng
+596,5220.0,72,None,None,None,None,None,None,None,Hà Nội,Huyện Hoài Đức,Bán Đất tại Đường Tỉnh Lộ 422B
+597,2070.0,44,None,None,None,None,None,None,None,Hà Nội,Huyện Hoài Đức,Bán Đất tại Đường Đại lộ Thăng Long
+598,1250.0,60,None,None,None,None,None,None,None,Hà Nội,Huyện Chương Mỹ,Bán Đất tại Xã Đông Sơn
+599,1500.0,100,None,None,None,None,None,None,None,Hà Nội,Huyện Chương Mỹ,Bán Đất tại Xã Thụy Hương
+602,2400.0,100,None,None,None,None,None,None,None,Hà Nội,Huyện Chương Mỹ,Bán Đất tại Xã Phụng Châu
+604,9000.0,120,None,None,None,None,None,None,None,Hà Nội,Quận Long Biên,Bán Đất tại Đường Ái Mộ
+617,4450.0,50,None,None,None,None,None,None,None,Hà Nội,Quận Long Biên,Bán Đất tại Phường Phúc Lợi
+618,3800.0,50,None,None,None,None,None,None,None,Hà Nội,Quận Long Biên,Bán Đất tại Phố Trạm
+619,6750.0,50,None,None,None,None,None,None,None,Hà Nội,Quận Long Biên,Bán Đất tại Phường Giang Biên
+620,2250.0,30,None,None,None,None,None,None,None,Hà Nội,Quận Long Biên,Bán Đất tại Đường Kim Quan
+621,4650.0,50,None,None,None,None,None,None,None,Hà Nội,Quận Hà Đông,Bán Đất tại Đường Quang Trung
+622,4800.0,50,None,None,None,None,None,None,None,Hà Nội,Quận Hà Đông,Bán Đất tại Đường Quang Trung
+623,4380.0,84,None,None,None,None,None,None,None,Hà Nội,Quận Hà Đông,Bán Đất tại Phường Biên Giang
+624,7500.0,63,None,None,None,None,None,None,None,Hà Nội,Quận Hà Đông,Bán Đất tại Phường Kiến Hưng
+625,7600.0,50,None,None,None,None,None,None,None,Hà Nội,Quận Hà Đông,Bán Đất tại Phố Lý Thường Kiệt
+629,4700.0,123,None,None,None,None,None,None,None,Hà Nội,Quận Cầu Giấy,Bán Căn hộ chung cư tại Đường Khuất Duy Tiến
+631,4650.0,35,None,None,None,None,None,None,None,Hà Nội,Quận Ba Đình,Bán Nhà riêng tại Đường Đội Cấn
+632,3900.0,54,None,None,None,None,None,None,None,Hà Nội,Quận Ba Đình,Bán Nhà riêng tại Phố Kim Mã
+633,3000.0,20,None,None,None,None,None,None,None,Hà Nội,Quận Ba Đình,Bán Nhà riêng tại Đường Giang Văn Minh
+634,5150.0,47,None,None,None,None,None,None,None,Hà Nội,Quận Ba Đình,Bán Nhà riêng tại Phường Giảng Võ
+635,11300.0,58,None,None,None,None,None,None,None,Hà Nội,Quận Ba Đình,Bán Nhà riêng tại Đường Đội Cấn
+636,3300.0,37,None,None,None,None,None,None,None,Hà Nội,Quận Hai Bà Trưng,Bán Nhà riêng tại Đường Kim Ngưu
+637,3500.0,30,None,None,None,None,None,None,None,Hà Nội,Quận Hai Bà Trưng,Bán Nhà riêng tại Đường Kim Ngưu
+638,3100.0,27,None,None,None,None,None,None,None,Hà Nội,Quận Hai Bà Trưng,Bán Nhà riêng tại Phố Lò Đúc
+639,7,46,None,None,None,None,None,None,None,Hà Nội,Quận Hai Bà Trưng,Bán Nhà riêng tại Đường Trần Khát Chân
+640,5000.0,35,None,None,None,None,None,None,None,Hà Nội,Quận Hai Bà Trưng,Bán Nhà riêng tại Phố Lò Đúc
+641,4300.0,35,None,None,None,None,None,None,None,Hà Nội,Quận Cầu Giấy,Bán Nhà riêng tại Đường Dương Quảng Hàm
+642,3800.0,35,None,None,None,None,None,None,None,Hà Nội,Quận Cầu Giấy,Bán Nhà riêng tại Đường Nguyễn Khánh Toàn
+643,20000.0,103,None,None,None,None,None,None,None,Hà Nội,Quận Cầu Giấy,Bán Nhà riêng tại Đường Hoàng Quốc Việt
+644,12000.0,65,None,None,None,None,None,None,None,Hà Nội,Quận Long Biên,Bán Nhà riêng tại Đường Nguyễn Văn Cừ
+645,3900.0,38,None,None,None,None,None,None,None,Hà Nội,Quận Long Biên,Bán Nhà riêng tại Đường Bồ Đề
+646,8670.0,48,None,None,None,None,None,None,None,Hà Nội,Quận Cầu Giấy,Bán Nhà riêng tại Đường Cầu Giấy
+647,15600.0,54,None,None,None,None,None,None,None,Hà Nội,Quận Cầu Giấy,Bán Nhà riêng tại Phố Trần Quốc Hoàn
+648,9000.0,80,None,None,None,None,None,None,None,Hà Nội,Quận Long Biên,Bán Nhà riêng tại Đường Bồ Đề
+649,7500.0,50,None,None,None,None,None,None,None,Hà Nội,Quận Long Biên,Bán Nhà riêng tại Đường Bồ Đề
+650,12000.0,59,None,None,None,None,None,None,None,Hà Nội,Quận Long Biên,Bán Nhà riêng tại Đường Nguyễn Văn Cừ
+651,1900.0,45,None,None,None,None,None,None,None,Hà Nội,Huyện Gia Lâm,Bán Căn hộ chung cư tại Xã Dương Xá
+656,3850.0,40,4m,4.0,None,None,None,4.0,None,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Đường Kim Giang
+657,14500.0,58,"3,8m",4.0,None,Sổ đỏ,None,4.0,None,Hà Nội,Quận Tây Hồ,Bán Nhà riêng tại Đường Võ Chí Công
+658,3450.0,55,None,None,None,None,None,None,None,Hà Nội,Quận Hai Bà Trưng,Bán Nhà riêng tại Đường Minh Khai
+659,4800.0,32.5,"4,5m",4.0,None,Sổ hồng,None,6.0,1.0,Hà Nội,Quận Cầu Giấy,Bán Nhà riêng tại Đường Trần Thái Tông
+660,Thỏa thuận,47,None,None,None,None,None,None,1.0,Hà Nội,Quận Hà Đông,Bán Nhà riêng tại Đường Quang Trung
+661,Thỏa thuận,45,None,None,None,None,None,None,None,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Đường Nguyễn Trãi
+663,Thỏa thuận,67,None,4.0,None,None,None,5.0,None,Hà Nội,Quận Cầu Giấy,Bán Nhà riêng tại Phố Trần Bình
+664,3200.0,16,None,3.0,None,Sổ đỏ,None,None,None,Hà Nội,Quận Cầu Giấy,Bán Nhà riêng tại Đường Hoàng Quốc Việt
+671,3220.0,62,None,None,None,None,None,None,None,Hà Nội,Quận Nam Từ Liêm,Bán Đất tại Đường Miêu Nha
+672,4600.0,50,None,None,None,None,None,None,None,Hà Nội,Huyện Hoài Đức,Bán Đất tại Đường Đại lộ Thăng Long
+675,6100.0,750,None,None,None,None,None,None,None,Hà Nội,Huyện Ba Vì,Bán Đất tại Đường Tỉnh Lộ 87A
+693,3800.0,40,None,None,None,None,None,None,None,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Đường Bùi Xương Trạch
+694,4220.0,35,None,None,None,None,None,None,None,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Đường Khương Đình
+695,9600.0,55,None,None,None,None,None,None,None,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Đường Nguyễn Ngọc Nại
+696,4700.0,33,None,None,None,None,None,None,None,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Đường Bùi Xương Trạch
+697,105000.0,113,None,None,None,None,None,None,None,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Đường Khương Đình
+698,4900.0,37,None,None,None,None,None,None,None,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Đường Bùi Xương Trạch
+699,4500.0,35,None,None,None,None,None,None,None,Hà Nội,Quận Ba Đình,Bán Nhà riêng tại Đường Đào Tấn
+700,12800.0,53,None,None,None,None,None,None,None,Hà Nội,Quận Ba Đình,Bán Nhà riêng tại Đường Đào Tấn
+701,13800.0,50,None,None,None,None,None,None,None,Hà Nội,Quận Ba Đình,Bán Nhà riêng tại Đường Đào Tấn
+702,6950.0,75,None,None,None,None,None,None,None,Hà Nội,Quận Ba Đình,Bán Nhà riêng tại Đường Đào Tấn
+704,9200.0,45,None,None,None,None,None,None,None,Hà Nội,Quận Ba Đình,Bán Nhà riêng tại Đường Đào Tấn
+705,2029.9999999999998,38,None,None,None,None,None,None,None,Hà Nội,Quận Hà Đông,Bán Nhà riêng tại Phường Yên Nghĩa
+707,3650.0,36,None,None,None,None,None,None,None,Hà Nội,Quận Hà Đông,Bán Nhà riêng tại Đường Yên Lộ
+708,Thỏa thuận,68.0,None,None,None,Sổ đỏ,Đông,None,None,Hà Nội,Quận Hà Đông,Bán Nhà riêng tại Đường Ngô Đình Mẫn
+709,2000.0,36,None,None,None,None,None,None,None,Hà Nội,Quận Hà Đông,Bán Nhà riêng tại Đường Yên Lộ
+711,8250.0,60,None,None,None,None,None,None,None,Hà Nội,Quận Cầu Giấy,Bán Nhà riêng tại Phố Trung Kính
+720,9980.0,110,20m,None,None,Sổ đỏ,None,None,None,Hà Nội,Huyện Gia Lâm,Bán Đất tại Thị trấn Trâu Quỳ
+722,810,33,None,None,None,None,None,None,None,Hà Nội,Quận Thanh Xuân,Bán Căn hộ chung cư tại Đường Nguyễn Trãi
+726,2050.0,79,None,None,None,None,None,None,None,Hà Nội,Quận Hoàng Mai,Bán Căn hộ chung cư tại Đường Nguyễn Xiển
+727,2550.0,67,None,None,None,None,None,None,None,Hà Nội,Quận Hoàng Mai,Bán Căn hộ chung cư tại Đường Nghiêm Xuân Yêm
+730,1052.0,49.0,None,2.0,None,Giấy tờ hợp lệ,None,6.0,1.0,Hà Nội,Quận Hai Bà Trưng,Bán Căn hộ chung cư tại Phố Phố Vọng
+732,1550.0,54,None,None,None,None,None,None,None,Hà Nội,Quận Hoàng Mai,Bán Căn hộ chung cư tại Đường Nghiêm Xuân Yêm
+733,1850.0,74,None,None,None,None,None,None,None,Hà Nội,Quận Hoàng Mai,Bán Căn hộ chung cư tại Đường Nghiêm Xuân Yêm
+734,2200.0,38,None,None,None,None,None,None,None,Hà Nội,Quận Hà Đông,Bán Nhà riêng tại Đường Lê Trọng Tấn
+735,1850.0,33,None,None,None,None,None,None,None,Hà Nội,Quận Hà Đông,Bán Nhà riêng tại Phường Yên Nghĩa
+736,3300.0,42,4m,4.0,None,Sổ đỏ,None,5.0,1.0,Hà Nội,Huyện Thanh Trì,Bán Nhà riêng tại Đường Cổ Điển A
+737,20000.0,85,5m,None,None,Sổ đỏ,None,None,None,Hà Nội,Quận Nam Từ Liêm,Bán Đất tại đường Mỹ Đình
+745,5400.0,41,4m,4.0,None,Sổ hồng,Tây-Nam,5.0,1.0,Hà Nội,Quận Long Biên,Bán Nhà riêng tại Đường Nguyễn Văn Cừ
+751,1700.0,62,None,2.0,None,None,None,None,1.0,Hà Nội,Quận Hai Bà Trưng,Bán Căn hộ chung cư tại Đường Kim Ngưu
+753,865.0,47.5,None,2.0,None,None,None,None,1.0,Hà Nội,Quận Đống Đa,Bán Căn hộ chung cư tại Phố Xã Đàn
+754,850.0,44.0,None,1.0,None,None,None,None,1.0,Hà Nội,Quận Cầu Giấy,Bán Căn hộ chung cư tại Đường Xuân Thủy
+755,870.0,42.0,None,None,None,None,None,None,None,Hà Nội,Quận Đống Đa,Bán Căn hộ chung cư tại Phố Xã Đàn
+756,8250.0,50.5,None,None,None,None,None,None,None,Hà Nội,Quận Ba Đình,Bán Nhà riêng tại Đường Văn Cao
+757,3200.0,155,"5,5m",None,None,None,None,None,None,Hà Nội,Huyện Thạch Thất,Bán Đất tại Đường Tỉnh lộ 419
+758,7600.0,78,"4,55m",4.0,None,Sổ đỏ,None,4.0,1.0,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Đường Khương Trung
+759,5890.0,42.5,None,None,None,Sổ đỏ,None,5.0,None,Hà Nội,Quận Thanh Xuân,Bán Căn hộ chung cư tại Phố Chính Kinh
+760,33000.0,130,None,None,None,None,None,None,None,Hà Nội,Quận Hoàn Kiếm,Bán Nhà riêng tại Đường Lý Nam Đế
+762,3950.0,22,None,None,None,None,None,None,None,Hà Nội,Quận Đống Đa,Bán Nhà riêng tại Đường Đường Láng
+764,775.0,38.0,None,2.0,None,None,None,5.0,1.0,Hà Nội,Quận Đống Đa,Bán Căn hộ chung cư tại Đường Ô Chợ Dừa
+766,6500.0,48,None,None,None,None,None,None,None,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Đường Khương Đình
+767,4600.0,40,None,None,None,None,None,None,None,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Đường Bùi Xương Trạch
+768,5800.0,50,None,None,None,None,None,None,None,Hà Nội,Quận Bắc Từ Liêm,Bán Nhà riêng tại Phường Xuân Đỉnh
+769,4550.0,35,None,None,None,None,None,None,None,Hà Nội,Quận Ba Đình,Bán Nhà riêng tại Đường Đào Tấn
+770,4500.0,58,None,None,None,None,None,None,None,Hà Nội,Quận Ba Đình,Bán Nhà riêng tại Phố Kim Mã
+771,3150.0,29,None,None,None,None,None,None,None,Hà Nội,Quận Ba Đình,Bán Nhà riêng tại Phố Đốc Ngữ
+772,6900.0,75,None,None,None,None,None,None,None,Hà Nội,Quận Ba Đình,Bán Nhà riêng tại Phố Kim Mã
+773,5600.0,50,None,None,None,None,None,None,None,Hà Nội,Quận Ba Đình,Bán Nhà riêng tại Phố Liễu Giai
+774,2500.0,30,None,None,None,None,None,None,None,Hà Nội,Quận Hà Đông,Bán Nhà riêng tại Đường Do Lộ
+775,1950.0,52,None,None,None,None,None,None,None,Hà Nội,Quận Hà Đông,Bán Nhà riêng tại Đường Hòa Bình
+776,2480.0,35,None,None,None,None,None,None,None,Hà Nội,Quận Hà Đông,Bán Nhà riêng tại Đường Nghĩa Lộ
+777,4350.0,43,None,None,None,None,None,None,None,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Kim Giang
+778,3650.0,45,None,None,None,None,None,None,None,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Hoàng Mai
+779,3700.0,54,None,None,None,None,None,None,None,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Lĩnh Nam
+780,9000.0,76,None,None,None,None,None,None,None,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Bằng Liệt
+782,60000.0,200,8m,4.0,None,None,None,4.0,None,Hà Nội,Quận Thanh Xuân,Bán Nhà mặt phố tại Đường Trường Chinh
+783,2600.0,25,None,2.0,None,Sổ đỏ,None,4.0,None,Hà Nội,Quận Đống Đa,Bán Nhà riêng tại Phường Hàng Bột
+784,4970.0,40,None,None,None,None,None,None,None,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Kim Giang
+785,3700.0,35,None,None,None,None,None,None,None,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Định Công Thượng
+786,3900.0,34,None,None,None,None,None,None,None,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Lĩnh Nam
+787,10600.0,50,None,None,None,None,None,None,None,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Đền Lừ
+788,3400.0,40,None,None,None,None,None,None,None,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Tân Mai
+789,2400.0,65,None,2.0,None,None,None,None,None,Hà Nội,Quận Ba Đình,Bán Căn hộ chung cư tại Phường Đội Cấn
+792,13500.0,95,"4,2m",None,None,Sổ đỏ,None,5.0,None,Hà Nội,Quận Cầu Giấy,Bán Nhà riêng tại Đường Nguyễn Khánh Toàn
+794,18,75,7m,4.0,None,Sổ đỏ,None,7.0,1.0,Hà Nội,Quận Cầu Giấy,Bán Nhà mặt phố tại Đường Nguyễn Đình Hoàn
+795,22000.0,66,None,None,None,None,None,None,None,Hà Nội,Quận Đống Đa,Bán Nhà riêng tại Phố Hào Nam
+796,3400.0,30,55m,2.0,None,Sổ đỏ,None,4.0,1.0,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Giáp Bát
+797,110000.0,220,None,4.0,None,None,None,9.0,1.0,Hà Nội,Quận Ba Đình,Bán Nhà mặt phố tại Phố Linh Lang
+802,Thỏa thuận,69,None,None,None,None,None,None,None,Hà Nội,Quận Tây Hồ,Bán Nhà mặt phố tại đường An Dương
+804,725.0,42.5,None,None,None,None,None,None,None,Hà Nội,Quận Hai Bà Trưng,Bán Căn hộ chung cư tại Phố Hồng Mai
+805,610.0,40.0,None,None,None,None,None,None,1.0,Hà Nội,Quận Đống Đa,Bán Căn hộ chung cư tại Đường Lê Duẩn
+806,450,45,None,None,None,None,None,None,None,Hà Nội,Quận Đống Đa,Bán Căn hộ chung cư tại Phố Hoàng Cầu
+807,650.0,45.0,None,None,None,None,None,None,None,Hà Nội,Quận Hoàn Kiếm,Bán Căn hộ chung cư tại Phố Bà Triệu
+809,5800.0,50,None,4.0,None,Sổ đỏ,None,4.0,1.0,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Nguyễn Đức Cảnh
+811,4390.0,35,4m,3.0,None,None,None,4.0,1.0,Hà Nội,Quận Đống Đa,Bán Nhà riêng tại Phố Tôn Đức Thắng
+812,990,50,None,1.0,Bắc,Sổ đỏ,Nam,7.0,None,Hà Nội,Quận Hai Bà Trưng,Bán Căn hộ chung cư tại Đường Kim Ngưu
+813,650,12,None,None,None,Giấy tờ hợp lệ,None,None,None,Hà Nội,Quận Hai Bà Trưng,Bán Nhà riêng tại Phố Phạm Đình Hổ
+817,2200.0,34,"3,5m",4.0,None,Sổ đỏ,None,5.0,None,Hà Nội,Huyện Thanh Trì,Bán Nhà riêng tại Đường Tả Thanh Oai
+818,1550.0,"30,8","3,5m",2.0,None,Sổ đỏ,None,1.0,1.0,Hà Nội,Huyện Thanh Trì,Bán Nhà riêng tại Đường Tả Thanh Oai
+819,3960.0,60,None,None,None,None,None,None,None,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Ngõ Gốc Đề
+820,800,45,None,1.0,Bắc,Sổ đỏ,Đông-Bắc,6.0,None,Hà Nội,Quận Hai Bà Trưng,Bán Căn hộ chung cư tại Đường Đê Trần Khát Chân
+821,1150.0,48,None,2.0,Đông-Nam,Sổ đỏ,Đông-Bắc,6.0,None,Hà Nội,Quận Hai Bà Trưng,Bán Căn hộ chung cư tại Đường Đê Trần Khát Chân
+822,890,35,None,1.0,Bắc,Sổ đỏ,Nam,6.0,None,Hà Nội,Quận Hoàng Mai,Bán Căn hộ chung cư tại Đường Giải Phóng
+827,Thỏa thuận,45,None,None,None,Sổ đỏ,None,None,None,Hà Nội,Quận Đống Đa,Bán Nhà riêng tại Ngõ Đoàn Kết
+829,13250.0,77,None,None,None,None,None,None,None,Hà Nội,Quận Cầu Giấy,Bán Nhà riêng tại Đường Nguyễn Khánh Toàn
+831,4800.0,40,"5,2m",4.0,None,Sổ đỏ,None,5.0,1.0,Hà Nội,Quận Cầu Giấy,Bán Nhà riêng tại Đường Nguyễn Đình Hoàn
+833,Thỏa thuận,107,None,None,None,Sổ đỏ,Đông-Nam,None,None,Hà Nội,Quận Tây Hồ,Bán Đất tại Đường An Dương Vương
+834,Thỏa thuận,700,28m,None,None,Sổ đỏ,None,None,None,Hà Nội,Quận Hà Đông,Bán Đất tại Đường Lê Văn Lương
+835,Thỏa thuận,34,None,3.0,None,None,None,None,None,Hà Nội,Quận Nam Từ Liêm,Bán Nhà riêng tại đường Mỹ Đình
+837,18620.0,190,None,None,None,None,None,None,None,Hà Nội,Huyện Thạch Thất,Bán Đất tại Xã Tân Xã
+838,1300.0,65,None,None,None,None,None,None,None,Hà Nội,Huyện Thạch Thất,Bán Đất tại Đường Tỉnh lộ 419
+839,1290.0,65,None,None,None,None,None,None,None,Hà Nội,Huyện Thạch Thất,Bán Đất tại Đường ĐT420
+840,2000.0,72,None,None,None,None,None,None,None,Hà Nội,Huyện Thạch Thất,Bán Đất tại Đường Quốc lộ 21A
+841,3100.0,155,None,None,None,None,None,None,None,Hà Nội,Huyện Thạch Thất,Bán Đất tại Xã Bình Yên
+845,16000.0,77,None,None,None,None,None,None,None,Hà Nội,Quận Cầu Giấy,Bán Nhà mặt phố tại Đường Nguyễn Văn Huyên
+846,Thỏa thuận,45,"4,8m",4.0,None,Sổ đỏ,None,5.0,1.0,Hà Nội,Quận Hà Đông,Bán Nhà riêng tại Đường Quang Trung
+847,5700.0,70,6m,4.0,None,Sổ đỏ,None,5.0,1.0,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Đường Khuất Duy Tiến
+849,800,40,None,None,None,None,None,None,None,Hà Nội,Huyện Thanh Trì,Bán Căn hộ chung cư tại Đường Ngọc Hồi
+850,3650.0,112,None,None,None,None,None,None,None,Hà Nội,Quận Hà Đông,Bán Căn hộ chung cư tại Đường Trần Phú
+857,4850.0,38,None,None,None,None,None,None,None,Hà Nội,Quận Hai Bà Trưng,Bán Nhà riêng tại Phố Bạch Mai
+862,10100.0,66,None,None,None,None,None,None,None,Hà Nội,Quận Đống Đa,Bán Nhà riêng tại Đường Láng
+866,15000.0,60,None,None,None,None,None,None,None,Hà Nội,Quận Cầu Giấy,Bán Nhà riêng tại Phố Trung Kính
+867,66000.0,328,None,None,None,None,None,None,None,Hà Nội,Quận Cầu Giấy,Bán Nhà riêng tại Phố Trung Kính
+868,29500.0,85,None,None,None,None,None,None,None,Hà Nội,Quận Cầu Giấy,Bán Nhà riêng tại Phố Trung Kính
+869,8500.0,60,None,None,None,None,None,None,None,Hà Nội,Quận Cầu Giấy,Bán Nhà riêng tại Phố Trung Kính
+870,7990.0,63,None,None,None,None,None,None,None,Hà Nội,Quận Cầu Giấy,Bán Nhà riêng tại Phố Trung Kính
+871,15900.0,55,None,None,None,None,None,None,None,Hà Nội,Quận Tây Hồ,Bán Nhà riêng tại Đường Lạc Long Quân
+872,3300.0,24,None,None,None,None,None,None,None,Hà Nội,Quận Tây Hồ,Bán Nhà riêng tại Đường Âu Cơ
+873,4950.0,40,None,None,None,None,None,None,None,Hà Nội,Quận Tây Hồ,Bán Nhà riêng tại Đường Lạc Long Quân
+874,5000.0,40,None,None,None,None,None,None,None,Hà Nội,Quận Tây Hồ,Bán Nhà riêng tại Đường Lạc Long Quân
+875,5500.0,37,None,None,None,None,None,None,None,Hà Nội,Quận Tây Hồ,Bán Nhà riêng tại đường Thụy Khuê
+876,"8,2",135,None,None,None,None,None,None,None,Hà Nội,Quận Hà Đông,Bán Nhà riêng tại Phường Biên Giang
+877,5690.0,70,None,None,None,None,None,None,None,Hà Nội,Quận Hà Đông,Bán Nhà riêng tại Đường Tô Hiệu
+878,1750.0,33,None,None,None,None,None,None,None,Hà Nội,Quận Hà Đông,Bán Nhà riêng tại Phường Biên Giang
+879,2450.0,32,None,None,None,None,None,None,None,Hà Nội,Quận Hà Đông,Bán Nhà riêng tại Đường 21B
+880,2100.0,31,None,None,None,None,None,None,None,Hà Nội,Quận Hà Đông,Bán Nhà riêng tại Phường Biên Giang
+897,3300.0,43,None,3.0,None,None,None,5.0,1.0,Hà Nội,Quận Đống Đa,Bán Nhà riêng tại Phố Hào Nam
+898,10500.0,50,5m,4.0,None,Sổ đỏ,None,5.0,1.0,Hà Nội,Quận Cầu Giấy,Bán Nhà riêng tại Phố Phan Văn Trường
+900,2150.0,35,None,None,None,None,Tây-Nam,4.0,None,Hà Nội,Quận Hà Đông,Bán Nhà riêng tại Đường Yên Lộ
+901,2680.0,32,None,None,None,Sổ hồng,Tây-Nam,None,None,Hà Nội,Quận Hà Đông,Bán Nhà riêng tại Phường Phú Lương
+902,15200.0,52,5m,4.0,None,Sổ đỏ,None,5.0,1.0,Hà Nội,Quận Cầu Giấy,Bán Nhà riêng tại Phố Phan Văn Trường
+904,7450.0,60,"6,4m",4.0,None,None,None,5.0,1.0,Hà Nội,Quận Cầu Giấy,Bán Nhà riêng tại Đường Trần Thái Tông
+905,2380.0,50,"4,5m",3.0,None,Sổ hồng,Tây-Bắc,3.0,None,Hà Nội,Quận Hà Đông,Bán Nhà riêng tại Đường 6
+907,11800.0,50,"4,5m",4.0,None,Sổ đỏ,None,6.0,None,Hà Nội,Quận Cầu Giấy,Bán Nhà riêng tại Phố Dịch Vọng Hậu
+908,3500.0,160,None,None,None,None,None,None,None,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Nguyễn An Ninh
+909,16600.0,50,"4,5m",4.0,None,None,None,5.0,None,Hà Nội,Quận Cầu Giấy,Bán Nhà riêng tại Phố Trần Quốc Hoàn
+910,13900.0,50,"4,5m",4.0,None,Sổ đỏ,None,5.0,1.0,Hà Nội,Quận Cầu Giấy,Bán Nhà riêng tại Phố Trần Quốc Hoàn
+912,Thỏa thuận,50,None,None,None,Sổ đỏ,None,None,None,Hà Nội,Quận Long Biên,Bán Nhà mặt phố tại Phố Hồng Tiến
+913,9300.0,41,"4,3m",4.0,None,Sổ đỏ,None,4.0,None,Hà Nội,Quận Cầu Giấy,Bán Nhà riêng tại Phố Trần Quốc Hoàn
+914,Thỏa thuận,50,None,None,None,Sổ đỏ,None,None,None,Hà Nội,Quận Ba Đình,Bán Nhà riêng tại Ngõ 279 Đội Cấn
+915,7850.0,50,5m,None,None,Sổ đỏ,Đông-Nam,None,None,Hà Nội,Quận Hà Đông,Bán Đất tại Đường Trần Đăng Ninh
+916,Thỏa thuận,45,None,None,None,Sổ đỏ,None,None,1.0,Hà Nội,Quận Hà Đông,Bán Nhà riêng tại Đường Ngô Thì Nhậm
+917,12300.0,44,4m,3.0,None,Sổ đỏ,None,7.0,None,Hà Nội,Quận Cầu Giấy,Bán Nhà mặt phố tại Đường Hoàng Ngân
+918,4750.0,47,None,None,None,None,None,None,None,Hà Nội,Quận Nam Từ Liêm,Bán Đất tại Đường Đại Mỗ
+919,5400.0,75,None,None,None,None,None,None,None,Hà Nội,Huyện Hoài Đức,Bán Đất tại Đường Lai Xá
+920,3300.0,"36,5",None,4.0,None,Sổ đỏ,None,4.0,None,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Kim Giang
+921,330000.0,4300000,None,None,None,None,None,None,None,Hà Nội,Huyện Ba Vì,Bán Đất tại Xã Yên Bài
+924,3220.0,35,"3,5m",4.0,None,Sổ đỏ,None,5.0,1.0,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Đại Từ
+926,3400.0,30,"4,7m",3.0,None,Sổ đỏ,None,5.0,1.0,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Định Công
+933,10400.0,45,None,None,None,None,None,6.0,None,Hà Nội,Quận Cầu Giấy,Bán Nhà riêng tại Đường Phạm Thận Duật
+936,4520.0,113,None,3.0,None,Sổ đỏ,None,None,None,Hà Nội,Quận Đống Đa,Bán Căn hộ chung cư tại Đường Nguyễn Chí Thanh
+937,62000.0,150,"6,2m",4.0,None,Sổ đỏ,None,9.0,1.0,Hà Nội,Quận Cầu Giấy,Bán Nhà mặt phố tại Đường Quan Hoa
+938,16500.0,95,5m,4.0,None,Sổ đỏ,None,6.0,1.0,Hà Nội,Quận Cầu Giấy,Bán Nhà riêng tại Đường Nguyễn Khang
+939,27000.0,85,"5,5m",4.0,None,Sổ đỏ,None,7.0,1.0,Hà Nội,Quận Cầu Giấy,Bán Nhà mặt phố tại Phố Trung Kính
+940,383000.0,550,16m,4.0,None,Sổ đỏ,None,11.0,1.0,Hà Nội,Quận Cầu Giấy,Bán Nhà mặt phố tại Phố Dịch Vọng Hậu
+941,58000.0,200,10m,4.0,None,Sổ đỏ,None,9.0,1.0,Hà Nội,Quận Cầu Giấy,Bán Nhà riêng tại Đường Trần Duy Hưng
+942,Thỏa thuận,35,4m,3.0,None,Giấy tờ hợp lệ,None,5.0,None,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Đường Hoàng Văn Thái
+943,17500.0,65,"5,5m",4.0,None,Sổ đỏ,None,6.0,1.0,Hà Nội,Quận Cầu Giấy,Bán Nhà riêng tại Đường Nguyễn Khánh Toàn
+944,28000.0,108,8m,4.0,None,Sổ đỏ,None,7.0,1.0,Hà Nội,Quận Hà Đông,Bán Nhà riêng tại Đường Vạn Phúc
+945,16500.0,80,"6,5m",4.0,None,Sổ đỏ,None,7.0,1.0,Hà Nội,Quận Thanh Xuân,Bán Nhà mặt phố tại Đường Nguyễn Văn Trỗi
+946,1000.0,48,None,2.0,Nam,None,Đông-Bắc,6.0,1.0,Hà Nội,Quận Đống Đa,Bán Căn hộ chung cư tại Phường Khâm Thiên
+948,1230.0,52,None,2.0,Đông-Nam,None,Đông-Nam,6.0,1.0,Hà Nội,Quận Đống Đa,Bán Căn hộ chung cư tại Phố Hào Nam
+950,880,50,None,2.0,Nam,None,Đông-Bắc,6.0,1.0,Hà Nội,Quận Đống Đa,Bán Căn hộ chung cư tại Phố Chùa Láng
+952,990,52,None,2.0,Đông-Nam,None,Tây-Nam,6.0,1.0,Hà Nội,Quận Ba Đình,Bán Căn hộ chung cư tại Phố Kim Mã
+953,700,48,None,2.0,None,None,None,None,1.0,Hà Nội,Quận Cầu Giấy,Bán Căn hộ chung cư tại Đường Cầu Giấy
+961,4900.0,30,None,None,None,None,None,None,None,Hà Nội,Quận Hoàn Kiếm,Bán Nhà riêng tại Phường Phúc Tân
+962,5000.0,23,4m,4.0,None,Sổ đỏ,None,5.0,None,Hà Nội,Quận Hai Bà Trưng,Bán Nhà riêng tại Phường Đồng Nhân
+963,Thỏa thuận,48,None,None,None,Sổ hồng,None,None,1.0,Hà Nội,Quận Đống Đa,Bán Căn hộ chung cư tại Phố Quốc Tử Giám
+964,10200.0,62,None,None,None,None,None,None,None,Hà Nội,Quận Hai Bà Trưng,Bán Nhà riêng tại Phố Lê Thanh Nghị
+965,19500.0,201,None,4.0,None,Sổ đỏ,None,None,None,Hà Nội,Quận Hai Bà Trưng,Bán Nhà riêng tại Đường Đầm Trấu
+967,16900.0,87,5m,4.0,None,Sổ đỏ,None,4.0,None,Hà Nội,Quận Hai Bà Trưng,Bán Nhà riêng tại Phố Lạc Trung
+968,600,48,None,2.0,None,Sổ hồng,None,6.0,1.0,Hà Nội,Quận Bắc Từ Liêm,Bán Căn hộ chung cư tại Phố Đỗ Nhuận
+969,9600.0,45,None,None,None,None,None,None,None,Hà Nội,Quận Hai Bà Trưng,Bán Nhà riêng tại Đường Võ Thị Sáu
+977,3700.0,20,None,None,None,None,None,None,None,Hà Nội,Quận Hoàn Kiếm,Bán Nhà riêng tại Phố Hàng Bông
+982,3250.0,110,None,None,None,None,None,None,None,Hà Nội,Quận Nam Từ Liêm,Bán Căn hộ chung cư tại đường Trung Văn
+987,25000.0,180,None,None,None,None,None,None,None,Hà Nội,Quận Bắc Từ Liêm,Bán Đất tại Đường Phú Diễn
+988,70000.0,10000,None,None,None,None,None,None,None,Hà Nội,Huyện Quốc Oai,Bán Đất tại Xã Phú Mãn
+989,1000.0,70,None,None,None,None,None,None,None,Hà Nội,Huyện Quốc Oai,Bán Đất tại Đường Đại lộ Thăng Long
+990,1200.0,60,None,None,None,None,None,None,None,Hà Nội,Huyện Quốc Oai,Bán Đất tại Đường 21
+991,2700.0,300,None,None,None,None,None,None,None,Hà Nội,Huyện Quốc Oai,Bán Đất tại Đường 21
+992,1100.0,70,None,None,None,None,None,None,None,Hà Nội,Huyện Quốc Oai,Bán Đất tại Đường Đại lộ Thăng Long
+993,9900.0,45,None,None,None,None,None,None,None,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Đường Hoàng Văn Thái
+995,4500.0,32,None,None,None,None,None,None,None,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Phố Khương Hạ
+997,15000.0,93,None,None,None,None,None,None,None,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Phố Vũ Tông Phan
+998,8900.0,50,None,None,None,None,None,None,None,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Phố Khương Hạ
+999,4100.0,38,None,None,None,None,None,None,None,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Đường Khương Đình
+1000,4300.0,34,None,None,None,None,None,None,None,Hà Nội,Quận Ba Đình,Bán Nhà riêng tại Đường Đào Tấn
+1001,33000.0,124,None,None,None,None,None,None,None,Hà Nội,Quận Ba Đình,Bán Nhà riêng tại Phố Giảng Võ
+1002,12800.0,45,None,None,None,None,None,None,None,Hà Nội,Quận Ba Đình,Bán Nhà riêng tại Đường Đội Cấn
+1003,9850.0,50,None,None,None,None,None,None,None,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Đường Hoàng Văn Thái
+1004,17800.0,91,None,None,None,None,None,None,None,Hà Nội,Quận Ba Đình,Bán Nhà riêng tại Đường Đào Tấn
+1005,4300.0,35,None,None,None,None,None,None,None,Hà Nội,Quận Ba Đình,Bán Nhà riêng tại Đường Đào Tấn
+1006,6500.0,35,None,None,None,None,None,None,None,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Đường Hoàng Văn Thái
+1007,6100.0,55,None,4.0,None,Sổ đỏ,None,5.0,1.0,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Đường Khương Trung
+1008,6790.0,140,None,None,None,None,None,None,None,Hà Nội,Quận Thanh Xuân,Bán Căn hộ chung cư tại Phố Lê Văn Thiêm
+1010,4900.0,118,None,None,None,None,None,None,None,Hà Nội,Quận Thanh Xuân,Bán Căn hộ chung cư tại Phố Lê Văn Thiêm
+1011,33000.0,125,None,None,None,None,None,None,None,Hà Nội,Quận Ba Đình,Bán Nhà riêng tại Phường Giảng Võ
+1012,2050.0,38,None,None,None,None,None,None,None,Hà Nội,Quận Hà Đông,Bán Nhà riêng tại Đường Hòa Bình
+1013,2600.0,32,None,None,None,None,None,None,None,Hà Nội,Quận Hà Đông,Bán Nhà riêng tại Đường Nghĩa Lộ
+1014,5500.0,43,None,None,None,None,None,None,None,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Đường Hoàng Văn Thái
+1015,2400.0,36,None,None,None,None,None,None,None,Hà Nội,Quận Hà Đông,Bán Nhà riêng tại Phường Yên Nghĩa
+1016,6000.0,34,None,None,None,None,None,None,None,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Đường Hoàng Văn Thái
+1017,9900.0,45,None,None,None,None,None,None,None,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Đường Hoàng Văn Thái
+1019,2029.9999999999998,40,None,None,None,None,None,None,None,Hà Nội,Quận Hà Đông,Bán Nhà riêng tại Đường Hòa Bình
+1021,2300.0,31,None,None,None,None,None,None,None,Hà Nội,Quận Hà Đông,Bán Nhà riêng tại Phường Yên Nghĩa
+1022,5100.0,35,None,None,None,None,None,None,None,Hà Nội,Quận Ba Đình,Bán Nhà riêng tại Đường Hoàng Hoa Thám
+1023,4300.0,35,None,None,None,None,None,None,None,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Phường Hoàng Văn Thụ
+1024,2990.0,28,None,None,None,None,None,None,None,Hà Nội,Quận Ba Đình,Bán Nhà riêng tại Đường Vĩnh Phúc
+1026,9500.0,50,None,None,None,None,None,None,None,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Giải Phóng
+1027,5080.0,102,None,None,None,None,None,None,None,Hà Nội,Quận Long Biên,Bán Căn hộ chung cư tại Phường Bồ Đề
+1028,5800.0,50,None,None,None,None,None,None,None,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Nguyễn Đức Cảnh
+1032,3850.0,37,None,None,None,None,None,None,None,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Kim Giang
+1033,5300.0,65,None,None,None,None,None,None,None,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Giáp Nhị
+1034,8000.0,40,None,None,None,None,None,None,None,Hà Nội,Quận Đống Đa,Bán Nhà riêng tại Đường Nguyễn Chí Thanh
+1035,8280.0,72,None,None,None,None,None,None,None,Hà Nội,Quận Đống Đa,Bán Nhà riêng tại Phố Tôn Đức Thắng
+1036,2600.0,25,None,None,None,None,None,None,None,Hà Nội,Quận Đống Đa,Bán Nhà riêng tại Phố Phương Mai
+1037,6050.0,47,None,None,None,None,None,None,None,Hà Nội,Quận Đống Đa,Bán Nhà riêng tại Phố Thái Hà
+1038,8200.0,50,None,None,None,None,None,None,None,Hà Nội,Quận Đống Đa,Bán Nhà riêng tại Phố Thái Hà
+1039,2800.0,77,None,None,None,None,None,None,None,Hà Nội,Quận Cầu Giấy,Bán Căn hộ chung cư tại Phố Nguyễn Ngọc Vũ
+1041,3750.0,70,None,None,None,None,None,None,None,Hà Nội,Quận Cầu Giấy,Bán Căn hộ chung cư tại Phố Trung Kính
+1043,2800.0,55,None,None,None,None,None,None,None,Hà Nội,Quận Cầu Giấy,Bán Căn hộ chung cư tại Đường Xuân Thủy
+1049,3970.0,103,None,None,None,None,None,None,None,Hà Nội,Quận Thanh Xuân,Bán Căn hộ chung cư tại Đường Nguyễn Trãi
+1051,8450.0,55,4m,4.0,None,Sổ đỏ,None,4.0,None,Hà Nội,Quận Cầu Giấy,Bán Nhà riêng tại Đường Nguyễn Khánh Toàn
+1052,2550.0,77,None,None,None,None,None,None,None,Hà Nội,Quận Hoàng Mai,Bán Căn hộ chung cư tại Phố Trần Điền
+1057,1020.0,45.0,None,2.0,None,Sổ đỏ,None,6.0,1.0,Hà Nội,Quận Đống Đa,Bán Căn hộ chung cư tại Đường Tôn Thất Tùng
+1058,920.0,42.5,None,None,None,Sổ đỏ,None,None,None,Hà Nội,Quận Cầu Giấy,Bán Căn hộ chung cư tại Đường Cầu Giấy
+1061,3500.0,45,4m,3.0,None,None,None,5.0,None,Hà Nội,Quận Đống Đa,Bán Nhà riêng tại Phố Láng Hạ
+1062,2100.0,48,4m,None,None,None,None,None,None,Hà Nội,Huyện Gia Lâm,Bán Đất tại đường Cổ Bi
+1064,8400.0,40,4m,4.0,None,Sổ đỏ,None,5.0,1.0,Hà Nội,Quận Hà Đông,Bán Nhà riêng tại Đường Đại An
+1066,2500.0,20,None,None,None,Sổ hồng,Nam,None,1.0,Hà Nội,Quận Đống Đa,Bán Nhà riêng tại Đường Lương Sử A
+1067,1052.0,42.5,None,2.0,None,Giấy tờ hợp lệ,None,7.0,1.0,Hà Nội,Quận Hoàng Mai,Bán Căn hộ chung cư tại Phường Hoàng Văn Thụ
+1071,34000.0,150,None,None,None,Sổ hồng,Tây-Nam,None,None,Hà Nội,Quận Tây Hồ,Bán Nhà mặt phố tại Đường Xuân Diệu
+1077,141000.0,255,None,None,None,Sổ đỏ,Đông-Nam,None,None,Hà Nội,Quận Tây Hồ,Bán Nhà riêng tại Đường Quảng An
+1090,8900.0,78,None,None,None,None,None,None,None,Hà Nội,Quận Đống Đa,Bán Nhà riêng tại Phố Xã Đàn
+1091,680,30,None,2.0,None,None,None,None,1.0,Hà Nội,Quận Đống Đa,Bán Căn hộ chung cư tại Phố Chùa Láng
+1092,3250.0,35,None,3.0,None,Sổ đỏ,None,None,None,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Định Công
+1093,580,25,None,2.0,None,None,None,None,1.0,Hà Nội,Quận Hoàng Mai,Bán Căn hộ chung cư tại Đường Giáp Bát
+1094,Thỏa thuận,46,None,2.0,None,None,None,None,1.0,Hà Nội,Quận Đống Đa,Bán Căn hộ chung cư tại Phố Khâm Thiên
+1095,9800.0,45,None,None,None,Sổ đỏ,None,None,None,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Hoàng Mai
+1096,Thỏa thuận,"36,5",None,None,None,None,None,None,None,Hà Nội,Huyện Chương Mỹ,Bán Đất tại Thị trấn Chúc Sơn
+1097,13500.0,51,None,None,None,Sổ hồng,None,None,None,Hà Nội,Quận Đống Đa,Bán Nhà riêng tại Đường Đông Tác
+1099,3500.0,33,4m,4.0,None,Sổ đỏ,None,5.0,1.0,Hà Nội,Huyện Thanh Trì,Bán Nhà riêng tại Đường Tân Triều
+1100,Thỏa thuận,70,5m,4.0,None,None,None,6.0,None,Hà Nội,Quận Nam Từ Liêm,Bán Nhà riêng tại Đường Lương Thế Vinh
+1102,6300.0,58,"6,3m",4.0,None,Sổ đỏ,None,6.0,1.0,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Đường Tân Triều
+1103,900.0,40.0,None,2.0,Nam,Giấy chứng nhận quyền sở hữu,Đông,6.0,1.0,Hà Nội,Quận Đống Đa,Bán Căn hộ chung cư tại Đường Cát Linh
+1104,Thỏa thuận,126,4m,None,None,None,None,3.0,1.0,Hà Nội,Quận Đống Đa,Bán Nhà mặt phố tại Đường Tây Sơn
+1105,"1,65",65,None,2.0,Tây-Nam,None,None,33.0,1.0,Hà Nội,Quận Hoàng Mai,Bán Căn hộ chung cư tại Đường Nguyễn Hữu Thọ
+1106,3850.0,39,4m,4.0,None,Sổ đỏ,None,5.0,1.0,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Đường Kim Giang
+1107,4550.0,35,"3,3m",4.0,None,Sổ đỏ,Đông-Bắc,6.0,1.0,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Đường Lê Trọng Tấn
+1108,2400.0,31,None,None,None,None,None,None,None,Hà Nội,Quận Long Biên,Bán Nhà riêng tại Đường Phúc Lợi
+1112,Thỏa thuận,48,15m,4.0,None,Sổ đỏ,Đông,4.0,1.0,Hà Nội,Quận Nam Từ Liêm,Bán Nhà riêng tại Đường Tu Hoàng
+1115,2290.0,96,None,3.0,None,Sổ hồng,Đông-Nam,6.0,None,Hà Nội,Quận Long Biên,Bán Căn hộ chung cư tại Phường Thượng Thanh
+1117,2009.9999999999998,68,"4,03m",None,None,Sổ đỏ,None,None,None,Hà Nội,Huyện Đông Anh,Bán Đất tại Đường Vân Trì
+1118,Thỏa thuận,30,38m,2.0,None,Sổ đỏ,Đông-Nam,2.0,1.0,Hà Nội,Quận Hà Đông,Bán Nhà riêng tại Đường Văn Phú
+1119,8100.0,40,6m,3.0,None,Sổ đỏ,None,5.0,1.0,Hà Nội,Quận Hai Bà Trưng,Bán Nhà riêng tại Đường Phố Chùa Quỳnh
+1121,6500.0,50,None,4.0,None,Sổ đỏ,Đông-Nam,3.0,1.0,Hà Nội,Quận Tây Hồ,Bán Nhà riêng tại đường An Dương
+1123,4300.0,35,6m,4.0,None,Sổ đỏ,None,5.0,1.0,Hà Nội,Quận Long Biên,Bán Nhà riêng tại Đường Bồ Đề
+1124,4300.0,45,4m,4.0,None,None,None,4.0,1.0,Hà Nội,Quận Long Biên,Bán Nhà riêng tại Đường Ngọc Thụy
+1125,37000.0,308,12m,None,None,None,None,None,None,Hà Nội,Huyện Gia Lâm,Bán Đất tại Đường Nguyễn Mậu Tài
+1126,21500000.0,82,45m,None,None,Sổ đỏ,None,7.0,1.0,Hà Nội,Quận Long Biên,Bán Nhà mặt phố tại Đường Cổ Linh
+1127,12500.0,75,5m,4.0,None,Sổ đỏ,None,6.0,1.0,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Nguyễn Đức Cảnh
+1128,12800.0,79,"4,3m",4.0,None,Sổ đỏ,None,5.0,1.0,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Hoàng Mai
+1137,Thỏa thuận,95.0,None,None,None,Sổ hồng,Đông-Nam,15.0,1.0,Hà Nội,Quận Cầu Giấy,Bán Căn hộ chung cư tại Đường Duy Tân
+1140,42,62,"5,2m",None,None,None,None,7.0,None,Hà Nội,Quận Hai Bà Trưng,Bán Nhà mặt phố tại Đường Triệu Việt Vương
+1144,15500.0,103,5m,4.0,None,Sổ đỏ,None,4.0,None,Hà Nội,Quận Tây Hồ,Bán Nhà riêng tại Đường Xuân La
+1145,Thỏa thuận,45,None,None,None,None,None,None,1.0,Hà Nội,Quận Hà Đông,Bán Nhà riêng tại Phố Phùng Hưng
+1146,23900.0,80,None,None,None,Sổ đỏ,None,4.0,None,Hà Nội,Quận Cầu Giấy,Bán Nhà riêng tại Đường Trung Yên
+1150,3200.0,41,None,3.0,None,Sổ đỏ,None,5.0,None,Hà Nội,Quận Đống Đa,Bán Nhà riêng tại Phố Hoàng Cầu
+1152,3300.0,43,None,3.0,None,Sổ đỏ,None,5.0,1.0,Hà Nội,Quận Đống Đa,Bán Nhà riêng tại Phố Thái Thịnh
+1155,6500.0,50,None,None,None,Sổ đỏ,None,None,None,Hà Nội,Quận Cầu Giấy,Bán Đất tại Đường Yên Hòa
+1156,11500.0,48,"6,8m",4.0,None,Sổ hồng,Đông-Bắc,7.0,1.0,Hà Nội,Quận Long Biên,Bán Nhà riêng tại Đường Nguyễn Văn Cừ
+1174,3480.0,38,None,4.0,None,Sổ đỏ,None,4.0,None,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Đặng Xuân Bảng
+1175,3400.0,41,None,4.0,None,Sổ đỏ,None,4.0,None,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Kim Giang
+1176,3400.0,39,None,4.0,None,Sổ đỏ,None,5.0,None,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Kim Giang
+1177,3550.0,41,None,4.0,None,Sổ đỏ,None,4.0,None,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Kim Giang
+1178,3250.0,34,None,4.0,None,Sổ đỏ,None,5.0,None,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Hoàng Liệt
+1179,3350.0,35,None,4.0,None,Sổ đỏ,None,5.0,None,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Hoàng Liệt
+1180,3250.0,35,None,3.0,None,Sổ đỏ,None,5.0,None,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Hoàng Liệt
+1181,3500.0,41,None,3.0,None,Sổ đỏ,None,4.0,None,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Hoàng Liệt
+1182,3250.0,35,None,4.0,None,Sổ đỏ,None,4.0,None,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Kim Giang
+1183,3250.0,35,None,4.0,None,Sổ đỏ,None,4.0,None,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Định Công
+1186,1320.0,52,None,1.0,None,None,None,None,None,Hà Nội,Quận Đống Đa,Bán Căn hộ chung cư tại Đường Đông Tác
+1187,1077.0,42.5,None,1.0,None,None,None,6.0,1.0,Hà Nội,Quận Hoàng Mai,Bán Căn hộ chung cư tại Phường Hoàng Văn Thụ
+1188,2250.0,89,None,2.0,None,Sổ đỏ,Đông-Bắc,None,1.0,Hà Nội,Quận Hà Đông,Bán Căn hộ chung cư tại Đường Tố Hữu
+1189,2600.0,31,"3,3m",4.0,None,Sổ hồng,Đông-Nam,5.0,None,Hà Nội,Quận Hà Đông,Bán Nhà riêng tại Đường Quang Trung
+1190,15000.0,60,"6,5m",4.0,None,Sổ đỏ,None,5.0,None,Hà Nội,Quận Cầu Giấy,Bán Nhà riêng tại Phố Trần Quốc Hoàn
+1191,4980.0,50,None,4.0,None,Sổ đỏ,None,None,None,Hà Nội,Quận Cầu Giấy,Bán Nhà riêng tại Đường Trần Duy Hưng
+1192,58000.0,65,"5,5m",4.0,None,Sổ đỏ,None,3.0,1.0,Hà Nội,Quận Hoàn Kiếm,Bán Nhà mặt phố tại Phố Mã Mây
+1193,7800.0,40,None,None,None,Sổ đỏ,None,None,1.0,Hà Nội,Quận Cầu Giấy,Bán Nhà riêng tại Phố Doãn Kế Thiện
+1195,26000.0,93,None,None,None,None,None,9.0,None,Hà Nội,Quận Hoàn Kiếm,Bán Bất động sản khác tại Đường Trần Hưng Đạo
+1196,40200.0,268,28m,None,None,Sổ đỏ,None,None,None,Hà Nội,Quận Long Biên,Bán Đất tại Đường Ngọc Lâm
+1197,25000.0,28,None,None,None,None,None,None,None,Hà Nội,Quận Hai Bà Trưng,Bán Nhà mặt phố tại Đường Triệu Việt Vương
+1198,173000.0,352,None,None,None,Sổ đỏ,None,None,None,Hà Nội,Quận Hai Bà Trưng,Bán Nhà mặt phố tại Đường Tô Hiến Thành
+1199,19500.0,116,None,4.0,None,Sổ đỏ,None,None,1.0,Hà Nội,Quận Cầu Giấy,Bán Nhà riêng tại Đường Cầu Giấy
+1200,1920.0,30,"3,5m",3.0,None,Sổ đỏ,None,4.0,None,Hà Nội,Huyện Thanh Trì,Bán Nhà riêng tại Đường Tả Thanh Oai
+1213,600,28,None,1.0,None,Sổ đỏ,None,None,1.0,Hà Nội,Quận Đống Đa,Bán Căn hộ chung cư tại Đường Láng
+1215,760,48,None,2.0,None,None,None,None,None,Hà Nội,Quận Đống Đa,Bán Căn hộ chung cư tại Phố Thái Thịnh
+1219,4500.0,40,5m,4.0,None,None,None,4.0,None,Hà Nội,Quận Ba Đình,Bán Nhà riêng tại Đường Đội Cấn
+1221,610,50,None,2.0,None,Sổ hồng,None,6.0,1.0,Hà Nội,Quận Nam Từ Liêm,Bán Căn hộ chung cư tại Đường Đình Thôn
+1223,Thỏa thuận,48,None,None,None,None,None,None,1.0,Hà Nội,Quận Đống Đa,Bán Căn hộ chung cư tại Phố Khâm Thiên
+1230,1077.0,42.5,None,1.0,None,Giấy tờ hợp lệ,None,6.0,1.0,Hà Nội,Quận Hoàng Mai,Bán Căn hộ chung cư tại Đường Giải Phóng
+1232,3200.0,135,None,2.0,None,Sổ đỏ,None,None,None,Hà Nội,Quận Hà Đông,Bán Căn hộ chung cư tại Đường Quang Trung
+1234,15500.0,175,10m,2.0,None,Sổ đỏ,None,1.0,None,Hà Nội,Quận Cầu Giấy,Bán Nhà riêng tại Đường Cầu Giấy
+1235,3900.0,46,"3,3m",3.0,None,Sổ đỏ,None,5.0,1.0,Hà Nội,Quận Long Biên,Bán Nhà riêng tại Đường Ngọc Thụy
+1236,1300.0,50,None,1.0,None,None,None,None,None,Hà Nội,Quận Hoàng Mai,Bán Căn hộ chung cư tại Đường Hoàng Mai
+1237,1500.0,156,None,None,None,None,None,None,None,Hà Nội,Huyện Chương Mỹ,Bán Đất tại Đường 6
+1238,5600.0,34,"6,5m",4.0,None,Sổ đỏ,None,6.0,1.0,Hà Nội,Quận Đống Đa,Bán Nhà riêng tại Đường Cát Linh
+1239,10200.0,850,None,None,None,Sổ đỏ,None,None,None,Hà Nội,Huyện Quốc Oai,Bán Đất tại Xã Hòa Thạch
+1240,4860.0,81,None,None,None,None,None,None,None,Hà Nội,Huyện Hoài Đức,Bán Đất tại Đường Yên Vĩnh
+1241,Thỏa thuận,48,None,4.0,None,Sổ đỏ,None,4.0,None,Hà Nội,Huyện Hoài Đức,Bán Nhà riêng tại Đường 422
+1242,1410.0,32,None,None,None,None,None,None,None,Hà Nội,Huyện Hoài Đức,Bán Đất tại Xã An Khánh
+1243,6800.0,68,None,None,None,None,None,None,None,Hà Nội,Quận Long Biên,Bán Đất tại Đường Bát Khối
+1244,5150.0,66,None,None,None,None,None,None,None,Hà Nội,Quận Long Biên,Bán Đất tại Đường Nam Đuống
+1253,690,45,None,None,None,None,None,None,None,Hà Nội,Quận Hoàng Mai,Bán Căn hộ chung cư tại Đường Hoàng Mai
+1256,Thỏa thuận,48,None,None,None,None,None,None,None,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Phố Khương Hạ
+1257,500,50,None,2.0,None,Sổ đỏ,None,None,1.0,Hà Nội,Quận Tây Hồ,Bán Căn hộ chung cư tại Đường Võng Thị
+1258,3150.0,90,5m,4.0,None,Sổ đỏ,None,1.0,1.0,Hà Nội,Quận Bắc Từ Liêm,Bán Nhà riêng tại Đường Cổ Nhuế
+1261,6800.0,55,5m,None,None,Sổ đỏ,None,None,None,Hà Nội,Quận Long Biên,Bán Đất tại Đường Đức Giang
+1262,2750.0,30,"3,5m",4.0,None,Sổ đỏ,None,4.0,None,Hà Nội,Huyện Thanh Trì,Bán Nhà riêng tại Đường Tả Thanh Oai
+1263,875.0,46.5,None,3.0,None,None,None,None,None,Hà Nội,Quận Đống Đa,Bán Căn hộ chung cư tại Đường Trường Chinh
+1264,1340.0,46,None,1.0,None,Sổ hồng,None,None,None,Hà Nội,Quận Hoàng Mai,Bán Căn hộ chung cư tại Đường Giải Phóng
+1265,7000.0,55,6m,4.0,None,Sổ đỏ,None,5.0,1.0,Hà Nội,Quận Cầu Giấy,Bán Nhà riêng tại Đường Trần Thái Tông
+1267,2200.0,70,None,2.0,Nam,Sổ đỏ,Bắc,7.0,1.0,Hà Nội,Quận Cầu Giấy,Bán Căn hộ chung cư tại Đường Dịch Vọng
+1268,3000.0,146,6m,None,None,Sổ đỏ,Đông-Nam,None,None,Hà Nội,Huyện Thạch Thất,Bán Đất tại Đường ĐT420
+1269,5200.0,55,5m,3.0,None,None,None,4.0,1.0,Hà Nội,Quận Nam Từ Liêm,Bán Nhà riêng tại Đường Đại Mỗ
+1270,Thỏa thuận,80,None,None,None,Sổ đỏ,None,None,None,Hà Nội,Quận Hai Bà Trưng,Bán Nhà riêng tại Phố Trần Đại Nghĩa
+1272,3600.0,38,"3,8m",4.0,None,Sổ đỏ,None,4.0,1.0,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Đường Kim Giang
+1273,52000.0,265,11m,4.0,None,None,None,5.0,None,Hà Nội,Quận Cầu Giấy,Bán Nhà riêng tại Đường Trần Duy Hưng
+1274,6700.0,50,"3,5m",4.0,None,None,None,3.0,1.0,Hà Nội,Quận Hà Đông,Bán Nhà riêng tại Đường Lê Lợi
+1275,7000.0,40,None,None,None,Sổ đỏ,None,None,None,Hà Nội,Quận Cầu Giấy,Bán Nhà riêng tại Phố Nguyễn Ngọc Vũ
+1276,6650.0,53,5m,2.0,None,None,None,2.0,1.0,Hà Nội,Quận Hà Đông,Bán Nhà riêng tại Đường Nhuệ Giang
+1277,6700.0,50,"3,5m",4.0,None,None,None,3.0,1.0,Hà Nội,Quận Hà Đông,Bán Nhà riêng tại Đường Lê Lợi
+1278,Thỏa thuận,40,34m,4.0,None,Sổ hồng,Đông-Bắc,5.0,1.0,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Đường Khương Đình
+1281,2400.0,91,None,3.0,None,Sổ hồng,Đông-Nam,38.0,None,Hà Nội,Huyện Đông Anh,Bán Căn hộ chung cư tại Xã Đông Hội
+1282,5650.0,45,4m,None,None,Sổ đỏ,None,3.0,None,Hà Nội,Quận Đống Đa,Bán Nhà riêng tại Đường Nguyễn Chí Thanh
+1286,2800.0,80,None,None,None,Giấy tờ hợp lệ,None,None,None,Hà Nội,Huyện Gia Lâm,Bán Căn hộ chung cư tại Đường Đa Tốn
+1288,1600.0,61,None,2.0,None,Sổ đỏ,None,None,None,Hà Nội,Quận Hà Đông,Bán Căn hộ chung cư tại Đường 1
+1289,4200.0,40,None,4.0,None,Sổ đỏ,None,None,None,Hà Nội,Quận Hà Đông,Bán Nhà riêng tại Đường 1
+1292,3300.0,36,None,4.0,None,Sổ đỏ,None,5.0,1.0,Hà Nội,Quận Đống Đa,Bán Nhà riêng tại Phố Tôn Đức Thắng
+1293,1110.0,35,4m,4.0,None,Sổ hồng,None,6.0,1.0,Hà Nội,Quận Đống Đa,Bán Nhà riêng tại Đường Nguyên Hồng
+1294,Thỏa thuận,52,"6,8m",4.0,None,Sổ hồng,None,5.0,1.0,Hà Nội,Quận Cầu Giấy,Bán Nhà riêng tại Đường Nguyễn Khánh Toàn
+1295,21500.0,42,4m,4.0,None,None,None,7.0,1.0,Hà Nội,Quận Ba Đình,Bán Nhà mặt phố tại Phố Kim Mã
+1298,1950.0,30,"3,5m",3.0,None,Sổ đỏ,Đông-Nam,4.0,None,Hà Nội,Huyện Thanh Trì,Bán Nhà riêng tại Đường Tả Thanh Oai
+1299,2550.0,37,"3,5m",4.0,None,Sổ đỏ,None,5.0,None,Hà Nội,Huyện Thanh Trì,Bán Nhà riêng tại Đường Tả Thanh Oai
+1300,1550.0,31,"3,1m",2.0,None,Sổ đỏ,None,1.0,1.0,Hà Nội,Huyện Thanh Trì,Bán Nhà riêng tại Đường Tả Thanh Oai
+1301,1890.0,30,None,4.0,None,Sổ đỏ,None,4.0,1.0,Hà Nội,Huyện Thanh Trì,Bán Nhà riêng tại Đường Tả Thanh Oai
+1302,3100.0,27,None,None,None,None,None,None,None,Hà Nội,Quận Hai Bà Trưng,Bán Nhà riêng tại Phố Lò Đúc
+1304,600,50,None,2.0,None,Sổ hồng,None,6.0,1.0,Hà Nội,Quận Ba Đình,Bán Căn hộ chung cư tại Đường Đội Cấn
+1313,600,52,None,2.0,None,Sổ hồng,None,6.0,1.0,Hà Nội,Quận Thanh Xuân,Bán Căn hộ chung cư tại Đường Giáp Nhất
+1314,2850.0,33,None,3.0,None,Sổ đỏ,Bắc,None,None,Hà Nội,Quận Long Biên,Bán Nhà riêng tại Đường Bát Khối
+1315,6100.0,61,None,None,None,None,None,None,None,Hà Nội,Quận Ba Đình,Bán Nhà riêng tại Đường Đội Cấn
+1316,3750.0,31,None,None,None,None,None,None,None,Hà Nội,Quận Ba Đình,Bán Nhà riêng tại Đường Đội Cấn
+1317,3550.0,27,None,None,None,None,None,None,None,Hà Nội,Quận Ba Đình,Bán Nhà riêng tại Phố Kim Mã
+1318,4800.0,48,None,None,None,None,None,None,None,Hà Nội,Quận Ba Đình,Bán Nhà riêng tại Đường Hoàng Hoa Thám
+1319,4750.0,38,None,None,None,None,None,None,None,Hà Nội,Quận Ba Đình,Bán Nhà riêng tại Đường Đội Cấn
+1320,11000.0,55,None,None,None,Sổ đỏ,None,6.0,None,Hà Nội,Quận Cầu Giấy,Bán Nhà riêng tại Phố Trần Quốc Hoàn
+1321,6600.0,47,None,None,None,None,None,None,None,Hà Nội,Quận Hai Bà Trưng,Bán Nhà riêng tại Phường Trương Định
+1322,4600.0,43,None,None,None,None,None,None,None,Hà Nội,Quận Hai Bà Trưng,Bán Nhà riêng tại Phố Bạch Mai
+1323,4850.0,35,None,None,None,None,None,None,None,Hà Nội,Quận Hai Bà Trưng,Bán Nhà riêng tại Phố Bạch Mai
+1324,11300.0,55,None,None,None,None,None,None,None,Hà Nội,Quận Hai Bà Trưng,Bán Nhà riêng tại Đường Trương Định
+1325,6800.0,40,None,None,None,None,None,None,None,Hà Nội,Quận Hai Bà Trưng,Bán Nhà riêng tại Phố Lò Đúc
+1326,3950.0,40,None,None,None,None,None,None,None,Hà Nội,Quận Cầu Giấy,Bán Nhà riêng tại Đường Lê Văn Lương
+1327,9150.0,48,None,None,None,None,None,None,None,Hà Nội,Quận Cầu Giấy,Bán Nhà riêng tại Đường Hoàng Quốc Việt
+1328,16600.0,50,None,None,None,None,None,None,None,Hà Nội,Quận Cầu Giấy,Bán Nhà riêng tại Phố Trần Quốc Hoàn
+1329,8600.0,46,None,None,None,None,None,None,None,Hà Nội,Quận Cầu Giấy,Bán Nhà riêng tại Phố Phùng Chí Kiên
+1330,7100.0,65,None,None,None,None,None,None,None,Hà Nội,Quận Cầu Giấy,Bán Nhà riêng tại Đường Quan Hoa
+1331,Thỏa thuận,60,None,None,None,None,None,None,None,Hà Nội,Quận Hoàng Mai,Bán Đất tại Đường Bằng Liệt
+1332,Thỏa thuận,76.9,None,3.0,None,None,None,None,None,Hà Nội,Quận Hoàng Mai,Bán Căn hộ chung cư tại Phường Giáp Bát
+1333,4950.0,45,None,None,None,None,None,None,None,Hà Nội,Quận Long Biên,Bán Nhà riêng tại Đường Vũ Xuân Thiều
+1334,3800.0,40,None,None,None,None,None,None,None,Hà Nội,Quận Long Biên,Bán Nhà riêng tại Đường Nguyễn Văn Linh
+1340,7000.0,70,6m,4.0,None,Sổ đỏ,None,5.0,1.0,Hà Nội,Quận Cầu Giấy,Bán Nhà riêng tại Đường Trần Thái Tông
+1342,Thỏa thuận,333,None,4.0,None,Sổ đỏ,None,None,1.0,Hà Nội,Quận Ba Đình,Bán Căn hộ chung cư tại Đường Hoàng Hoa Thám
+1344,3380.0,45,None,None,None,None,None,None,None,Hà Nội,Quận Long Biên,Bán Nhà riêng tại Đường Đức Giang
+1345,3650.0,35,None,None,None,None,None,None,None,Hà Nội,Quận Long Biên,Bán Nhà riêng tại Phố Việt Hưng
+1346,2980.0,30,None,None,None,None,None,None,None,Hà Nội,Quận Long Biên,Bán Nhà riêng tại Đường Thượng Thanh
+1348,3540.0,"67,5","4,5m",None,None,Sổ đỏ,None,None,None,Hà Nội,Huyện Đông Anh,Bán Đất tại Đường Hải Bối
+1349,26310.0,414,None,None,None,None,None,None,None,Hà Nội,Quận Đống Đa,Bán Nhà phố thương mại Shophouse tại Phố Láng Hạ
+1351,20600.0,80,None,None,None,None,None,None,None,Hà Nội,Quận Đống Đa,Bán Nhà phố thương mại Shophouse tại Phố Thái Hà
+1352,35100.0,535,None,None,None,None,None,None,None,Hà Nội,Quận Đống Đa,Bán Nhà phố thương mại Shophouse tại Phố Láng Hạ
+1353,5400.0,40,None,None,None,None,None,None,None,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Đường Lê Trọng Tấn
+1354,4000.0,40,None,None,None,None,None,None,None,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Đường Vũ Trọng Phụng
+1355,6600.0,75,None,8.0,None,Sổ hồng,None,None,None,Hà Nội,Huyện Đông Anh,Bán Đất tại Đường Quốc lộ 3
+1356,3550.0,33,None,None,None,None,None,None,None,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Đường Kim Giang
+1358,6300.0,67,None,None,None,None,None,None,None,Hà Nội,Quận Ba Đình,Bán Nhà riêng tại Đường Ngọc Hà
+1359,9500.0,45,None,None,None,None,None,None,None,Hà Nội,Quận Ba Đình,Bán Nhà riêng tại Đường Đội Nhân
+1360,107000.0,211,None,None,None,None,None,None,None,Hà Nội,Quận Ba Đình,Bán Nhà riêng tại Phố Linh Lang
+1361,8500.0,80,None,8.0,None,Sổ hồng,None,None,None,Hà Nội,Huyện Đông Anh,Bán Đất tại Đường Quốc lộ 3
+1362,7000.0,30,None,None,None,None,None,None,None,Hà Nội,Quận Ba Đình,Bán Nhà riêng tại Đường Hồng Hà
+1363,6600.0,73,None,None,None,None,None,None,None,Hà Nội,Quận Ba Đình,Bán Nhà riêng tại Đường Phan Kế Bính
+1364,3400.0,28,None,None,None,None,None,None,None,Hà Nội,Quận Hà Đông,Bán Nhà riêng tại Đường Vạn Phúc
+1365,3650.0,38,None,None,None,None,None,None,None,Hà Nội,Quận Hà Đông,Bán Nhà riêng tại Phường Yên Nghĩa
+1366,1780.0,38,None,None,None,None,None,None,None,Hà Nội,Quận Hà Đông,Bán Nhà riêng tại Phường Biên Giang
+1367,2390.0,33,None,None,None,None,None,None,None,Hà Nội,Quận Hà Đông,Bán Nhà riêng tại Phường Phú Lãm
+1368,2300.0,36,None,None,None,None,None,None,None,Hà Nội,Quận Hà Đông,Bán Nhà riêng tại Phường Phú Lương
+1369,7500.0,55,None,None,None,None,None,None,None,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Mai Động
+1370,2950.0,32,None,None,None,None,None,None,None,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Nguyễn Khoái
+1371,Thỏa thuận,40,4m,None,None,Sổ đỏ,None,5.0,1.0,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Phường Nhân Chính
+1372,6950.0,76,None,None,None,None,None,None,None,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Tân Mai
+1373,3800.0,34,None,None,None,None,None,None,None,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Trương Định
+1374,10800.0,50,None,None,None,None,None,None,None,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Tân Mai
+1375,23000.0,69,None,None,None,None,None,None,None,Hà Nội,Quận Hoàn Kiếm,Bán Nhà riêng tại Đường Ngô Quyền
+1376,5600.0,38,None,None,None,None,None,None,None,Hà Nội,Quận Hoàn Kiếm,Bán Nhà riêng tại Phố Nam Ngư
+1377,24000.0,96,None,None,None,None,None,None,None,Hà Nội,liền kề tại Quận Long Biên,Bán Nhà biệt thự
+1379,2900.0,60,5m,None,None,Sổ đỏ,None,None,None,Hà Nội,Huyện Đông Anh,Bán Đất tại Đường Hải Bối
+1380,39200.0,980,None,None,None,None,None,None,None,Hà Nội,Quận Thanh Xuân,Bán Căn hộ chung cư tại Đường Lê Văn Lương
+1385,13900.0,93,None,None,None,None,None,None,None,Hà Nội,Quận Đống Đa,Bán Nhà riêng tại Đường Tôn Thất Tùng
+1386,4500.0,37,None,None,None,None,None,None,None,Hà Nội,Quận Đống Đa,Bán Nhà riêng tại Đường Trung Phụng
+1388,2400.0,25,None,None,None,None,None,None,None,Hà Nội,Quận Đống Đa,Bán Nhà riêng tại Phố Tôn Đức Thắng
+1389,6200.0,45,None,None,None,None,None,None,None,Hà Nội,Quận Đống Đa,Bán Nhà riêng tại Đường Đặng Tiến Đông
+1390,10200.0,54,None,None,None,None,None,None,None,Hà Nội,Quận Đống Đa,Bán Nhà riêng tại Phố Tôn Đức Thắng
+1391,12500.0,50,None,None,None,None,None,None,None,Hà Nội,Quận Cầu Giấy,Bán Nhà riêng tại Phố Trung Kính
+1392,6800.0,30,None,None,None,None,None,None,None,Hà Nội,Quận Cầu Giấy,Bán Nhà riêng tại Phố Trung Kính
+1393,9300.0,45,None,None,None,None,None,None,None,Hà Nội,Quận Cầu Giấy,Bán Nhà riêng tại Phố Trung Kính
+1394,22000.0,73,None,None,None,None,None,None,None,Hà Nội,Quận Cầu Giấy,Bán Nhà riêng tại Phố Trung Kính
+1395,4900.0,47,None,None,None,None,None,None,None,Hà Nội,Quận Cầu Giấy,Bán Nhà riêng tại Phố Trung Kính
+1397,6300.0,50,None,None,None,None,None,None,None,Hà Nội,Quận Tây Hồ,Bán Nhà riêng tại Đường Võ Chí Công
+1398,21500.0,95,None,None,None,None,None,None,None,Hà Nội,Quận Tây Hồ,Bán Nhà riêng tại Đường Võng Thị
+1399,6400.0,48,None,None,None,None,None,None,None,Hà Nội,Quận Tây Hồ,Bán Nhà riêng tại Đường Lạc Long Quân
+1400,5290.0,37,None,None,None,None,None,None,None,Hà Nội,Quận Tây Hồ,Bán Nhà riêng tại đường Thụy Khuê
+1401,8000.0,60,None,None,None,None,None,None,None,Hà Nội,Quận Tây Hồ,Bán Nhà riêng tại Đường Võ Chí Công
+1403,3850.0,44,None,None,None,None,None,None,None,Hà Nội,Quận Hà Đông,Bán Nhà riêng tại Đường Trần Phú
+1404,6450.0,45,None,None,None,None,None,None,None,Hà Nội,Quận Hà Đông,Bán Nhà riêng tại Đường Chiến Thắng
+1405,1900.0,40,None,None,None,None,None,None,None,Hà Nội,Quận Hà Đông,Bán Nhà riêng tại Phường Biên Giang
+1406,2100.0,35,None,None,None,None,None,None,None,Hà Nội,Quận Hà Đông,Bán Nhà riêng tại Phường Phú Lương
+1407,3000.0,42,None,None,None,None,None,None,None,Hà Nội,Quận Hà Đông,Bán Nhà riêng tại Đường Mậu Lương
+1411,6800.0,68,None,None,None,Sổ đỏ,Tây-Nam,None,None,Hà Nội,Quận Long Biên,Bán Đất tại Đường Bát Khối
+1412,1800.0,32,None,None,None,None,Tây-Bắc,4.0,None,Hà Nội,Quận Hà Đông,Bán Nhà riêng tại Đường Yên Bình
+1413,24800.0,155,"6,5m",None,None,Sổ đỏ,None,None,None,Hà Nội,Quận Nam Từ Liêm,Bán Đất tại Phố Nguyễn Đổng Chi
+1414,3400.0,35,None,3.0,None,Sổ đỏ,None,5.0,None,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Trương Định
+1416,830,34,"4,6m",None,None,Sổ hồng,None,None,None,Hà Nội,Quận Hà Đông,Bán Đất tại Đường Cổ Bản
+1417,780,35,48m,None,None,Sổ hồng,None,None,None,Hà Nội,Quận Hà Đông,Bán Đất tại Đường Cổ Bản
+1420,850,50,None,2.0,None,Sổ đỏ,None,7.0,None,Hà Nội,Quận Đống Đa,Bán Căn hộ chung cư tại Đường Trung Phụng
+1421,4550.0,35,"3,3m",4.0,None,Sổ đỏ,None,6.0,1.0,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Đường Lê Trọng Tấn
+1422,2200.0,73,None,2.0,None,Sổ đỏ,None,12.0,1.0,Hà Nội,Quận Nam Từ Liêm,Bán Căn hộ chung cư tại Phường Mễ Trì
+1423,5800.0,40,4m,4.0,None,Sổ hồng,None,5.0,1.0,Hà Nội,Quận Đống Đa,Bán Nhà riêng tại Ngõ Lệnh Cư
+1424,600,30,None,1.0,None,None,None,None,None,Hà Nội,Quận Hoàng Mai,Bán Căn hộ chung cư tại Đường Giải Phóng
+1425,9500.0,75,5m,4.0,None,Sổ đỏ,None,3.0,None,Hà Nội,Quận Hà Đông,Bán Nhà riêng tại Đường Lê Lợi
+1427,"3,75",50,None,None,None,Sổ đỏ,None,None,None,Hà Nội,Quận Hà Đông,Bán Đất tại Đường Ba La
+1428,2350.0,30,4m,3.0,None,Sổ đỏ,None,4.0,1.0,Hà Nội,Quận Hà Đông,Bán Nhà riêng tại Đường Quang Lãm
+1429,4800.0,45,None,6.0,None,Sổ đỏ,None,None,None,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Đường Kim Giang
+1445,5500.0,1995,None,None,None,None,None,None,None,Hà Nội,Huyện Quốc Oai,Bán Đất tại Đường 21A
+1446,1300.0,40,None,None,None,None,None,None,None,Hà Nội,Huyện Hoài Đức,Bán Đất tại Đường Đại lộ Thăng Long
+1447,3950.0,50,None,None,None,None,None,None,None,Hà Nội,Huyện Hoài Đức,Bán Đất tại Xã Vân Canh
+1449,4500.0,50,None,None,None,None,None,None,None,Hà Nội,Huyện Hoài Đức,Bán Đất tại Xã Vân Canh
+1450,4790.0,63,None,None,None,None,None,None,None,Hà Nội,Huyện Hoài Đức,Bán Đất tại Xã Vân Canh
+1451,900,60,None,None,None,None,None,None,None,Hà Nội,Huyện Thạch Thất,Bán Đất tại Xã Hạ Bằng
+1452,1430.0,110,None,None,None,None,None,None,None,Hà Nội,Huyện Thạch Thất,Bán Đất tại Xã Bình Yên
+1453,10100.0,711,None,None,None,None,None,None,None,Hà Nội,Huyện Thạch Thất,Bán Đất tại Xã Bình Yên
+1454,1600.0,100,None,None,None,None,None,None,None,Hà Nội,Huyện Thạch Thất,Bán Đất tại Xã Bình Yên
+1455,6600.0,100,None,None,None,None,None,None,None,Hà Nội,Huyện Thạch Thất,Bán Đất tại Xã Canh Nậu
+1456,1480.0,88,None,None,None,None,None,None,None,Hà Nội,Huyện Sóc Sơn,Bán Đất tại Đường Quốc lộ 3
+1457,750,50,None,2.0,Tây-Bắc,Sổ đỏ,None,6.0,1.0,Hà Nội,Quận Hai Bà Trưng,Bán Căn hộ chung cư tại Phố Bạch Mai
+1459,1000.0,50,None,2.0,None,None,None,None,1.0,Hà Nội,Quận Thanh Xuân,Bán Căn hộ chung cư tại Đường Giáp Nhất
+1461,11000.0,75,None,None,None,Sổ đỏ,None,None,None,Hà Nội,Quận Cầu Giấy,Bán Nhà riêng tại Đường Nguyễn Văn Huyên
+1462,2100.0,32,None,3.0,None,Sổ đỏ,None,3.0,None,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Phố Vũ Tông Phan
+1463,3400.0,125,None,3.0,None,Sổ đỏ,None,24.0,1.0,Hà Nội,Quận Hà Đông,Bán Căn hộ chung cư tại Đường Văn Phú
+1464,1000.0,42.5,None,2.0,None,Sổ đỏ,None,8.0,1.0,Hà Nội,Quận Đống Đa,Bán Căn hộ chung cư tại Phường Khâm Thiên
+1466,"1,2",50,None,None,None,None,None,None,1.0,Hà Nội,Quận Đống Đa,Bán Căn hộ chung cư tại Phố Hào Nam
+1467,600,50,None,2.0,Nam,Sổ hồng,Đông,6.0,1.0,Hà Nội,Quận Đống Đa,Bán Căn hộ chung cư tại Đường Trường Chinh
+1468,1040.0,44.5,None,2.0,None,Sổ đỏ,None,6.0,1.0,Hà Nội,Quận Đống Đa,Bán Căn hộ chung cư tại Phố Thái Hà
+1469,Thỏa thuận,--,None,2.0,None,Sổ đỏ,None,6.0,1.0,Hà Nội,Quận Hoàng Mai,Bán Căn hộ chung cư tại Đường Hoàng Mai
+1474,740.0,40.0,None,2.0,None,Sổ đỏ,None,None,1.0,Hà Nội,Quận Hai Bà Trưng,Bán Căn hộ chung cư tại Đường Thanh Nhàn
+1476,702.5,52.5,None,2.0,None,None,None,6.0,1.0,Hà Nội,Quận Hai Bà Trưng,Bán Căn hộ chung cư tại Phố Phố Vọng
+1477,855.0,43.5,None,2.0,None,Sổ đỏ,None,None,1.0,Hà Nội,Quận Hai Bà Trưng,Bán Căn hộ chung cư tại Đường Giải Phóng
+1478,848.0,42.5,None,2.0,None,Sổ đỏ,None,None,1.0,Hà Nội,Quận Đống Đa,Bán Căn hộ chung cư tại Phố Chùa Bộc
+1479,1025.0,50.0,None,2.0,None,Sổ đỏ,None,6.0,1.0,Hà Nội,Quận Hai Bà Trưng,Bán Căn hộ chung cư tại Đường Trần Khát Chân
+1480,1250.0,52,None,1.0,None,None,None,None,1.0,Hà Nội,Quận Hoàng Mai,Bán Căn hộ chung cư tại Đường Hoàng Mai
+1481,7000.0,70,None,None,None,None,None,None,None,Hà Nội,Quận Ba Đình,Bán Nhà riêng tại Ngõ 279 Đội Cấn
+1482,13500.0,100,None,None,None,None,None,None,None,Hà Nội,Quận Tây Hồ,Bán Nhà mặt phố tại Đường Lạc Long Quân
+1483,10600.0,70,"4,5m",4.0,None,Sổ đỏ,None,5.0,1.0,Hà Nội,Quận Hoàng Mai,Bán Nhà mặt phố tại Đường Giáp Bát
+1484,500,35,None,2.0,None,Sổ hồng,None,6.0,1.0,Hà Nội,Quận Đống Đa,Bán Căn hộ chung cư tại Phố Xã Đàn
+1485,850,55,None,None,None,None,None,None,1.0,Hà Nội,Quận Hai Bà Trưng,Bán Căn hộ chung cư tại Đường Trần Khát Chân
+1486,575.0,55.0,None,2.0,None,None,None,None,None,Hà Nội,Quận Đống Đa,Bán Căn hộ chung cư tại Đường Nguyễn Chí Thanh
+1487,1035.0,50.0,None,2.0,None,Sổ đỏ,None,6.0,1.0,Hà Nội,Quận Ba Đình,Bán Căn hộ chung cư tại Đường Đội Cấn
+1488,600,30,None,1.0,None,None,None,None,1.0,Hà Nội,Quận Đống Đa,Bán Căn hộ chung cư tại Phố Hào Nam
+1490,1105.0,50.0,None,None,None,Sổ đỏ,None,None,None,Hà Nội,Quận Hai Bà Trưng,Bán Căn hộ chung cư tại Đường Vân Hồ III
+1491,855.0,41.5,None,2.0,None,Sổ đỏ,None,None,1.0,Hà Nội,Quận Tây Hồ,Bán Căn hộ chung cư tại Đường Võ Chí Công
+1492,848.0,44.0,None,2.0,None,Sổ đỏ,None,None,1.0,Hà Nội,Quận Đống Đa,Bán Căn hộ chung cư tại Phố Xã Đàn
+1493,Thỏa thuận,105,None,None,None,Sổ đỏ,None,None,None,Hà Nội,Huyện Đan Phượng,Bán Đất tại Xã Đồng Tháp
+1494,1990.0,45,42m,None,None,Sổ đỏ,None,None,None,Hà Nội,Huyện Đông Anh,Bán Đất tại Xã Uy Nỗ
+1502,980,51,None,None,None,None,None,None,None,Hà Nội,Huyện Thường Tín,Bán Đất tại Xã Thư Phú
+1504,Thỏa thuận,40,None,3.0,None,Sổ đỏ,None,3.0,None,Hà Nội,Quận Hai Bà Trưng,Bán Nhà riêng tại Phố Đại La
+1506,2920.0,108,None,None,None,None,None,None,None,Hà Nội,Huyện Thường Tín,Bán Đất tại Xã Chương Dương
+1510,Thỏa thuận,42.5,None,2.0,Tây-Bắc,None,None,6.0,None,Hà Nội,Quận Cầu Giấy,Bán Căn hộ chung cư tại Đường Cầu Giấy
+1511,3800.0,36,None,None,None,Sổ hồng,None,None,None,Hà Nội,Quận Hai Bà Trưng,Bán Nhà riêng tại Đường Võ Thị Sáu
+1512,600,50,None,2.0,None,Sổ hồng,None,6.0,1.0,Hà Nội,Quận Tây Hồ,Bán Căn hộ chung cư tại Đường Trích Sài
+1518,2600.0,70,None,2.0,Tây-Nam,Sổ hồng,None,10.0,1.0,Hà Nội,Quận Long Biên,Bán Căn hộ chung cư tại Đường Nguyễn Văn Cừ
+1537,600,52,None,2.0,None,Sổ hồng,None,6.0,1.0,Hà Nội,Quận Đống Đa,Bán Căn hộ chung cư tại Phố Khâm Thiên
+1538,3300.0,36,None,3.0,None,Sổ đỏ,None,5.0,None,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Trương Định
+1539,3300.0,38,None,3.0,None,Sổ đỏ,None,5.0,None,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Hoàng Liệt
+1540,595,50,None,2.0,Đông,Sổ hồng,Đông,6.0,1.0,Hà Nội,Quận Hai Bà Trưng,Bán Căn hộ chung cư tại Đường Đại Cồ Việt
+1541,2650.0,"86,4","3,65m",None,None,Sổ đỏ,None,None,None,Hà Nội,Huyện Sóc Sơn,Bán Đất tại Đường Quốc lộ 3
+1542,7500.0,62,None,3.0,None,Sổ đỏ,None,3.0,None,Hà Nội,Quận Long Biên,Bán Nhà riêng tại Đường Nguyễn Văn Cừ
+1543,Thỏa thuận,50,"3,9m",4.0,None,Sổ đỏ,None,5.0,1.0,Hà Nội,Quận Đống Đa,Bán Nhà riêng tại Phố Hoàng Cầu
+1544,Thỏa thuận,36,None,None,None,None,None,None,None,Hà Nội,Quận Cầu Giấy,Bán Nhà riêng tại Đường Cầu Giấy
+1547,900.0,50.0,None,None,None,Sổ đỏ,None,None,1.0,Hà Nội,Quận Tây Hồ,Bán Căn hộ chung cư tại Đường Trích Sài
+1548,Thỏa thuận,48,None,2.0,None,Sổ đỏ,None,5.0,1.0,Hà Nội,Quận Ba Đình,Bán Căn hộ chung cư tại Đường Đội Cấn
+1549,Thỏa thuận,34,"3,5m",3.0,None,Sổ đỏ,Đông-Nam,5.0,1.0,Hà Nội,Quận Long Biên,Bán Nhà riêng tại Đường Bát Khối
+1550,16500.0,100,None,4.0,None,Sổ đỏ,None,None,None,Hà Nội,Quận Hai Bà Trưng,Bán Nhà riêng tại Đường Minh Khai
+1552,2680.0,44,None,None,None,None,None,None,None,Hà Nội,Huyện Hoài Đức,Bán Đất tại Phố 72
+1553,6560.0,84,None,None,None,None,None,None,None,Hà Nội,Huyện Hoài Đức,Bán Đất tại Đường Lê Trọng Tấn
+1554,2280.0,65,None,None,None,None,None,None,None,Hà Nội,Huyện Hoài Đức,Bán Đất tại Xã Đức Thượng
+1555,4870.0,56,None,None,None,None,None,None,None,Hà Nội,Huyện Hoài Đức,Bán Đất tại Đường Đại lộ Thăng Long
+1556,6450.0,104,None,None,None,None,None,None,None,Hà Nội,Huyện Hoài Đức,Bán Đất tại Đường Quốc lộ 32
+1557,1100.0,37,None,None,None,None,None,None,None,Hà Nội,Huyện Hoài Đức,Bán Đất tại Xã La Phù
+1558,952,112,None,None,None,None,None,None,None,Hà Nội,Huyện Chương Mỹ,Bán Đất tại Xã Đông Sơn
+1559,1580.0,210,None,None,None,None,None,None,None,Hà Nội,Huyện Chương Mỹ,Bán Đất tại Xã Tân Tiến
+1560,4,503,None,None,None,None,None,None,None,Hà Nội,Huyện Chương Mỹ,Bán Đất tại Đường Hồ Chí Minh
+1561,1100.0,103,None,None,None,None,None,None,None,Hà Nội,Huyện Chương Mỹ,Bán Đất tại Đường Quốc lộ 6
+1562,1250.0,60,None,None,None,None,None,None,None,Hà Nội,Huyện Chương Mỹ,Bán Đất tại Xã Phụng Châu
+1563,3500.0,55,None,None,None,None,None,None,None,Hà Nội,Quận Long Biên,Bán Đất tại Đường Ngọc Thụy
+1564,1950.0,30,None,None,None,None,None,None,None,Hà Nội,Quận Long Biên,Bán Đất tại Đường Phúc Lợi
+1565,125,31,None,None,None,None,None,None,None,Hà Nội,Quận Long Biên,Bán Đất tại Phố Trạm
+1566,8300.0,80,None,None,None,None,None,None,None,Hà Nội,Quận Long Biên,Bán Đất tại Đường Bát Khối
+1567,10000.0,100,None,None,None,None,None,None,None,Hà Nội,Quận Long Biên,Bán Đất tại Đường Ngọc Lâm
+1568,4460.0,62,None,None,None,None,None,None,None,Hà Nội,Quận Hà Đông,Bán Đất tại Phố Phú Lương
+1570,5000.0,50,None,None,None,None,None,None,None,Hà Nội,Quận Hà Đông,Bán Đất tại Phường Yên Nghĩa
+1571,6600.0,50,None,None,None,None,None,None,None,Hà Nội,Quận Hà Đông,Bán Đất tại Đường Tố Hữu
+1572,1650.0,30,None,None,None,None,None,None,None,Hà Nội,Quận Hà Đông,Bán Đất tại Đường Yên Bình
+1574,2700.0,61,None,None,None,None,None,None,None,Hà Nội,Quận Cầu Giấy,Bán Căn hộ chung cư tại Đường Nam Trung Yên
+1575,6000.0,161,None,None,None,None,None,None,None,Hà Nội,Quận Cầu Giấy,Bán Căn hộ chung cư tại Phố Trung Hòa
+1576,4350.0,115,None,None,None,None,None,None,None,Hà Nội,Quận Cầu Giấy,Bán Căn hộ chung cư tại Đường Tú Mỡ
+1577,4680.0,40,None,None,None,None,None,None,None,Hà Nội,Quận Ba Đình,Bán Nhà riêng tại Đường Hoàng Hoa Thám
+1578,5200.0,45,None,None,None,None,None,None,None,Hà Nội,Quận Ba Đình,Bán Nhà riêng tại Đường Đội Cấn
+1579,3900.0,40,None,None,None,None,None,None,None,Hà Nội,Quận Ba Đình,Bán Nhà riêng tại Đường Đội Cấn
+1580,15200.0,65,None,None,None,None,None,None,None,Hà Nội,Quận Ba Đình,Bán Nhà riêng tại Đường Ngọc Hà
+1581,5400.0,49,None,None,None,None,None,None,None,Hà Nội,Quận Ba Đình,Bán Nhà riêng tại Phường Cống Vị
+1582,16000.0,90,None,None,None,None,None,None,None,Hà Nội,Quận Hai Bà Trưng,Bán Nhà riêng tại Đường Kim Ngưu
+1583,13200.0,65,None,None,None,None,None,None,None,Hà Nội,Quận Hai Bà Trưng,Bán Nhà riêng tại Phố Lạc Trung
+1584,2600.0,30,None,None,None,None,None,None,None,Hà Nội,Quận Hai Bà Trưng,Bán Nhà riêng tại Phố Bạch Mai
+1585,9800.0,45,None,None,None,None,None,None,None,Hà Nội,Quận Hai Bà Trưng,Bán Nhà riêng tại Đường Võ Thị Sáu
+1586,4950.0,35,None,None,None,None,None,None,None,Hà Nội,Quận Hai Bà Trưng,Bán Nhà riêng tại Phố Lạc Trung
+1587,8500.0,45,None,None,None,None,None,None,None,Hà Nội,Quận Cầu Giấy,Bán Nhà riêng tại Phường Nghĩa Đô
+1588,4100.0,48,None,None,None,None,None,None,None,Hà Nội,Quận Cầu Giấy,Bán Nhà riêng tại Phường Nghĩa Đô
+1589,17000.0,50,None,None,None,None,None,None,None,Hà Nội,Quận Cầu Giấy,Bán Nhà riêng tại Đường Mạc Thái Tổ
+1590,3900.0,34,None,None,None,None,None,None,None,Hà Nội,Quận Cầu Giấy,Bán Nhà riêng tại Phường Yên Hòa
+1591,18000.0,75,None,None,None,None,None,None,None,Hà Nội,Quận Cầu Giấy,Bán Nhà riêng tại Đường Dương Quảng Hàm
+1592,4000.0,31,None,None,None,None,None,None,None,Hà Nội,Quận Long Biên,Bán Nhà riêng tại Đường Nguyễn Văn Cừ
+1593,3690.0,32,None,None,None,None,None,None,None,Hà Nội,Quận Long Biên,Bán Nhà riêng tại Đường Ngọc Thụy
+1594,11500.0,48,None,None,None,None,None,None,None,Hà Nội,Quận Long Biên,Bán Nhà riêng tại Đường Nguyễn Văn Cừ
+1595,3600.0,40,None,None,None,None,None,None,None,Hà Nội,Quận Long Biên,Bán Nhà riêng tại Đường Ngọc Thụy
+1596,10800.0,50,None,None,None,None,None,None,None,Hà Nội,Quận Long Biên,Bán Nhà riêng tại Đường Nguyễn Sơn
+1603,2000.0,67,None,None,None,None,None,None,None,Hà Nội,Quận Hai Bà Trưng,Bán Căn hộ chung cư tại Đường Minh Khai
+1605,800,40,None,None,None,None,None,None,None,Hà Nội,Huyện Thanh Trì,Bán Căn hộ chung cư tại Xã Ngọc Hồi
+1611,1600.0,65,None,None,None,Sổ đỏ,None,None,None,Hà Nội,Quận Hai Bà Trưng,Bán Nhà riêng tại Phố Yên Lạc
+1612,4200.0,41,7m,4.0,None,Sổ đỏ,Tây,4.0,None,Hà Nội,Quận Hai Bà Trưng,Bán Nhà riêng tại Đường Minh Khai
+1613,6200.0,42,"3,5m",4.0,None,Sổ đỏ,None,4.0,1.0,Hà Nội,Quận Đống Đa,Bán Nhà riêng tại Phố Xã Đàn
+1614,2950.0,42,None,None,None,None,None,None,None,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Định Công
+1615,2000.0,51,None,None,None,None,None,None,None,Hà Nội,Quận Hoàng Mai,Bán Đất tại Đường Nguyễn Khoái
+1616,4800.0,86,None,None,None,None,None,None,None,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Phường Thanh Trì
+1617,Thỏa thuận,50,"3,9m",4.0,None,Sổ đỏ,None,5.0,1.0,Hà Nội,Quận Đống Đa,Bán Nhà riêng tại Phố Hoàng Cầu
+1619,4550.0,36,None,None,None,None,None,None,None,Hà Nội,Quận Ba Đình,Bán Nhà riêng tại Phố Ngọc Khánh
+1630,3400.0,174,None,None,None,None,None,None,None,Hà Nội,Huyện Sóc Sơn,Bán Đất tại Xã Phù Linh
+1631,3450.0,102,None,2.0,Tây-Bắc,Sổ hồng,Đông-Nam,12.0,1.0,Hà Nội,Quận Cầu Giấy,Bán Căn hộ chung cư tại Đường Duy Tân
+1633,2850.0,27,None,2.0,None,Sổ đỏ,None,3.0,None,Hà Nội,Quận Đống Đa,Bán Nhà riêng tại Phố Kim Hoa
+1634,4420.0,32,None,4.0,None,None,None,6.0,1.0,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Đường Kim Giang
+1637,"1,95",38,None,None,None,Sổ đỏ,Bắc,None,None,Hà Nội,Quận Long Biên,Bán Đất tại Đường Thạch Bàn
+1639,850,62,None,3.0,None,None,None,None,None,Hà Nội,Quận Hai Bà Trưng,Bán Căn hộ chung cư tại Đường Minh Khai
+1642,2450.0,50,45m,4.0,None,Sổ đỏ,Tây-Bắc,3.0,None,Hà Nội,Quận Hà Đông,Bán Nhà riêng tại Đường Yên Bình
+1644,8900.0,70,None,None,None,Sổ đỏ,None,5.0,None,Hà Nội,Quận Hà Đông,Bán Bất động sản khác tại Đường Bạch Thái Bưởi
+1645,2250.0,44,None,None,None,None,None,None,None,Hà Nội,Quận Hà Đông,Bán Nhà riêng tại Phường Biên Giang
+1646,Thỏa thuận,35,None,None,None,None,None,None,None,Hà Nội,Quận Hà Đông,Bán Nhà riêng tại Phường Biên Giang
+1647,3300.0,33,None,None,None,Sổ đỏ,None,4.0,None,Hà Nội,Quận Hoàng Mai,Bán Nhà mặt phố tại Đường Trần Hòa
+1650,2450.0,30,5m,3.0,None,None,None,5.0,None,Hà Nội,Quận Hai Bà Trưng,Bán Nhà riêng tại Đường Minh Khai
+1661,19800.0,220,None,None,None,None,None,None,None,Hà Nội,Quận Nam Từ Liêm,Bán Đất tại đường Mỹ Đình
+1662,20500.0,100,None,None,None,None,None,None,None,Hà Nội,Quận Nam Từ Liêm,Bán Đất tại Đường Đình Thôn
+1663,3900.0,60,None,None,None,None,None,None,None,Hà Nội,Huyện Hoài Đức,Bán Đất tại Xã Vân Canh
+1664,3000.0,50,None,None,None,None,None,None,None,Hà Nội,Huyện Hoài Đức,Bán Đất tại Xã Vân Canh
+1665,"1,99",398,None,None,None,None,None,None,None,Hà Nội,Huyện Ba Vì,Bán Đất tại Đường Quốc lộ 32
+1666,1360.0,403,None,None,None,None,None,None,None,Hà Nội,Huyện Ba Vì,Bán Đất tại Xã Minh Quang
+1667,4150.0,43,"3,6m",None,None,None,None,5.0,None,Hà Nội,Quận Hà Đông,Bán Nhà riêng tại Đường Mậu Lương
+1668,3050.0,35,4m,None,None,Sổ đỏ,Đông-Nam,4.0,None,Hà Nội,Huyện Thanh Trì,Bán Nhà riêng tại Đường Yên Xá
+1669,5600.0,50,None,None,None,Sổ đỏ,Đông-Bắc,None,None,Hà Nội,Quận Thanh Xuân,Bán Bất động sản khác tại Đường Triều Khúc
+1671,6900.0,40,4m,None,None,Sổ đỏ,Tây-Bắc,5.0,None,Hà Nội,Quận Hà Đông,Bán Nhà riêng tại Đường Mỗ Lao
+1681,1300.0,50,None,2.0,None,None,None,None,1.0,Hà Nội,Quận Hai Bà Trưng,Bán Căn hộ chung cư tại Đường Kim Ngưu
+1682,4300.0,38,None,None,None,None,None,None,None,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Đường Khương Trung
+1683,4300.0,37,None,None,None,None,None,None,None,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Đường Khương Trung
+1684,10000.0,56,None,None,None,None,None,None,None,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Đường Bùi Xương Trạch
+1685,6500.0,48,None,None,None,None,None,None,None,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Đường Khương Đình
+1686,6800.0,45,None,None,None,None,None,None,None,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Phường Khương Đình
+1687,4000.0,35,None,None,None,None,None,None,None,Hà Nội,Quận Ba Đình,Bán Nhà riêng tại Phố Ngọc Khánh
+1691,600,30,None,1.0,None,Sổ hồng,None,None,1.0,Hà Nội,Quận Hai Bà Trưng,Bán Căn hộ chung cư tại Phố Lò Đúc
+1692,900.0,74.0,None,2.0,None,Sổ đỏ,None,None,1.0,Hà Nội,Quận Tây Hồ,Bán Căn hộ chung cư tại Đường Trích Sài
+1696,1680.0,65,None,3.0,Đông-Bắc,None,None,None,1.0,Hà Nội,Quận Hai Bà Trưng,Bán Căn hộ chung cư tại Đường Kim Ngưu
+1700,2390.0,91,None,3.0,Nam,Sổ đỏ,Nam,12.0,None,Hà Nội,Huyện Đông Anh,Bán Căn hộ chung cư tại Xã Đông Hội
+1701,920.0,42.5,None,2.0,None,None,None,None,1.0,Hà Nội,Quận Đống Đa,Bán Căn hộ chung cư tại Phố Hào Nam
+1704,705.0,54.5,None,2.0,None,Sổ hồng,None,6.0,1.0,Hà Nội,Quận Đống Đa,Bán Căn hộ chung cư tại Đường Nguyễn Chí Thanh
+1705,600,45,None,2.0,Nam,Sổ hồng,Tây-Bắc,7.0,1.0,Hà Nội,Quận Hoàng Mai,Bán Căn hộ chung cư tại Ngõ Gốc Đề
+1706,600,46,None,2.0,Bắc,None,None,6.0,1.0,Hà Nội,Quận Đống Đa,Bán Căn hộ chung cư tại Phố Xã Đàn
+1708,9200.0,58,None,None,None,None,None,None,None,Hà Nội,Quận Ba Đình,Bán Nhà riêng tại Phố Liễu Giai
+1710,3600.0,22,None,None,None,None,None,None,None,Hà Nội,Quận Ba Đình,Bán Nhà riêng tại Đường Nguyễn Trường Tộ
+1713,3700.0,51,None,None,None,None,None,None,None,Hà Nội,Quận Ba Đình,Bán Nhà riêng tại Phường Ngọc Khánh
+1714,880,48,None,2.0,None,None,None,None,1.0,Hà Nội,Quận Hoàng Mai,Bán Căn hộ chung cư tại Đường Giải Phóng
+1719,4550.0,30,None,None,None,None,None,None,None,Hà Nội,Quận Ba Đình,Bán Nhà riêng tại Đường Đào Tấn
+1721,2450.0,65,None,None,None,None,None,None,None,Hà Nội,Quận Hà Đông,Bán Nhà riêng tại Đường Hòa Bình
+1722,2450.0,50,None,None,None,None,None,None,None,Hà Nội,Quận Hà Đông,Bán Nhà riêng tại Đường Yên Bình
+1724,2240.0,35,None,None,None,None,None,None,None,Hà Nội,Quận Hà Đông,Bán Nhà riêng tại Phường Yên Nghĩa
+1725,7350.0,65,4m,None,None,Sổ đỏ,None,5.0,None,Hà Nội,Quận Hai Bà Trưng,Bán Nhà riêng tại Đường Kim Ngưu
+1726,3000.0,30,None,None,None,None,None,None,None,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Tân Mai
+1727,11900.0,60,None,None,None,None,None,None,None,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Lương Khánh Thiện
+1730,7600.0,60,None,None,None,None,None,None,None,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Đền Lừ 2
+1731,4350.0,32,None,None,None,None,None,None,None,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Phường Tương Mai
+1732,60500.0,211.25,None,None,None,Sổ hồng,Tây-Bắc,None,None,Hà Nội,Quận Cầu Giấy,Bán Đất tại Đường Trần Thái Tông
+1733,4050.0,41,None,None,None,None,None,None,None,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Hoàng Mai
+1734,22600.0,57,None,None,None,None,None,None,None,Hà Nội,Quận Hoàn Kiếm,Bán Nhà riêng tại Phố Hàng Hương
+1735,22600.0,57,None,None,None,None,None,None,None,Hà Nội,Quận Hoàn Kiếm,Bán Nhà riêng tại Phố Hàng Hương
+1737,70200.0,351,None,None,None,None,None,None,None,Hà Nội,liền kề tại Quận Long Biên,Bán Nhà biệt thự
+1740,1055.0,47.5,None,2.0,None,Sổ đỏ,None,6.0,1.0,Hà Nội,Quận Hoàng Mai,Bán Căn hộ chung cư tại Đường Minh Khai
+1741,890.0,46.0,None,2.0,None,Sổ đỏ,None,None,1.0,Hà Nội,Quận Tây Hồ,Bán Căn hộ chung cư tại Đường Lạc Long Quân
+1742,980.0,45.5,None,2.0,None,Sổ đỏ,None,6.0,1.0,Hà Nội,Quận Đống Đa,Bán Căn hộ chung cư tại Phố Thái Hà
+1743,795.0,42.5,None,2.0,None,Sổ đỏ,None,None,1.0,Hà Nội,Quận Nam Từ Liêm,Bán Căn hộ chung cư tại Đường Mễ Trì Hạ
+1744,860.0,41.0,None,2.0,None,Sổ đỏ,None,None,1.0,Hà Nội,Quận Nam Từ Liêm,Bán Căn hộ chung cư tại Đường Nguyễn Hoàng
+1745,865.0,43.5,None,2.0,None,Sổ đỏ,None,None,1.0,Hà Nội,Quận Nam Từ Liêm,Bán Căn hộ chung cư tại Đường Đình Thôn
+1746,910.0,42.5,None,2.0,None,Sổ đỏ,None,None,1.0,Hà Nội,Quận Hoàng Mai,Bán Căn hộ chung cư tại Đường Hoàng Mai
+1747,860.0,46.0,None,2.0,None,Sổ đỏ,None,None,1.0,Hà Nội,Quận Thanh Xuân,Bán Căn hộ chung cư tại Phố Cự Lộc
+1748,905.0,43.5,None,2.0,None,Sổ đỏ,None,None,1.0,Hà Nội,Quận Hoàng Mai,Bán Căn hộ chung cư tại Đường Lương Khánh Thiện
+1749,866.5,44.0,None,3.0,None,Sổ đỏ,None,None,1.0,Hà Nội,Quận Thanh Xuân,Bán Căn hộ chung cư tại Đường Giáp Nhất
+1755,4900.0,40,"3,6m",4.0,None,Sổ đỏ,None,4.0,1.0,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Đường Vũ Trọng Phụng
+1760,2800.0,31,None,None,None,Sổ đỏ,None,4.0,None,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Kim Giang
+1761,Thỏa thuận,43.5,None,2.0,None,Sổ đỏ,None,None,1.0,Hà Nội,Quận Đống Đa,Bán Căn hộ chung cư tại Phố Chùa Bộc
+1762,854.5,41.0,None,2.0,None,Sổ đỏ,None,None,1.0,Hà Nội,Quận Nam Từ Liêm,Bán Căn hộ chung cư tại đường Mễ Trì
+1763,600,46,None,2.0,None,Sổ đỏ,None,None,1.0,Hà Nội,Quận Tây Hồ,Bán Căn hộ chung cư tại Đường Xuân La
+1764,875.0,42.5,None,2.0,None,Sổ đỏ,None,None,1.0,Hà Nội,Quận Bắc Từ Liêm,Bán Căn hộ chung cư tại Đường Hoàng Quốc Việt
+1765,38000.0,256,None,None,None,None,None,None,None,Hà Nội,Quận Hai Bà Trưng,Bán Nhà riêng tại Đường Nguyễn Đình Chiểu
+1767,3400.0,30,None,4.0,None,Sổ đỏ,None,4.0,None,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Đường Bùi Xương Trạch
+1769,600,30,None,1.0,Tây-Nam,Sổ đỏ,Nam,7.0,None,Hà Nội,Quận Hoàng Mai,Bán Căn hộ chung cư tại Đường Giải Phóng
+1770,4600.0,38,None,4.0,None,Sổ đỏ,None,None,None,Hà Nội,Quận Đống Đa,Bán Nhà riêng tại Phố Hào Nam
+1771,5600.0,60,4m,4.0,None,None,None,5.0,1.0,Hà Nội,Quận Long Biên,Bán Nhà riêng tại Đường Ngọc Lâm
+1772,3600.0,34,4m,3.0,None,Sổ đỏ,None,5.0,1.0,Hà Nội,Quận Long Biên,Bán Nhà riêng tại Đường Nguyễn Sơn
+1773,4600.0,38,None,4.0,None,Sổ đỏ,None,None,None,Hà Nội,Quận Đống Đa,Bán Nhà riêng tại Phố Hào Nam
+1774,3600.0,32,None,4.0,None,Sổ đỏ,None,4.0,None,Hà Nội,Quận Long Biên,Bán Nhà riêng tại Đường Ái Mộ
+1775,Thỏa thuận,33,"3,7m",3.0,None,Sổ đỏ,None,5.0,1.0,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Đường Trường Chinh
+1776,Thỏa thuận,43.5,None,2.0,None,Sổ hồng,None,None,None,Hà Nội,Quận Tây Hồ,Bán Căn hộ chung cư tại Đường Xuân La
+1778,Thỏa thuận,61,None,None,None,None,None,None,None,Hà Nội,Quận Đống Đa,Bán Nhà riêng tại Phố Thái Thịnh
+1779,690.0,48.5,None,None,None,Sổ đỏ,None,None,None,Hà Nội,Quận Ba Đình,Bán Căn hộ chung cư tại Đường Đội Cấn
+1780,Thỏa thuận,60,None,None,None,None,None,None,None,Hà Nội,Quận Bắc Từ Liêm,Bán Nhà riêng tại Đường Hồ Tùng Mậu
+1781,3600.0,40,4m,3.0,None,Sổ đỏ,None,5.0,1.0,Hà Nội,Quận Long Biên,Bán Nhà riêng tại Đường Ngọc Thụy
+1783,4400.0,34,"3,5m",3.0,None,Sổ đỏ,None,5.0,1.0,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Đường Vũ Trọng Phụng
+1784,2000.0,40,None,4.0,None,Sổ đỏ,None,None,None,Hà Nội,Quận Long Biên,Bán Nhà riêng tại Đường Thạch Bàn
+1785,1350.0,180,8m,None,None,None,None,None,None,Hà Nội,Huyện Chương Mỹ,Bán Đất tại Xã Hoàng Diệu
+1786,10000.0,45,None,None,None,Sổ đỏ,None,None,None,Hà Nội,Quận Hà Đông,Bán Nhà riêng tại Đường Văn Quán
+1787,5900.0,83,"5,2m",4.0,None,Sổ đỏ,None,5.0,1.0,Hà Nội,Quận Hà Đông,Bán Nhà riêng tại Đường Quang Trung
+1789,8100.0,50,4m,4.0,None,Sổ đỏ,None,4.0,1.0,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Phố Lê Văn Thiêm
+1790,Thỏa thuận,30,None,None,None,None,None,None,None,Hà Nội,Quận Cầu Giấy,Bán Nhà riêng tại Đường Xuân Thủy
+1791,10000.0,60,5m,None,None,Sổ đỏ,Tây,None,None,Hà Nội,Quận Tây Hồ,Bán Đất tại Đường Võ Chí Công
+1792,Thỏa thuận,35,"3,8m",3.0,None,Sổ đỏ,None,5.0,1.0,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Đường Trường Chinh
+1793,4300.0,32,None,3.0,None,Sổ đỏ,None,5.0,None,Hà Nội,Quận Long Biên,Bán Nhà riêng tại Đường Bồ Đề
+1803,750.0,43.5,None,2.0,None,Sổ đỏ,None,None,1.0,Hà Nội,Quận Cầu Giấy,Bán Căn hộ chung cư tại Đường Nguyễn Phong Sắc
+1804,Thỏa thuận,40,"3,5m",None,None,None,None,None,None,Hà Nội,Quận Bắc Từ Liêm,Bán Đất tại Đường Phú Diễn
+1805,800.0,43.5,None,2.0,None,Sổ đỏ,None,None,1.0,Hà Nội,Quận Ba Đình,Bán Căn hộ chung cư tại Phường Giảng Võ
+1806,1055.0,49.0,None,2.0,None,Sổ đỏ,None,6.0,1.0,Hà Nội,Quận Hoàng Mai,Bán Căn hộ chung cư tại Phường Giáp Bát
+1808,4100.0,36,None,None,None,None,None,None,None,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Phố Yên Duyên
+1810,3450.0,33,None,None,None,None,None,None,None,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Phố Yên Duyên
+1815,3475.0,103.5,None,2.0,Bắc,Sổ hồng,Đông-Nam,10.0,1.0,Hà Nội,Quận Cầu Giấy,Bán Căn hộ chung cư tại Đường Tôn Thất Thuyết
+1816,Thỏa thuận,59,5m,4.0,None,Sổ đỏ,None,6.0,1.0,Hà Nội,Quận Long Biên,Bán Nhà riêng tại Đường Nguyễn Sơn
+1819,Thỏa thuận,102,None,3.0,Tây-Bắc,None,None,7.0,1.0,Hà Nội,Quận Hà Đông,Bán Căn hộ chung cư tại Đường Phúc La
+1821,65000.0,250,None,None,None,Sổ đỏ,None,None,None,Hà Nội,Quận Đống Đa,Bán Nhà riêng tại Phố Hoàng Cầu
+1824,Thỏa thuận,"87,5","5,8m",None,None,Sổ đỏ,Bắc,None,None,Hà Nội,Huyện Gia Lâm,Bán Đất nền dự án tại Đường Ngô Xuân Quảng
+1830,"5,75",37,34m,4.0,None,Sổ đỏ,None,4.0,None,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Đường Tô Vĩnh Diện
+1835,3600.0,30,4m,4.0,None,Sổ đỏ,None,5.0,1.0,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Vĩnh Hưng
+1837,6200.0,85,None,None,None,None,None,None,None,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Định Công
+1838,3180.0,32,None,None,None,Sổ đỏ,None,None,None,Hà Nội,Quận Hoàng Mai,Bán Nhà mặt phố tại Đường Giáp Tứ
+1840,4750.0,42,None,None,None,Sổ đỏ,None,None,None,Hà Nội,Quận Hoàng Mai,Bán Nhà mặt phố tại Đường Kim Giang
+1842,4100.0,39,None,None,None,Sổ đỏ,None,4.0,None,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Đường Thượng Đình
+1843,1030.0,48,None,None,None,None,None,None,None,Hà Nội,Quận Đống Đa,Bán Căn hộ chung cư tại Phố Tôn Đức Thắng
+1844,5700.0,43,None,None,None,None,None,None,None,Hà Nội,Quận Tây Hồ,Bán Nhà riêng tại Đường Nhật Chiêu
+1845,5600.0,45,None,None,None,None,None,None,None,Hà Nội,Quận Tây Hồ,Bán Nhà riêng tại Đường Nhật Chiêu
+1846,6400.0,47,None,None,None,None,None,None,None,Hà Nội,Quận Tây Hồ,Bán Nhà riêng tại đường Ven Hồ
+1847,690,40,None,2.0,None,None,None,None,1.0,Hà Nội,Quận Đống Đa,Bán Căn hộ chung cư tại Phố Hào Nam
+1848,Thỏa thuận,100,8m,4.0,None,Sổ đỏ,None,9.0,1.0,Hà Nội,Quận Ba Đình,Bán Nhà mặt phố tại Phố Liễu Giai
+1852,5000.0,50,"4,8m",3.0,None,Sổ đỏ,None,6.0,1.0,Hà Nội,Quận Long Biên,Bán Nhà riêng tại Đường Ngọc Thụy
+1853,3750.0,41,5m,3.0,None,Sổ đỏ,None,5.0,None,Hà Nội,Quận Long Biên,Bán Nhà riêng tại Đường Gia Thụy
+1855,5500.0,53,None,None,None,None,None,None,None,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Phố Chính Kinh
+1857,7500.0,58,4m,4.0,None,Sổ đỏ,None,8.0,1.0,Hà Nội,Huyện Thanh Trì,Bán Nhà riêng tại Xã Tân Triều
+1859,6900.0,60,5m,4.0,None,Sổ hồng,Tây-Bắc,5.0,1.0,Hà Nội,Quận Long Biên,Bán Nhà riêng tại Đường Ngọc Thụy
+1860,3850.0,35,"3,5m",4.0,None,Sổ đỏ,None,5.0,1.0,Hà Nội,Quận Cầu Giấy,Bán Nhà riêng tại Phố Nguyễn Ngọc Vũ
+1863,8200.0,140,19m,3.0,None,None,None,2.0,None,Hà Nội,Quận Đống Đa,Bán Nhà riêng tại Đường Hồ Đắc Di
+1864,5200.0,33,None,None,None,None,None,None,None,Hà Nội,Quận Tây Hồ,Bán Nhà riêng tại Đường Trích Sài
+1866,6500.0,40,None,None,None,None,None,None,None,Hà Nội,Quận Tây Hồ,Bán Nhà riêng tại Đường Trích Sài
+1867,6500.0,45,None,None,None,None,None,None,1.0,Hà Nội,Quận Tây Hồ,Bán Nhà riêng tại Đường Tứ Liên
+1868,6200.0,45,None,None,None,None,None,None,1.0,Hà Nội,Quận Tây Hồ,Bán Nhà riêng tại Đường Xuân La
+1870,820.0,41.0,None,2.0,None,Sổ đỏ,None,None,None,Hà Nội,Quận Ba Đình,Bán Căn hộ chung cư tại Phường Vĩnh Phúc
+1872,5200.0,45,None,None,None,None,None,None,None,Hà Nội,Quận Tây Hồ,Bán Nhà riêng tại Đường Võ Chí Công
+1873,8500.0,50,4m,4.0,None,Sổ đỏ,None,7.0,1.0,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Đường Nguyễn Lân
+1877,3200.0,120,None,2.0,None,Sổ đỏ,None,None,None,Hà Nội,Quận Đống Đa,Bán Căn hộ chung cư tại Phường Phương Mai
+1882,1700.0,62,None,2.0,None,None,None,None,1.0,Hà Nội,Quận Hai Bà Trưng,Bán Căn hộ chung cư tại Đường Kim Ngưu
+1883,3800.0,34,None,None,None,Sổ đỏ,None,3.0,None,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Đường Nguyễn Trãi
+1885,1650.0,50,4m,None,None,Sổ đỏ,Tây-Nam,None,None,Hà Nội,Huyện Thường Tín,Bán Đất tại Xã Quất Động
+1886,Thỏa thuận,48,None,None,None,Sổ đỏ,None,None,None,Hà Nội,Quận Hai Bà Trưng,Bán Nhà riêng tại Đường Ngõ Quỳnh
+1887,Thỏa thuận,49,None,None,None,Sổ đỏ,None,None,None,Hà Nội,Quận Ba Đình,Bán Nhà riêng tại Đường Văn Cao
+1888,Thỏa thuận,50,None,None,None,Sổ đỏ,None,None,None,Hà Nội,Quận Đống Đa,Bán Nhà riêng tại Phố Hoàng Cầu
+1889,Thỏa thuận,54,None,None,None,Sổ đỏ,Đông-Nam,None,None,Hà Nội,Quận Hai Bà Trưng,Bán Nhà riêng tại Đường Nguyễn Cao
+1890,39000.0,152,691m,3.0,None,Sổ đỏ,Đông,3.0,1.0,Hà Nội,Quận Đống Đa,Bán Nhà mặt phố tại Đường Yên Thế
+1891,8500.0,92,46m,4.0,None,Sổ đỏ,None,5.0,1.0,Hà Nội,Quận Hà Đông,Bán Nhà mặt phố tại Phường La Khê
+1893,Thỏa thuận,50,None,None,None,None,None,None,None,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Phố Quan Nhân
+1894,Thỏa thuận,52,None,None,None,None,None,None,None,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Đường Bùi Xương Trạch
+1895,600,52,None,2.0,None,Sổ hồng,None,6.0,1.0,Hà Nội,Quận Hoàng Mai,Bán Căn hộ chung cư tại Đường Minh Khai
+1896,600,50,None,2.0,Nam,Sổ hồng,Đông-Nam,6.0,1.0,Hà Nội,Quận Hai Bà Trưng,Bán Căn hộ chung cư tại Đường Trần Khát Chân
+1897,3800.0,48,7m,3.0,None,None,None,2.0,1.0,Hà Nội,Quận Đống Đa,Bán Nhà riêng tại Đường Đê La Thành
+1899,6400.0,86,7m,None,None,None,None,None,None,Hà Nội,Quận Bắc Từ Liêm,Bán Đất nền dự án tại Đường Thụy Phương
+1900,Thỏa thuận,52,4m,3.0,None,None,None,5.0,None,Hà Nội,Quận Long Biên,Bán Nhà riêng tại Đường Bồ Đề
+1901,3800.0,33,None,None,None,Sổ đỏ,None,None,None,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Đường Khương Đình
+1903,580,47,None,2.0,None,Sổ đỏ,None,None,1.0,Hà Nội,Quận Hai Bà Trưng,Bán Căn hộ chung cư tại Đường Đại Cồ Việt
+1905,3560.0,35,None,3.0,None,Sổ đỏ,None,5.0,None,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Giáp Nhị
+1906,Thỏa thuận,60,72m,None,None,Sổ đỏ,None,5.0,1.0,Hà Nội,Quận Hoàng Mai,Bán Nhà mặt phố tại Đường Giải Phóng
+1907,9500.0,40,None,4.0,None,Sổ đỏ,None,6.0,None,Hà Nội,Quận Hoàng Mai,Bán Căn hộ chung cư tại Đường Kim Đồng
+1908,3700.0,76,None,3.0,None,Sổ đỏ,None,16.0,None,Hà Nội,Quận Hoàng Mai,Bán Căn hộ chung cư tại Đường Nguyễn Cảnh Dị
+1909,2190.0,61,"4,1m",None,None,None,Nam,None,None,Hà Nội,Huyện Thanh Trì,Bán Đất tại Xã Liên Ninh
+1911,9900.0,55,None,7.0,None,Sổ đỏ,None,None,None,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Đường Hoàng Văn Thái
+1912,Thỏa thuận,81,None,3.0,None,Sổ hồng,None,5.0,None,Hà Nội,Quận Tây Hồ,Bán Nhà riêng tại Đường Xuân La
+1913,3290.0,38,None,4.0,None,Sổ đỏ,None,4.0,None,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Đại Kim
+1914,3255.0,30,None,None,None,None,None,None,None,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Đường Hoàng Văn Thái
+1915,3200.0,35,None,4.0,None,Sổ đỏ,None,4.0,None,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Trương Định
+1916,3200.0,38,None,3.0,None,Sổ đỏ,None,5.0,None,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Trương Định
+1917,900,132,6m,None,None,Sổ đỏ,Đông-Bắc,None,None,Hà Nội,Quận Cầu Giấy,Bán Đất tại Đường Cầu Giấy
+1919,825.0,42.0,None,1.0,None,Sổ đỏ,None,None,1.0,Hà Nội,Quận Hai Bà Trưng,Bán Căn hộ chung cư tại Phố Trần Đại Nghĩa
+1920,3600.0,35,None,2.0,None,Sổ đỏ,None,4.0,None,Hà Nội,Quận Long Biên,Bán Nhà riêng tại Đường Bồ Đề
+1921,7800.0,42,4m,4.0,None,Sổ đỏ,None,7.0,1.0,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Đường Hoàng Văn Thái
+1922,2950.0,45,None,2.0,None,Sổ đỏ,None,3.0,None,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Định Công
+1923,4950.0,60,None,None,None,None,None,None,None,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Trương Định
+1925,12000.0,66,5m,4.0,None,Sổ đỏ,None,4.0,1.0,Hà Nội,Quận Long Biên,Bán Nhà riêng tại Đường Ngọc Lâm
+1926,19600.0,60,"4,7m",4.0,None,None,None,6.0,1.0,Hà Nội,Quận Cầu Giấy,Bán Nhà mặt phố tại Đường Hồ Tùng Mậu
+1928,2300.0,42,None,None,None,None,None,None,None,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Lĩnh Nam
+1929,2200.0,55,None,13.0,None,Sổ đỏ,None,None,None,Hà Nội,Quận Hà Đông,Bán Nhà riêng tại Đường Yên Xá
+1931,4950.0,43,None,4.0,None,Sổ đỏ,None,5.0,None,Hà Nội,Quận Long Biên,Bán Nhà riêng tại Đường Ngọc Lâm
+1932,1305.0,52.0,None,3.0,None,None,None,None,None,Hà Nội,Quận Thanh Xuân,Bán Căn hộ chung cư tại Đường Nguyễn Trãi
+1933,28000.0,85,None,4.0,None,Sổ đỏ,None,None,None,Hà Nội,Quận Tây Hồ,Bán Nhà riêng tại Đường Hoàng Hoa Thám
+1934,19000.0,70,"4,5m",4.0,None,Sổ đỏ,None,4.0,1.0,Hà Nội,Quận Thanh Xuân,Bán Nhà mặt phố tại Đường Lê Trọng Tấn
+1935,"4,95",36,"6,1m",4.0,None,Sổ đỏ,None,6.0,None,Hà Nội,Quận Cầu Giấy,Bán Nhà riêng tại Đường Trần Quốc Vượng
+1941,1650.0,22,None,2.0,None,Sổ đỏ,None,1.0,1.0,Hà Nội,Quận Ba Đình,Bán Căn hộ chung cư tại Đường Đội Cấn
+1947,1100.0,45,None,None,None,None,None,None,1.0,Hà Nội,Quận Đống Đa,Bán Căn hộ chung cư tại Phố Tôn Đức Thắng
+1948,1500.0,30,None,1.0,None,Sổ hồng,None,None,None,Hà Nội,Quận Hoàn Kiếm,Bán Căn hộ chung cư tại Đường Đông Thái
+1949,19400.0,116,5m,4.0,None,Sổ hồng,None,5.0,1.0,Hà Nội,Quận Long Biên,Bán Nhà riêng tại Đường Ngọc Lâm
+1951,1000.0,43.0,None,None,None,Sổ đỏ,None,None,1.0,Hà Nội,Quận Hoàng Mai,Bán Căn hộ chung cư tại Ngõ Gốc Đề
+1952,1000.0,45.0,None,2.0,None,Sổ đỏ,None,6.0,1.0,Hà Nội,Quận Hai Bà Trưng,Bán Căn hộ chung cư tại Đường Vân Hồ 2
+1953,5300.0,32,None,None,None,None,None,None,None,Hà Nội,Quận Tây Hồ,Bán Nhà riêng tại Phố Từ Hoa
+1954,875.0,41.5,None,2.0,None,None,None,None,1.0,Hà Nội,Quận Hai Bà Trưng,Bán Căn hộ chung cư tại Phố Hồng Mai
+1955,5100.0,32,None,None,None,None,None,None,None,Hà Nội,Quận Tây Hồ,Bán Nhà riêng tại Phố Vũ Miện
+1957,Thỏa thuận,--,"35,5m",None,None,Sổ đỏ,None,None,None,Hà Nội,Quận Hoàn Kiếm,Bán Đất nền dự án tại Phố Hàng Bài
+1959,3800.0,30,None,None,None,None,None,None,None,Hà Nội,Quận Hai Bà Trưng,Bán Nhà riêng tại Phố Hồng Mai
+1960,29000.0,166,"5,5m",2.0,None,None,Nam,2.0,None,Hà Nội,Quận Long Biên,Bán Nhà mặt phố tại Đường Nguyễn Văn Cừ
+1962,3700.0,34,None,None,None,None,None,None,1.0,Hà Nội,Quận Tây Hồ,Bán Nhà riêng tại Đường Phú Thượng
+1963,3680.0,39,None,3.0,None,Sổ đỏ,None,5.0,None,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Giáp Nhị
+1965,6600.0,46,None,None,None,None,None,None,1.0,Hà Nội,Quận Tây Hồ,Bán Nhà riêng tại Đường Đặng Thai Mai
+1980,3300.0,32,3m,3.0,None,Sổ đỏ,Tây-Nam,5.0,1.0,Hà Nội,Quận Long Biên,Bán Nhà riêng tại Đường Cổ Linh
+1984,4800.0,34,3m,None,None,Sổ đỏ,Bắc,None,None,Hà Nội,Huyện Gia Lâm,Bán Đất tại Đường Quốc Lộ 5
+1986,24680.0,329,None,4.0,Đông-Nam,Sổ hồng,None,40.0,None,Hà Nội,Quận Nam Từ Liêm,Bán Căn hộ chung cư tại Đường Lê Đức Thọ
+1987,56000.0,688,15m,None,None,Sổ đỏ,None,None,None,Hà Nội,Quận Tây Hồ,Bán Nhà mặt phố tại Đường Lạc Long Quân
+1988,1250.0,57,None,2.0,None,Sổ hồng,None,None,None,Hà Nội,Quận Nam Từ Liêm,Bán Căn hộ chung cư tại Phường Đại Mỗ
+1997,960.0,43.5,None,2.0,None,Giấy tờ hợp lệ,None,6.0,1.0,Hà Nội,Quận Đống Đa,Bán Căn hộ chung cư tại Đường Phạm Ngọc Thạch
+1998,1050.0,41.5,None,2.0,None,Sổ hồng,None,None,None,Hà Nội,Quận Đống Đa,Bán Căn hộ chung cư tại Đường Thịnh Quang
+1999,5000.0,50,None,None,None,None,None,None,None,Hà Nội,Quận Hai Bà Trưng,Bán Nhà riêng tại Đường Trần Khát Chân
+2001,5200.0,43,None,None,None,None,None,None,1.0,Hà Nội,Quận Tây Hồ,Bán Nhà riêng tại Đường Võ Chí Công
+2002,5200.0,56,None,None,None,None,None,None,1.0,Hà Nội,Quận Tây Hồ,Bán Nhà riêng tại Đường Lạc Long Quân
+2003,6600.0,42,None,None,None,None,None,None,1.0,Hà Nội,Quận Tây Hồ,Bán Nhà riêng tại Đường Trích Sài
+2006,7500.0,50,None,None,None,Sổ đỏ,None,None,None,Hà Nội,Quận Long Biên,Bán Nhà riêng tại Đường Vũ Xuân Thiều
+2009,2990.0,22,"6,1m",4.0,None,Sổ đỏ,Đông-Bắc,4.0,None,Hà Nội,Quận Ba Đình,Bán Nhà riêng tại Đường Vĩnh Phúc
+2011,1040.0,42.0,None,None,None,Sổ hồng,None,None,None,Hà Nội,Quận Bắc Từ Liêm,Bán Căn hộ chung cư tại Đường Xuân Đỉnh
+2014,960.0,37.0,None,1.0,None,Sổ đỏ,None,None,1.0,Hà Nội,Quận Đống Đa,Bán Căn hộ chung cư tại Đường Đông Tác
+2016,6500.0,40,None,None,None,None,None,None,None,Hà Nội,Quận Tây Hồ,Bán Nhà riêng tại Đường Nhật Chiêu
+2017,6500.0,46,None,None,None,None,None,None,None,Hà Nội,Quận Tây Hồ,Bán Nhà riêng tại đường Ven Hồ
+2018,4490.0,60,None,None,None,Sổ đỏ,None,None,None,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Trương Định
+2020,6200.0,43,None,None,None,None,None,None,None,Hà Nội,Quận Tây Hồ,Bán Nhà riêng tại Đường Trịnh Công Sơn
+2021,10800.0,50,"4,5m",4.0,None,Sổ đỏ,Nam,7.0,1.0,Hà Nội,Quận Cầu Giấy,Bán Nhà riêng tại Phố Phùng Chí Kiên
+2022,4500.0,39,None,None,None,Sổ đỏ,None,None,None,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Giải Phóng
+2023,5000.0,60,4m,4.0,None,None,None,4.0,1.0,Hà Nội,Quận Bắc Từ Liêm,Bán Nhà riêng tại Đường Xuân Đỉnh
+2025,3350.0,40,"3,5m",4.0,None,Sổ đỏ,None,4.0,1.0,Hà Nội,Quận Nam Từ Liêm,Bán Nhà riêng tại Đường Miếu Đầm
+2027,7300.0,52,"5,5m",None,None,Sổ đỏ,None,None,1.0,Hà Nội,Quận Cầu Giấy,Bán Nhà riêng tại Đường Nguyễn Khang
+2028,3900.0,100,5m,3.0,None,Sổ đỏ,None,None,1.0,Hà Nội,Quận Đống Đa,Bán Nhà riêng tại Đường Vĩnh Hồ
+2029,4600.0,32,None,None,None,None,None,None,None,Hà Nội,Quận Tây Hồ,Bán Nhà riêng tại Đường Phú Xá
+2030,3600.0,33,None,None,None,None,None,None,1.0,Hà Nội,Quận Tây Hồ,Bán Nhà riêng tại Đường Phú Xá
+2031,Thỏa thuận,140,None,None,None,None,None,8.0,None,Hà Nội,Quận Hai Bà Trưng,Bán Nhà riêng tại Phố Lê Thanh Nghị
+2032,Thỏa thuận,32,"3,8m",3.0,None,Sổ đỏ,None,5.0,1.0,Hà Nội,Quận Cầu Giấy,Bán Nhà riêng tại Đường Hoàng Quốc Việt
+2033,6500.0,40,None,None,None,None,None,None,1.0,Hà Nội,Quận Tây Hồ,Bán Nhà riêng tại Đường Lạc Long Quân
+2034,3600.0,40,None,None,None,None,None,None,None,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Trương Định
+2036,3700.0,32,None,3.0,None,None,None,None,1.0,Hà Nội,Quận Tây Hồ,Bán Nhà riêng tại Đường Phú Thượng
+2037,4680.0,32,None,3.0,None,Sổ hồng,None,None,1.0,Hà Nội,Quận Tây Hồ,Bán Nhà riêng tại Đường Phúc Hoa
+2039,Thỏa thuận,160,None,None,None,Sổ đỏ,None,None,1.0,Hà Nội,Quận Ba Đình,Bán Nhà riêng tại Phố Kim Mã
+2046,3200.0,35,None,4.0,None,Sổ đỏ,None,4.0,None,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Trương Định
+2047,3450.0,38,None,4.0,None,Sổ đỏ,None,4.0,None,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Hoàng Liệt
+2048,1500.0,135,None,None,None,Sổ đỏ,None,None,None,Hà Nội,Quận Hai Bà Trưng,Bán Đất tại Phố Bùi Ngọc Dương
+2049,1560.0,63,None,2.0,None,Sổ đỏ,Đông-Nam,None,1.0,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Trần Thủ Độ
+2050,11800.0,84,None,None,None,Sổ đỏ,None,None,None,Hà Nội,Quận Long Biên,Bán Nhà riêng tại Đường Hoa Lâm
+2051,4000.0,45,5m,4.0,None,None,None,5.0,1.0,Hà Nội,Quận Hà Đông,Bán Nhà riêng tại Đường Quang Trung
+2052,4000.0,45,5m,4.0,None,None,None,5.0,1.0,Hà Nội,Quận Hà Đông,Bán Nhà riêng tại Đường Quang Trung
+2058,11000.0,65,None,None,None,Sổ đỏ,None,6.0,None,Hà Nội,Quận Hà Đông,Bán Nhà riêng tại Đường Nguyễn Văn Lộc
+2062,Thỏa thuận,45,None,None,None,Sổ đỏ,None,None,1.0,Hà Nội,Quận Hà Đông,Bán Nhà riêng tại Đường Quang Trung
+2063,"3,95",44,4m,4.0,None,Sổ đỏ,None,5.0,1.0,Hà Nội,Quận Nam Từ Liêm,Bán Nhà riêng tại đường Mỹ Đình
+2066,4350.0,160,None,3.0,Nam,Sổ đỏ,None,12.0,1.0,Hà Nội,Quận Nam Từ Liêm,Bán Căn hộ chung cư tại Đường Lê Đức Thọ
+2067,18200.0,72,None,5.0,None,Sổ đỏ,None,5.0,None,Hà Nội,Quận Long Biên,Bán Nhà mặt phố tại Đường Hoàng Như Tiếp
+2069,17500.0,75,None,6.0,None,Sổ đỏ,None,None,None,Hà Nội,Quận Tây Hồ,Bán Nhà riêng tại Đường Đặng Thai Mai
+2071,28000.0,115,None,3.0,None,Sổ đỏ,None,None,None,Hà Nội,Quận Tây Hồ,Bán Nhà riêng tại Đường Lạc Long Quân
+2072,5100.0,48,3m,4.0,None,Sổ đỏ,None,5.0,1.0,Hà Nội,Quận Cầu Giấy,Bán Nhà riêng tại Đường Nguyễn Khánh Toàn
+2073,"16,5",58,None,None,None,Sổ đỏ,None,None,None,Hà Nội,Quận Cầu Giấy,Bán Nhà mặt phố tại Đường 800A
+2077,1700.0,66,None,None,None,None,None,None,None,Hà Nội,Huyện Sóc Sơn,Bán Nhà riêng tại Xã Quang Tiến
+2078,2300.0,127,None,None,None,None,None,None,None,Hà Nội,Huyện Sóc Sơn,Bán Nhà riêng tại Xã Tân Dân
+2079,4140.0,450,None,None,None,None,None,None,None,Hà Nội,Huyện Quốc Oai,Bán Đất tại Xã Hòa Thạch
+2080,610,51.5,None,2.0,None,Sổ đỏ,None,None,1.0,Hà Nội,Quận Thanh Xuân,Bán Căn hộ chung cư tại Đường Giáp Nhất
+2082,4500.0,40,"6,4m",4.0,None,Sổ đỏ,None,4.0,None,Hà Nội,Quận Long Biên,Bán Nhà riêng tại Đường Bồ Đề
+2083,5080.0,30,3m,4.0,None,Sổ đỏ,None,5.0,1.0,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Đường Trường Chinh
+2084,960.0,37.0,None,1.0,None,Sổ đỏ,None,6.0,1.0,Hà Nội,Quận Đống Đa,Bán Căn hộ chung cư tại Phường Kim Liên
+2086,17000.0,65,None,None,None,None,None,None,None,Hà Nội,Quận Tây Hồ,Bán Nhà riêng tại đường Thụy Khuê
+2088,1050.0,50.0,None,2.0,None,Sổ đỏ,None,6.0,1.0,Hà Nội,Quận Hai Bà Trưng,Bán Căn hộ chung cư tại Đường Trần Khát Chân
+2089,19000.0,70,"4,5m",4.0,None,Sổ đỏ,None,4.0,1.0,Hà Nội,Quận Thanh Xuân,Bán Nhà mặt phố tại Đường Lê Trọng Tấn
+2097,Thỏa thuận,45,None,None,None,None,None,3.0,None,Hà Nội,Quận Đống Đa,Bán Căn hộ chung cư tại Phố Khâm Thiên
+2098,8350.0,4175,None,None,None,None,None,None,None,Hà Nội,Huyện Quốc Oai,Bán Đất tại Xã Đông Xuân
+2099,1600.0,395,None,None,None,None,None,None,None,Hà Nội,Huyện Quốc Oai,Bán Đất tại Xã Đông Yên
+2101,6500.0,35,"4,2m",3.0,None,Sổ đỏ,None,5.0,1.0,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Phường Khương Mai
+2102,10500.0,55,None,None,None,None,None,None,None,Hà Nội,Quận Ba Đình,Bán Nhà riêng tại Đường Hoàng Hoa Thám
+2103,3800.0,30,None,None,None,None,None,None,None,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Đường Hoàng Văn Thái
+2104,4500.0,30,None,None,None,None,None,None,None,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Đường Hoàng Văn Thái
+2105,5500.0,42,None,None,None,None,None,None,None,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Đường Hoàng Văn Thái
+2106,4600.0,42,None,None,None,None,None,None,None,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Đường Hoàng Văn Thái
+2107,6550.0,44,None,None,None,None,None,None,None,Hà Nội,Quận Ba Đình,Bán Nhà riêng tại Đường Phan Kế Bính
+2108,10000.0,47,None,None,None,None,None,None,None,Hà Nội,Quận Ba Đình,Bán Nhà riêng tại Đường Núi Trúc
+2109,12600.0,43,None,None,None,None,None,None,None,Hà Nội,Quận Ba Đình,Bán Nhà riêng tại Đường Đội Cấn
+2110,18800.0,62,None,None,None,None,None,None,None,Hà Nội,Quận Ba Đình,Bán Nhà riêng tại Đường Đào Tấn
+2111,36300.0,220,None,None,None,None,None,None,None,Hà Nội,Quận Nam Từ Liêm,Bán Đất tại Đường Miếu Đầm
+2112,3650.0,50,None,None,None,None,None,None,None,Hà Nội,Quận Nam Từ Liêm,Bán Đất tại Đường Xuân Phương
+2113,6900.0,114,None,None,None,None,None,None,None,Hà Nội,Quận Cầu Giấy,Bán Căn hộ chung cư tại Đường Trần Duy Hưng
+2114,4900.0,138,None,None,None,None,None,None,None,Hà Nội,Quận Cầu Giấy,Bán Căn hộ chung cư tại Đường Duy Tân
+2115,6240.0,96,None,None,None,None,None,None,None,Hà Nội,Huyện Hoài Đức,Bán Đất tại Xã An Thượng
+2116,5850.0,46,None,None,None,None,None,None,None,Hà Nội,Quận Đống Đa,Bán Nhà riêng tại Phố Thái Hà
+2117,1550.0,42,None,None,None,None,None,None,None,Hà Nội,Huyện Hoài Đức,Bán Đất tại Xã An Thượng
+2118,3500.0,32,None,None,None,None,None,None,None,Hà Nội,Quận Đống Đa,Bán Nhà riêng tại Đường Láng
+2119,4500.0,37,None,None,None,None,None,None,None,Hà Nội,Quận Đống Đa,Bán Nhà riêng tại Phường Ngã Tư Sở
+2120,3240.0,1080,None,None,None,None,None,None,None,Hà Nội,Huyện Ba Vì,Bán Đất tại Xã Vân Hòa
+2121,3500.0,70,None,None,None,None,None,None,None,Hà Nội,Quận Cầu Giấy,Bán Căn hộ chung cư tại Đường Xuân Thủy
+2122,5400.0,47,None,None,None,None,None,None,None,Hà Nội,Quận Đống Đa,Bán Nhà riêng tại Đường Nguyễn Lương Bằng
+2123,12480.0,160,None,None,None,None,None,None,None,Hà Nội,Quận Tây Hồ,Bán Căn hộ chung cư tại Phường Phú Thượng
+2127,3100.0,39,None,None,None,None,None,None,None,Hà Nội,Quận Đống Đa,Bán Nhà riêng tại Phố Khâm Thiên
+2128,1960.0,56,None,None,None,None,None,None,None,Hà Nội,Quận Cầu Giấy,Bán Căn hộ chung cư tại Phường Trung Hòa
+2129,3500.0,110,None,None,None,None,None,None,None,Hà Nội,Quận Cầu Giấy,Bán Căn hộ chung cư tại Đường Xuân Thủy
+2133,4100.0,38,None,None,None,None,None,None,None,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Đường Khương Đình
+2134,6800.0,30,None,None,None,None,None,None,None,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Đường Khương Đình
+2135,6800.0,46,None,None,None,None,None,None,None,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Đường Khương Đình
+2136,5250.0,39,None,None,None,None,None,None,None,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Đường Khương Đình
+2137,6000.0,50,None,None,None,None,None,None,None,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Đường Khương Đình
+2141,2600.0,20,None,2.0,None,Sổ đỏ,None,4.0,None,Hà Nội,Quận Đống Đa,Bán Nhà riêng tại Đường Ngô Sĩ Liên
+2143,2550.0,92,None,None,None,None,None,None,None,Hà Nội,Quận Thanh Xuân,Bán Căn hộ chung cư tại Phố Hạ Đình
+2145,4950.0,32,None,None,None,None,None,None,None,Hà Nội,Quận Ba Đình,Bán Nhà riêng tại Đường Vĩnh Phúc
+2146,4900.0,48,None,None,None,None,None,None,None,Hà Nội,Quận Ba Đình,Bán Nhà riêng tại Đường Hoàng Hoa Thám
+2147,2900.0,22,None,None,None,None,None,None,None,Hà Nội,Quận Ba Đình,Bán Nhà riêng tại Đường Vĩnh Phúc
+2148,8950.0,78,None,None,None,None,None,None,None,Hà Nội,Quận Ba Đình,Bán Nhà riêng tại Phường Đội Cấn
+2149,46000.0,175,None,None,None,None,None,None,None,Hà Nội,Quận Ba Đình,Bán Nhà riêng tại Đường Bưởi
+2154,65000.0,52,None,None,None,None,None,None,None,Hà Nội,Quận Hoàn Kiếm,Bán Nhà mặt phố tại Phố Hàng Lược
+2155,2700.0,35,None,None,None,None,None,None,None,Hà Nội,Quận Hà Đông,Bán Nhà riêng tại Đường Quang Trung
+2156,3150.0,32,None,None,None,None,None,None,None,Hà Nội,Quận Hà Đông,Bán Nhà riêng tại Đường Nghĩa Lộ
+2157,1450.0,38,None,None,None,None,None,None,None,Hà Nội,Quận Hà Đông,Bán Nhà riêng tại Phường Yên Nghĩa
+2158,955.0,42.5,None,2.0,None,Sổ đỏ,None,6.0,1.0,Hà Nội,Quận Đống Đa,Bán Căn hộ chung cư tại Phố Xã Đàn
+2160,4200.0,40,None,None,None,None,None,None,None,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Minh Khai
+2161,5600.0,43,None,None,None,None,None,None,None,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Nguyễn Chính
+2162,4900.0,38,None,None,None,None,None,None,None,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Trương Định
+2164,3200.0,40,None,None,None,None,None,None,None,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Đền Lừ
+2166,3200.0,42,None,None,None,None,None,None,None,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Hoàng Mai
+2170,2900.0,38,None,None,None,Sổ hồng,Tây-Bắc,None,None,Hà Nội,Quận Hà Đông,Bán Nhà riêng tại Phường Phú Lương
+2171,2450.0,31,None,None,None,None,Đông-Nam,5.0,None,Hà Nội,Quận Hà Đông,Bán Nhà riêng tại Phường Phú Lãm
+2172,2029.9999999999998,32,None,None,None,None,Đông-Bắc,None,None,Hà Nội,Quận Hà Đông,Bán Nhà riêng tại Phường Yên Nghĩa
+2173,2450.0,32,None,None,None,None,Tây-Nam,None,None,Hà Nội,Quận Hà Đông,Bán Nhà riêng tại Phường Phú Lương
+2174,2450.0,32,None,None,None,None,Tây-Nam,None,None,Hà Nội,Quận Hà Đông,Bán Nhà riêng tại Phường Phú Lãm
+2177,Thỏa thuận,111,"3,9m",None,None,Sổ đỏ,Đông,3.0,1.0,Hà Nội,Quận Hai Bà Trưng,Bán Nhà mặt phố tại Phố Bạch Mai
+2178,Thỏa thuận,196,"6,5m",None,None,Sổ đỏ,Nam,3.0,1.0,Hà Nội,Quận Hai Bà Trưng,Bán Nhà mặt phố tại Phố Đồng Nhân
+2179,960.0,37.0,None,2.0,None,Sổ đỏ,None,6.0,1.0,Hà Nội,Quận Đống Đa,Bán Căn hộ chung cư tại Đường Đông Tác
+2180,Thỏa thuận,26,"4,25m",None,None,Sổ đỏ,Đông-Nam,3.0,1.0,Hà Nội,Quận Hoàn Kiếm,Bán Nhà mặt phố tại Phố Nguyễn Khắc Cần
+2181,2100.0,21,None,2.0,None,Sổ đỏ,None,4.0,None,Hà Nội,Quận Hai Bà Trưng,Bán Nhà riêng tại Phường Minh Khai
+2184,6600.0,46,None,None,None,None,None,None,None,Hà Nội,Quận Tây Hồ,Bán Nhà riêng tại Đường Tô Ngọc Vân
+2185,6400.0,47,None,None,None,None,None,None,None,Hà Nội,Quận Tây Hồ,Bán Nhà riêng tại Đường Nhật Chiêu
+2186,760,48,None,2.0,None,None,None,6.0,1.0,Hà Nội,Quận Hoàng Mai,Bán Căn hộ chung cư tại Ngõ Gốc Đề
+2187,750,50,None,2.0,None,None,None,6.0,1.0,Hà Nội,Quận Hoàng Mai,Bán Căn hộ chung cư tại Đường Giải Phóng
+2188,Thỏa thuận,58,5m,4.0,None,Sổ đỏ,None,6.0,1.0,Hà Nội,Quận Long Biên,Bán Nhà riêng tại Đường Nguyễn Sơn
+2189,6300.0,48,None,None,None,None,None,None,None,Hà Nội,Quận Tây Hồ,Bán Nhà riêng tại Đường Trịnh Công Sơn
+2191,13500.0,40,None,None,None,None,None,None,None,Hà Nội,Quận Hoàn Kiếm,Bán Nhà riêng tại Đường Hồng Hà
+2192,4900.0,33,None,None,None,None,None,None,1.0,Hà Nội,Quận Tây Hồ,Bán Nhà riêng tại Đường Phú Xá
+2194,6900.0,47,None,None,None,None,None,None,None,Hà Nội,Quận Tây Hồ,Bán Nhà riêng tại Đường Vệ Hồ
+2195,7800.0,41,None,None,None,None,None,None,None,Hà Nội,Quận Hoàn Kiếm,Bán Nhà riêng tại Phố Hàm Long
+2199,5500.0,45,5m,3.0,None,None,None,5.0,None,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Đường Nguyễn Trãi
+2200,800.0,44.0,None,2.0,None,None,None,None,1.0,Hà Nội,Quận Bắc Từ Liêm,Bán Căn hộ chung cư tại Đường Xuân Đỉnh
+2201,875.0,45.0,None,1.0,None,None,None,None,None,Hà Nội,Quận Thanh Xuân,Bán Căn hộ chung cư tại Đường Khương Trung
+2202,900.0,44.0,None,2.0,None,None,None,None,None,Hà Nội,Quận Đống Đa,Bán Căn hộ chung cư tại Đường Tôn Thất Tùng
+2203,630,52,None,2.0,None,None,None,None,None,Hà Nội,Quận Đống Đa,Bán Căn hộ chung cư tại Đường Đông Tác
+2204,37000.0,150,None,None,None,None,None,4.0,None,Hà Nội,Quận Hai Bà Trưng,Bán Nhà mặt phố tại Đường Dương Văn Bé
+2206,17,50,5m,None,None,None,None,7.0,None,Hà Nội,Quận Đống Đa,Bán Nhà riêng tại Phố Thái Hà
+2207,3500.0,35,4m,3.0,None,None,None,5.0,None,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Đường Nguyễn Xiển
+2208,12500.0,60,5m,None,None,None,None,7.0,None,Hà Nội,Quận Đống Đa,Bán Nhà riêng tại Đường Trường Chinh
+2209,4300.0,45,4m,3.0,None,None,None,5.0,None,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Đường Hoàng Văn Thái
+2210,16900.0,60,6m,None,None,Sổ đỏ,None,7.0,None,Hà Nội,Quận Đống Đa,Bán Nhà mặt phố tại Phố Chùa Bộc
+2211,Thỏa thuận,170,10m,None,None,None,None,9.0,None,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Đường Nguyễn Trãi
+2212,15000.0,110,None,None,None,None,None,None,None,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Đường Nguyễn Trãi
+2213,12500.0,55,5m,None,None,None,None,7.0,None,Hà Nội,Quận Đống Đa,Bán Nhà mặt phố tại Phố Chùa Bộc
+2214,17500.0,60,6m,3.0,None,None,None,7.0,None,Hà Nội,Quận Đống Đa,Bán Nhà mặt phố tại Đường Trường Chinh
+2216,58000.0,280,None,4.0,None,Sổ đỏ,None,None,None,Hà Nội,Quận Nam Từ Liêm,Bán Đất tại Đường Đại Mỗ
+2217,Thỏa thuận,48,None,None,None,None,None,None,None,Hà Nội,Quận Hai Bà Trưng,Bán Nhà riêng tại Đường Ngõ Quỳnh
+2229,5400.0,40,4m,3.0,None,Sổ đỏ,None,5.0,1.0,Hà Nội,Quận Đống Đa,Bán Nhà riêng tại Đường Đông Tác
+2230,Thỏa thuận,33,None,None,None,None,None,None,None,Hà Nội,Quận Hà Đông,Bán Nhà riêng tại Phố Bà Triệu
+2232,Thỏa thuận,55,None,None,None,None,None,None,None,Hà Nội,Quận Hà Đông,Bán Nhà riêng tại Đường Lê Trọng Tấn
+2233,Thỏa thuận,32,None,None,None,None,None,None,None,Hà Nội,Quận Hà Đông,Bán Nhà riêng tại Đường Hà Trì
+2234,Thỏa thuận,30,None,None,None,None,None,None,1.0,Hà Nội,Quận Hà Đông,Bán Nhà riêng tại Đường Ngô Quyền
+2242,2500.0,32,None,None,None,None,None,None,None,Hà Nội,Quận Long Biên,Bán Nhà riêng tại Đường Phúc Lợi
+2255,3700.0,40,5m,3.0,None,None,None,5.0,None,Hà Nội,Quận Hai Bà Trưng,Bán Nhà riêng tại Đường Giải Phóng
+2259,975.0,45.0,None,2.0,None,Sổ đỏ,None,6.0,1.0,Hà Nội,Quận Hoàng Mai,Bán Căn hộ chung cư tại Đường Minh Khai
+2261,1600.0,65,None,5.0,None,Sổ đỏ,None,None,None,Hà Nội,Quận Hai Bà Trưng,Bán Nhà mặt phố tại Phố Yên Lạc
+2263,Thỏa thuận,180,8m,2.0,None,Sổ đỏ,None,1.0,None,Hà Nội,Quận Cầu Giấy,Bán Nhà mặt phố tại Đường Trần Thái Tông
+2264,816,46,None,2.0,Tây-Nam,Sổ đỏ,Tây-Nam,3.0,None,Hà Nội,Quận Nam Từ Liêm,Bán Căn hộ chung cư tại Đường Đình Thôn
+2266,1000.0,50,None,2.0,None,Sổ đỏ,Bắc,6.0,None,Hà Nội,Quận Hoàng Mai,Bán Căn hộ chung cư tại Đường Mai Động
+2267,3450.0,42,None,3.0,None,Sổ đỏ,None,4.0,None,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Đại Kim
+2268,3440.0,40,None,4.0,None,Sổ đỏ,None,5.0,None,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Linh Đàm
+2269,3000.0,47,None,4.0,None,Sổ đỏ,None,None,None,Hà Nội,Quận Đống Đa,Bán Nhà riêng tại Đường Nguyễn Chí Thanh
+2270,3200.0,34,None,3.0,None,Sổ đỏ,None,5.0,None,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Giáp Bát
+2271,3400.0,40,None,4.0,None,Sổ đỏ,None,4.0,None,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Nguyễn Cảnh Dị
+2273,1800.0,330,11m,None,None,Giấy tờ hợp lệ,Tây-Bắc,None,None,Hà Nội,Quận Tây Hồ,Bán Đất tại Đường An Dương Vương
+2275,4950.0,34,None,None,None,None,None,None,None,Hà Nội,Quận Tây Hồ,Bán Nhà riêng tại Đường Phú Gia
+2276,840.0,45.0,None,None,None,None,None,5.0,None,Hà Nội,Quận Ba Đình,Bán Căn hộ chung cư tại Đường Đội Cấn
+2285,10500.0,76,"4,6m",4.0,None,Sổ đỏ,None,8.0,1.0,Hà Nội,Quận Đống Đa,Bán Nhà riêng tại Đường Đường Láng
+2286,590,45,None,None,None,Sổ đỏ,None,None,1.0,Hà Nội,Quận Hoàng Mai,Bán Căn hộ chung cư tại Đường Tân Mai
+2287,Thỏa thuận,85,None,None,None,None,None,None,None,Hà Nội,Huyện Chương Mỹ,Bán Đất tại Xã Thuỷ Xuân Tiên
+2292,750.0,45.0,None,2.0,None,Sổ đỏ,None,None,1.0,Hà Nội,Quận Tây Hồ,Bán Căn hộ chung cư tại Đường Trích Sài
+2294,2100.0,95,None,None,None,None,None,None,None,Hà Nội,Quận Hà Đông,Bán Căn hộ chung cư tại Đường Phan Đình Phùng
+2295,3100.0,158,None,None,None,None,None,None,None,Hà Nội,Quận Hà Đông,Bán Căn hộ chung cư tại Đường Lê Trọng Tấn
+2300,55000.0,140,None,None,None,Sổ đỏ,None,None,None,Hà Nội,Quận Cầu Giấy,Bán Nhà mặt phố tại Đường Lạc Long Quân
+2304,3750.0,84,None,None,None,None,None,None,None,Hà Nội,Quận Thanh Xuân,Bán Căn hộ chung cư tại Phố Vũ Tông Phan
+2306,5200.0,111,None,None,None,None,None,None,None,Hà Nội,Quận Bắc Từ Liêm,Bán Căn hộ chung cư tại Phường Xuân Đỉnh
+2315,805,48,None,None,None,None,None,None,None,Hà Nội,Quận Hoàng Mai,Bán Căn hộ chung cư tại Đường Giải Phóng
+2316,2200.0,63,None,None,None,None,None,None,None,Hà Nội,Quận Hoàng Mai,Bán Căn hộ chung cư tại Đường Linh Đàm
+2320,8000.0,65,7m,4.0,None,Sổ đỏ,None,4.0,1.0,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Đường Bùi Xương Trạch
+2321,8000.0,42,11m,4.0,None,None,None,6.0,1.0,Hà Nội,Quận Hà Đông,Bán Nhà riêng tại Đường Nguyễn Văn Lộc
+2322,3100.0,31,38m,None,None,Sổ hồng,None,5.0,None,Hà Nội,Quận Long Biên,Bán Nhà riêng tại Đường Đức Giang
+2323,15000.0,77,4m,4.0,None,Sổ đỏ,None,5.0,1.0,Hà Nội,Quận Long Biên,Bán Nhà riêng tại Đường Nguyễn Văn Cừ
+2324,11800.0,43,None,None,None,Sổ đỏ,None,None,1.0,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Đường Hoàng Văn Thái
+2325,5250.0,40,5m,4.0,None,Sổ đỏ,None,4.0,1.0,Hà Nội,Quận Cầu Giấy,Bán Nhà riêng tại Đường Trần Thái Tông
+2326,99800.0,212,None,4.0,None,Sổ đỏ,None,11.0,None,Hà Nội,Quận Ba Đình,Bán Bất động sản khác tại Phố Linh Lang
+2327,5900.0,58,"5,2m",4.0,None,Sổ đỏ,None,4.0,1.0,Hà Nội,Quận Long Biên,Bán Nhà riêng tại Đường Ngọc Thụy
+2328,28000.0,80,7m,4.0,None,Sổ đỏ,None,4.0,1.0,Hà Nội,Quận Đống Đa,Bán Nhà mặt phố tại Phố Mai Anh Tuấn
+2329,2760.0,42,None,None,None,None,None,None,None,Hà Nội,Quận Nam Từ Liêm,Bán Đất tại Phường Xuân Phương
+2330,7020.0,5400,None,None,None,None,None,None,None,Hà Nội,Huyện Ba Vì,Bán Đất tại Xã Ba Vì
+2331,2500.0,72,None,None,None,None,None,None,None,Hà Nội,Quận Hà Đông,Bán Căn hộ chung cư tại Phường Mỗ Lao
+2333,4300.0,111,None,None,None,None,None,None,None,Hà Nội,Quận Hà Đông,Bán Căn hộ chung cư tại Phường Mỗ Lao
+2334,4100.0,100,None,None,None,None,None,None,None,Hà Nội,Quận Hà Đông,Bán Căn hộ chung cư tại Phường Mỗ Lao
+2336,2900.0,27,None,None,None,None,None,None,None,Hà Nội,Quận Đống Đa,Bán Nhà riêng tại Phố Xã Đàn
+2337,6290.0,40,None,None,None,None,None,None,None,Hà Nội,Quận Đống Đa,Bán Nhà riêng tại Phố Xã Đàn
+2338,34500.0,110,None,None,None,None,None,None,None,Hà Nội,Quận Cầu Giấy,Bán Căn hộ chung cư tại Đường Xuân Thủy
+2339,5900.0,101,None,None,None,None,None,None,None,Hà Nội,Quận Cầu Giấy,Bán Căn hộ chung cư tại Đường Trần Duy Hưng
+2340,22500.0,65,None,None,None,None,None,None,None,Hà Nội,Quận Đống Đa,Bán Nhà riêng tại Phường Trung Liệt
+2341,14000.0,60,None,None,None,None,None,None,None,Hà Nội,Quận Đống Đa,Bán Nhà riêng tại Phố Thái Hà
+2342,16500.0,50,None,None,None,None,None,None,None,Hà Nội,Quận Đống Đa,Bán Nhà riêng tại Phố Mai Anh Tuấn
+2343,2900.0,70,None,None,None,None,None,None,None,Hà Nội,Quận Cầu Giấy,Bán Căn hộ chung cư tại Đường Yên Hòa
+2344,4100.0,76,None,None,None,None,None,None,None,Hà Nội,Quận Cầu Giấy,Bán Căn hộ chung cư tại Đường Xuân Thủy
+2345,5050.0,110,None,None,None,None,None,None,None,Hà Nội,Quận Cầu Giấy,Bán Căn hộ chung cư tại Đường Xuân Thủy
+2355,9200.0,50,None,None,None,None,None,None,None,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Đường Khương Đình
+2356,7800.0,42,None,None,None,None,None,None,None,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Đường Khương Đình
+2357,4300.0,38,None,None,None,None,None,None,None,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Phường Khương Đình
+2358,5750.0,60,None,None,None,None,None,None,None,Hà Nội,Quận Ba Đình,Bán Nhà riêng tại Phố Ngọc Khánh
+2359,28000.0,110,None,None,None,None,None,None,None,Hà Nội,Quận Ba Đình,Bán Nhà riêng tại Phường Liễu Giai
+2360,2900.0,25,None,None,None,None,None,None,None,Hà Nội,Quận Ba Đình,Bán Nhà riêng tại Đường Vĩnh Phúc
+2361,3000.0,25,None,None,None,None,None,None,None,Hà Nội,Quận Ba Đình,Bán Nhà riêng tại Đường Đào Tấn
+2363,2150.0,34,None,None,None,None,None,None,None,Hà Nội,Quận Hà Đông,Bán Nhà riêng tại Phường Yên Nghĩa
+2364,2950.0,34,None,None,None,None,None,None,None,Hà Nội,Quận Hà Đông,Bán Nhà riêng tại Phường Yên Nghĩa
+2365,1780.0,32,None,None,None,None,None,None,None,Hà Nội,Quận Hà Đông,Bán Nhà riêng tại Phường Yên Nghĩa
+2369,5600.0,37,"3,2m",3.0,None,Sổ đỏ,Đông-Bắc,5.0,1.0,Hà Nội,Quận Cầu Giấy,Bán Nhà riêng tại Đường Trần Thái Tông
+2372,3400.0,30,None,None,None,None,None,None,None,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Đông Thiên
+2373,3180.0,30,None,None,None,None,None,None,None,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Đông Thiên
+2374,3150.0,30,None,None,None,None,None,None,None,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Nam Dư
+2378,10000.0,70,4m,4.0,None,Sổ hồng,None,5.0,1.0,Hà Nội,Quận Tây Hồ,Bán Nhà riêng tại Đường Lạc Long Quân
+2379,3080.0,30,None,None,None,None,None,None,None,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Ngũ Nhạc
+2383,3050.0,34,None,None,None,None,None,None,None,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Nguyễn Khoái
+2384,4200.0,36,None,None,None,None,None,None,None,Hà Nội,Quận Hoàn Kiếm,Bán Nhà riêng tại Đường Bạch Đằng
+2386,61000.0,225,None,None,None,None,None,None,None,Hà Nội,liền kề tại Quận Long Biên,Bán Nhà biệt thự
+2389,32000.0,51,"5,2m",4.0,None,Sổ đỏ,None,5.0,1.0,Hà Nội,Quận Ba Đình,Bán Nhà mặt phố tại Đường Trần Phú
+2390,55000.0,108,"5,6m",None,None,Sổ đỏ,None,None,None,Hà Nội,Quận Hoàn Kiếm,Bán Nhà mặt phố tại Phố Hàng Bông
+2393,4150.0,36,4m,4.0,None,Sổ đỏ,None,4.0,1.0,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Đường Khương Đình
+2395,1175.0,42.0,None,2.0,None,Giấy chứng nhận quyền sở hữu,None,6.0,1.0,Hà Nội,Quận Hai Bà Trưng,Bán Căn hộ chung cư tại Đường Kim Ngưu
+2396,4000.0,50,5m,4.0,None,None,None,5.0,None,Hà Nội,Quận Hà Đông,Bán Nhà mặt phố tại Đường Quang Trung
+2398,850,50,None,None,None,None,None,None,None,Hà Nội,Quận Hoàng Mai,Bán Căn hộ chung cư tại Đường Giải Phóng
+2399,Thỏa thuận,140,7m,None,None,Sổ hồng,None,None,None,Hà Nội,Quận Long Biên,Bán Đất tại Đường Vũ Đức Thuận
+2400,1550.0,30,None,None,None,None,None,None,None,Hà Nội,Quận Hoàn Kiếm,Bán Nhà riêng tại Phố Đường Thành
+2402,4500.0,57.5,4m,None,None,None,Đông,None,None,Hà Nội,Huyện Hoài Đức,Bán Đất tại Đường Đại lộ Thăng Long
+2403,4500.0,38,None,None,None,Sổ đỏ,None,4.0,None,Hà Nội,Quận Thanh Xuân,Bán Nhà mặt phố tại Phố Vũ Tông Phan
+2411,2500.0,26,None,3.0,None,Sổ hồng,None,4.0,1.0,Hà Nội,Quận Đống Đa,Bán Nhà riêng tại Đường Văn Hương
+2413,Thỏa thuận,55,"4,3m",4.0,None,Sổ đỏ,None,5.0,None,Hà Nội,Quận Long Biên,Bán Nhà riêng tại Đường Nguyễn Văn Cừ
+2415,10000.0,258,None,None,None,None,None,None,None,Hà Nội,Huyện Quốc Oai,Bán Đất tại Xã Đông Yên
+2416,2400.0,300,None,None,None,None,None,None,None,Hà Nội,Huyện Quốc Oai,Bán Đất tại Xã Phú Mãn
+2417,800,79,None,None,None,None,None,None,None,Hà Nội,Huyện Quốc Oai,Bán Đất tại Đường 21A
+2418,1520.0,117,None,None,None,None,None,None,None,Hà Nội,Huyện Quốc Oai,Bán Đất tại Xã Phú Cát
+2419,3000.0,501,None,None,None,None,None,None,None,Hà Nội,Huyện Quốc Oai,Bán Đất tại Xã Phú Mãn
+2420,1420.0,36,None,None,None,None,None,None,None,Hà Nội,Huyện Hoài Đức,Bán Đất tại Đường Lê Trọng Tấn
+2421,4700.0,729,None,None,None,None,None,None,None,Hà Nội,Huyện Hoài Đức,Bán Đất tại Đường Đại lộ Thăng Long
+2422,4700.0,730,None,None,None,None,None,None,None,Hà Nội,Huyện Hoài Đức,Bán Đất tại Đường Đại lộ Thăng Long
+2423,2450.0,100,None,None,None,None,None,None,None,Hà Nội,Huyện Thạch Thất,Bán Đất tại Xã Tân Xã
+2424,1680.0,140,None,None,None,None,None,None,None,Hà Nội,Huyện Thạch Thất,Bán Đất tại Xã Tân Xã
+2425,3000.0,300,None,None,None,None,None,None,None,Hà Nội,Huyện Thạch Thất,Bán Đất tại Xã Tân Xã
+2426,3240.0,270,None,None,None,None,None,None,None,Hà Nội,Huyện Thạch Thất,Bán Đất tại Xã Tân Xã
+2427,3300.0,275,None,None,None,None,None,None,None,Hà Nội,Huyện Thạch Thất,Bán Đất tại Xã Tân Xã
+2429,5150.0,40,"4,5m",4.0,None,Sổ hồng,Đông-Nam,6.0,1.0,Hà Nội,Quận Long Biên,Bán Nhà riêng tại Đường Thạch Bàn
+2430,16000.0,95,None,3.0,None,Sổ đỏ,None,None,None,Hà Nội,Quận Long Biên,Bán Nhà mặt phố tại Đường 1
+2431,5500.0,45,None,None,None,None,None,None,None,Hà Nội,Quận Đống Đa,Bán Nhà riêng tại Đường Phạm Ngọc Thạch
+2432,2850000.0,89,None,None,None,None,None,None,None,Hà Nội,Quận Đống Đa,Bán Nhà riêng tại Phường Kim Liên
+2433,2450.0,22,None,None,None,None,None,None,None,Hà Nội,Quận Đống Đa,Bán Nhà riêng tại Phố Tôn Đức Thắng
+2434,9500.0,47,None,None,None,None,None,None,None,Hà Nội,Quận Đống Đa,Bán Nhà riêng tại Phố Thái Hà
+2435,2300.0,24,None,None,None,None,None,None,None,Hà Nội,Quận Đống Đa,Bán Nhà riêng tại Phố Khâm Thiên
+2436,5100.0,54,None,None,None,None,None,None,None,Hà Nội,Quận Cầu Giấy,Bán Nhà riêng tại Đường Nguyễn Khánh Toàn
+2437,4150.0,35,None,None,None,None,None,None,None,Hà Nội,Quận Cầu Giấy,Bán Nhà riêng tại Đường Cầu Giấy
+2438,5000.0,48,None,None,None,None,None,None,None,Hà Nội,Quận Cầu Giấy,Bán Nhà riêng tại Đường Nguyễn Khánh Toàn
+2439,14290.0,50,None,None,None,None,None,None,None,Hà Nội,Quận Cầu Giấy,Bán Nhà riêng tại Đường Cầu Giấy
+2440,3700.0,32,None,None,None,None,None,None,None,Hà Nội,Quận Cầu Giấy,Bán Nhà riêng tại Đường Cầu vượt Mai Dịch
+2441,4550.0,37,None,None,None,None,None,None,None,Hà Nội,Quận Tây Hồ,Bán Nhà riêng tại Đường Hoàng Hoa Thám
+2442,5500.0,43,None,None,None,None,None,None,None,Hà Nội,Quận Tây Hồ,Bán Nhà riêng tại đường Thụy Khuê
+2443,12950.0,84,None,None,None,None,None,None,None,Hà Nội,Quận Tây Hồ,Bán Nhà riêng tại Đường Xuân La
+2444,11000.0,57,None,None,None,None,None,None,None,Hà Nội,Quận Tây Hồ,Bán Nhà riêng tại Phố Yên Hoa
+2445,5300.0,43,None,None,None,None,None,None,None,Hà Nội,Quận Tây Hồ,Bán Nhà riêng tại Phường Bưởi
+2446,6200.0,55,None,None,None,None,None,None,None,Hà Nội,Quận Hà Đông,Bán Nhà riêng tại Đường Lê Lai
+2447,3900.0,38,None,None,None,None,None,None,None,Hà Nội,Quận Hà Đông,Bán Nhà riêng tại Phường Kiến Hưng
+2448,3600.0,42,None,None,None,None,None,None,None,Hà Nội,Quận Hà Đông,Bán Nhà riêng tại Phường Yên Nghĩa
+2449,Thỏa thuận,100,6m,4.0,None,Sổ đỏ,None,7.0,1.0,Hà Nội,Quận Cầu Giấy,Bán Nhà mặt phố tại Đường Nguyễn Thị Định
+2450,7560.0,63,None,None,None,None,None,None,None,Hà Nội,Quận Hà Đông,Bán Nhà riêng tại Phường Kiến Hưng
+2452,3150.0,25,None,None,None,None,None,None,None,Hà Nội,Quận Hai Bà Trưng,Bán Nhà riêng tại Đường Minh Khai
+2457,1005.0,47.5,None,2.0,None,Sổ đỏ,None,6.0,1.0,Hà Nội,Quận Hai Bà Trưng,Bán Căn hộ chung cư tại Phố Lò Đúc
+2458,9100.0,60,"4,5m",4.0,None,Sổ đỏ,None,4.0,1.0,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Đường Lê Trọng Tấn
+2462,9300.0,40,4m,3.0,None,None,None,6.0,1.0,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Đường Cù Chính Lan
+2466,650,38,None,2.0,None,Sổ đỏ,None,None,1.0,Hà Nội,Quận Hai Bà Trưng,Bán Căn hộ chung cư tại Phố Bạch Mai
+2467,680,36,None,2.0,None,Sổ đỏ,None,3.0,1.0,Hà Nội,Quận Tây Hồ,Bán Căn hộ chung cư tại Đường Võ Chí Công
+2469,900,40,None,2.0,None,Sổ hồng,None,5.0,1.0,Hà Nội,Quận Hai Bà Trưng,Bán Căn hộ chung cư tại Đường Ngõ Quỳnh
+2472,650,30,None,None,None,Sổ hồng,None,None,1.0,Hà Nội,Quận Cầu Giấy,Bán Căn hộ chung cư tại Đường Trần Thái Tông
+2473,800.0,45.0,None,2.0,None,Sổ đỏ,None,None,1.0,Hà Nội,Quận Hai Bà Trưng,Bán Căn hộ chung cư tại Phố Phố Huế
+2474,825.0,43.0,None,None,None,None,None,None,None,Hà Nội,Quận Đống Đa,Bán Căn hộ chung cư tại Phố Chùa Láng
+2475,675.0,46.5,None,None,None,None,None,None,None,Hà Nội,Quận Đống Đa,Bán Căn hộ chung cư tại Phố Khâm Thiên
+2476,900.0,47.5,None,2.0,None,Sổ đỏ,None,None,1.0,Hà Nội,Quận Tây Hồ,Bán Căn hộ chung cư tại Đường Võng Thị
+2477,975.0,50.0,None,2.0,None,Sổ đỏ,None,None,1.0,Hà Nội,Quận Thanh Xuân,Bán Căn hộ chung cư tại Đường Nguyễn Trãi
+2478,825.0,42.5,None,None,None,None,None,None,None,Hà Nội,Quận Đống Đa,Bán Căn hộ chung cư tại Đường Nguyễn Chí Thanh
+2480,Thỏa thuận,70,None,None,None,None,None,None,None,Hà Nội,Quận Ba Đình,Bán Nhà riêng tại Ngõ 279 Đội Cấn
+2481,Thỏa thuận,100,6m,None,None,Sổ đỏ,Tây,5.0,1.0,Hà Nội,Quận Tây Hồ,Bán Nhà mặt phố tại Đường Lạc Long Quân
+2485,39000.0,156,None,None,None,None,None,None,None,Hà Nội,Quận Ba Đình,Bán Nhà mặt phố tại Phố Kim Mã
+2487,500,46,None,2.0,Đông-Nam,Sổ hồng,Tây-Nam,5.0,1.0,Hà Nội,Quận Đống Đa,Bán Căn hộ chung cư tại Phố Xã Đàn
+2488,600,46,None,2.0,Bắc,Sổ hồng,Đông,7.0,1.0,Hà Nội,Quận Đống Đa,Bán Căn hộ chung cư tại Đường Thịnh Quang
+2489,600,46,None,2.0,Nam,Sổ hồng,Tây,7.0,1.0,Hà Nội,Quận Đống Đa,Bán Căn hộ chung cư tại Đường Trần Quý Cáp
+2490,550,46,None,2.0,Tây,Sổ hồng,Tây,6.0,1.0,Hà Nội,Quận Ba Đình,Bán Căn hộ chung cư tại Ngõ 279 Đội Cấn
+2491,850,35,None,2.0,None,Sổ hồng,None,None,1.0,Hà Nội,Quận Ba Đình,Bán Căn hộ chung cư tại Đường Đội Cấn
+2492,2200.0,85,None,3.0,Đông-Bắc,Sổ hồng,Đông-Nam,None,None,Hà Nội,Huyện Đông Anh,Bán Căn hộ chung cư tại Xã Đông Hội
+2495,7000.0,55,"4,65m",None,None,Sổ đỏ,None,5.0,None,Hà Nội,Quận Cầu Giấy,Bán Nhà riêng tại Đường Võ Chí Công
+2499,750.0,42.5,None,2.0,None,None,None,None,None,Hà Nội,Quận Hai Bà Trưng,Bán Căn hộ chung cư tại Đường Võ Thị Sáu
+2502,550.0,41.5,None,None,None,None,None,None,None,Hà Nội,Quận Hai Bà Trưng,Bán Căn hộ chung cư tại Phố Phố Vọng
+2503,715.0,44.5,None,2.0,None,None,None,None,1.0,Hà Nội,Quận Đống Đa,Bán Căn hộ chung cư tại Phường Phương Mai
+2508,"1,95",19,"4,7m",2.0,None,Sổ đỏ,None,3.0,1.0,Hà Nội,Quận Đống Đa,Bán Nhà riêng tại Phường Trung Phụng
+2509,2800.0,33,"3,3m",3.0,None,None,None,4.0,None,Hà Nội,Quận Đống Đa,Bán Nhà riêng tại Phố Khâm Thiên
+2516,850,52,None,2.0,None,Sổ hồng,None,6.0,1.0,Hà Nội,Quận Ba Đình,Bán Căn hộ chung cư tại Phố Kim Mã
+2518,2350.0,32,None,3.0,None,Sổ đỏ,Tây-Bắc,4.0,None,Hà Nội,Quận Hà Đông,Bán Nhà riêng tại Đường Ỷ La
+2519,2200.0,34,None,4.0,None,Sổ đỏ,Đông-Nam,4.0,None,Hà Nội,Quận Hà Đông,Bán Nhà riêng tại Đường Quang Lãm
+2520,1730.0,39,None,3.0,None,Sổ đỏ,Đông-Nam,None,None,Hà Nội,Quận Hà Đông,Bán Nhà riêng tại Đường Nghĩa Lộ
+2521,2370.0,50,None,3.0,None,None,None,None,None,Hà Nội,Quận Hà Đông,Bán Nhà riêng tại Phường Đồng Mai
+2522,2000.0,38,None,4.0,None,Sổ đỏ,None,None,None,Hà Nội,Quận Hà Đông,Bán Nhà riêng tại Phường Yên Nghĩa
+2528,Thỏa thuận,65,None,None,None,None,None,None,None,Hà Nội,Quận Tây Hồ,Bán Nhà mặt phố tại Đường Tứ Liên
+2529,4400.0,80,None,None,None,None,None,None,None,Hà Nội,Quận Thanh Xuân,Bán Căn hộ chung cư tại Đường Lê Trọng Tấn
+2531,3750.0,80,None,None,None,None,None,None,None,Hà Nội,Quận Thanh Xuân,Bán Căn hộ chung cư tại Đường Kim Giang
+2533,2800.0,70,None,None,None,None,None,None,None,Hà Nội,Quận Thanh Xuân,Bán Căn hộ chung cư tại Đường Nguyễn Huy Tưởng
+2535,2300.0,70,None,None,None,None,None,None,None,Hà Nội,Quận Hoàng Mai,Bán Căn hộ chung cư tại Đường Nguyễn Duy Trinh
+2539,2580.0,82,None,None,None,None,None,None,None,Hà Nội,Quận Hoàng Mai,Bán Căn hộ chung cư tại Đường Linh Đàm
+2540,2500.0,66,None,None,None,None,None,None,None,Hà Nội,Quận Hoàng Mai,Bán Căn hộ chung cư tại Đường Giải Phóng
+2543,3200.0,31,None,None,None,Sổ đỏ,None,None,None,Hà Nội,Quận Đống Đa,Bán Nhà riêng tại Đường Thổ Quan
+2544,999,50,None,2.0,Đông-Bắc,Sổ đỏ,Đông-Bắc,6.0,None,Hà Nội,Quận Hoàng Mai,Bán Căn hộ chung cư tại Đường Giải Phóng
+2546,3500.0,60,None,None,None,None,None,None,None,Hà Nội,Quận Hoàn Kiếm,Bán Căn hộ chung cư tại Phố Bà Triệu
+2547,890,50,None,2.0,Đông-Bắc,Sổ đỏ,Đông-Bắc,6.0,None,Hà Nội,Quận Hoàng Mai,Bán Căn hộ chung cư tại Đường Hoàng Mai
+2548,4350.0,35,None,None,None,None,None,None,None,Hà Nội,Quận Hai Bà Trưng,Bán Nhà riêng tại Đường Kim Ngưu
+2549,7200.0,52,4m,4.0,None,None,None,4.0,None,Hà Nội,Quận Đống Đa,Bán Nhà riêng tại Phố Thái Thịnh
+2550,6680.0,50,"3,8m",4.0,None,Sổ đỏ,None,4.0,1.0,Hà Nội,Quận Cầu Giấy,Bán Nhà riêng tại Phố Trung Kính
+2551,4900.0,58,None,None,None,Sổ đỏ,None,5.0,None,Hà Nội,Quận Thanh Xuân,Bán Nhà mặt phố tại Đường Nguyễn Trãi
+2552,3300.0,33,None,None,None,Sổ đỏ,None,4.0,None,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Kim Giang
+2553,5400.0,52,None,2.0,None,Sổ đỏ,None,2.0,None,Hà Nội,Quận Long Biên,Bán Nhà riêng tại Đường Ngọc Lâm
+2554,6100.0,46,None,None,None,Sổ đỏ,None,None,None,Hà Nội,Quận Long Biên,Bán Nhà riêng tại Phường Ngọc Thụy
+2555,1750.0,36,None,None,None,None,None,None,None,Hà Nội,Huyện Hoài Đức,Bán Đất tại Xã Đức Thượng
+2556,3950.0,50,None,None,None,None,None,None,None,Hà Nội,Huyện Hoài Đức,Bán Đất tại Xã Vân Canh
+2557,1740.0,40,None,None,None,None,None,None,None,Hà Nội,Huyện Hoài Đức,Bán Đất tại Xã Kim Chung
+2558,7920.0,120,None,None,None,None,None,None,None,Hà Nội,Huyện Hoài Đức,Bán Đất tại Xã Vân Canh
+2559,4580.0,61,None,None,None,None,None,None,None,Hà Nội,Huyện Hoài Đức,Bán Đất tại Xã Kim Chung
+2560,1170.0,90,None,None,None,None,None,None,None,Hà Nội,Quận Long Biên,Bán Đất tại Phường Giang Biên
+2561,12000.0,364,None,None,None,None,None,None,None,Hà Nội,Quận Long Biên,Bán Đất tại Phường Phúc Lợi
+2562,2290.0,79,None,None,None,None,None,None,None,Hà Nội,Quận Long Biên,Bán Đất tại Đường Độc Lập
+2563,5780.0,231,None,None,None,None,None,None,None,Hà Nội,Quận Long Biên,Bán Đất tại Phường Cự Khối
+2564,1250.0,34,None,None,None,None,None,None,None,Hà Nội,Quận Long Biên,Bán Đất tại Phường Cự Khối
+2565,1250.0,110,None,None,None,None,None,None,None,Hà Nội,Huyện Chương Mỹ,Bán Đất tại Xã Tốt Động
+2567,4360.0,485,None,None,None,None,None,None,None,Hà Nội,Huyện Chương Mỹ,Bán Đất tại Xã Hữu Văn
+2568,2200.0,133,None,None,None,None,None,None,None,Hà Nội,Huyện Chương Mỹ,Bán Đất tại Đường 6
+2569,900,105,None,None,None,None,None,None,None,Hà Nội,Huyện Chương Mỹ,Bán Đất tại Xã Tiên Phương
+2570,15200.0,95,None,None,None,None,None,None,None,Hà Nội,Quận Hà Đông,Bán Đất tại Đường Hà Trì
+2572,45000.0,200,8m,None,None,Sổ đỏ,None,None,None,Hà Nội,Quận Đống Đa,Bán Nhà mặt phố tại Đường Trường Chinh
+2573,Thỏa thuận,85,"4,5m",None,None,Sổ đỏ,None,None,None,Hà Nội,Quận Hoàng Mai,Bán Nhà mặt phố tại Đường Vĩnh Hưng
+2575,799,34,None,None,None,None,None,None,None,Hà Nội,Quận Hà Đông,Bán Đất tại Đường Quốc lộ 6
+2579,2450.0,64,None,None,None,None,None,None,None,Hà Nội,Quận Cầu Giấy,Bán Căn hộ chung cư tại Phố Trần Bình
+2581,5600.0,108,None,None,None,None,None,None,None,Hà Nội,Quận Cầu Giấy,Bán Căn hộ chung cư tại Đường Phạm Văn Đồng
+2585,10700.0,125,None,None,None,None,None,None,None,Hà Nội,Quận Ba Đình,Bán Căn hộ chung cư tại Phố Láng Hạ
+2587,11000.0,75,None,None,None,None,None,None,None,Hà Nội,Quận Hai Bà Trưng,Bán Nhà riêng tại Đường Kim Ngưu
+2588,4690.0,40,None,None,None,None,None,None,None,Hà Nội,Quận Hai Bà Trưng,Bán Nhà riêng tại Phố Hồng Mai
+2589,11500.0,72,None,None,None,None,None,None,None,Hà Nội,Quận Hai Bà Trưng,Bán Nhà riêng tại Đường Kim Ngưu
+2590,4200.0,42,None,None,None,None,None,None,None,Hà Nội,Quận Hai Bà Trưng,Bán Nhà riêng tại Phố Lạc Trung
+2591,16000.0,70,None,None,None,None,None,None,None,Hà Nội,Quận Hai Bà Trưng,Bán Nhà riêng tại Đường Đại Cồ Việt
+2592,12900.0,70,None,None,None,None,None,None,None,Hà Nội,Quận Long Biên,Bán Nhà riêng tại Đường Bồ Đề
+2593,3680.0,35,None,None,None,None,None,None,None,Hà Nội,Quận Long Biên,Bán Nhà riêng tại Phường Thượng Thanh
+2594,3800.0,32,None,None,None,None,None,None,None,Hà Nội,Quận Long Biên,Bán Nhà riêng tại Đường Phúc Lợi
+2595,3200.0,31,None,None,None,None,None,None,None,Hà Nội,Quận Long Biên,Bán Nhà riêng tại Đường Bồ Đề
+2596,6250.0,38,None,None,None,None,None,None,None,Hà Nội,Quận Long Biên,Bán Nhà riêng tại Đường Thạch Bàn
+2597,13800.0,65,None,None,None,None,None,None,None,Hà Nội,Quận Cầu Giấy,Bán Nhà riêng tại Đường Quan Hoa
+2598,4600.0,36,None,None,None,None,None,None,None,Hà Nội,Quận Cầu Giấy,Bán Nhà riêng tại Đường Cầu Giấy
+2599,8000.0,50,None,None,None,None,None,None,None,Hà Nội,Quận Cầu Giấy,Bán Nhà riêng tại Đường Yên Hòa
+2600,40000.0,130,None,None,None,None,None,None,None,Hà Nội,Quận Cầu Giấy,Bán Nhà riêng tại Phố Chùa Hà
+2601,4600.0,35,None,None,None,None,None,None,None,Hà Nội,Quận Cầu Giấy,Bán Nhà riêng tại Phố Mai Dịch
+2605,5500.0,147,None,None,None,None,None,None,None,Hà Nội,Quận Hà Đông,Bán Căn hộ chung cư tại Đường Nguyễn Văn Lộc
+2608,2290.0,60,None,None,None,None,None,None,None,Hà Nội,Quận Hoàng Mai,Bán Căn hộ chung cư tại Đường Định Công
+2610,3200.0,60,55m,3.0,None,Sổ đỏ,None,5.0,1.0,Hà Nội,Quận Long Biên,Bán Nhà riêng tại Phố Mai Phúc
+2611,19090.0,166,None,None,None,None,None,None,None,Hà Nội,Quận Nam Từ Liêm,Bán Đất tại Phường Phương Canh
+2612,2630.0,47,None,None,None,None,None,None,None,Hà Nội,Huyện Hoài Đức,Bán Đất tại Xã An Thượng
+2613,7300.0,11000,None,None,None,None,None,None,None,Hà Nội,Huyện Ba Vì,Bán Đất tại Xã Khánh Thượng
+2619,3300.0,73,None,None,None,None,None,None,None,Hà Nội,Quận Nam Từ Liêm,Bán Căn hộ chung cư tại Đường Lê Đức Thọ
+2630,3790.0,35,None,None,None,None,None,None,None,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Phường Khương Đình
+2631,2600.0,37,None,None,None,None,None,None,None,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Đường Kim Giang
+2632,7900.0,51,4m,4.0,None,None,Tây-Nam,5.0,1.0,Hà Nội,Quận Hà Đông,Bán Nhà mặt phố tại Phường Kiến Hưng
+2633,10900.0,42,None,None,None,None,None,None,None,Hà Nội,Quận Ba Đình,Bán Nhà riêng tại Phường Cống Vị
+2634,12800.0,43,None,None,None,None,None,None,None,Hà Nội,Quận Ba Đình,Bán Nhà riêng tại Đường Hoàng Hoa Thám
+2635,5700.0,40,None,None,None,None,None,None,None,Hà Nội,Quận Ba Đình,Bán Nhà riêng tại Đường Đội Cấn
+2636,2000.0,52,None,None,None,None,None,None,None,Hà Nội,Quận Hà Đông,Bán Nhà riêng tại Đường Yên Bình
+2637,1890.0,33,None,None,None,None,None,None,None,Hà Nội,Quận Hà Đông,Bán Nhà riêng tại Phường Yên Nghĩa
+2638,3750.0,35,None,None,None,None,None,None,None,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Định Công Thượng
+2639,2250.0,22,None,None,None,None,None,None,None,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Vĩnh Hưng
+2640,13500.0,75,None,None,None,None,None,None,None,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Đại Kim
+2641,10500.0,60,None,None,None,None,None,None,None,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Trương Định
+2642,5700.0,57,None,None,None,None,None,None,None,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Giải Phóng
+2644,32299.999999999996,125,None,None,None,None,None,None,None,Hà Nội,Quận Hoàn Kiếm,Bán Nhà riêng tại Đường Trần Hưng Đạo
+2645,175000.0,316,None,None,None,None,None,None,None,Hà Nội,Quận Hoàn Kiếm,Bán Nhà riêng tại Đường Phan Bội Châu
+2649,19000.0,53,None,None,None,Sổ hồng,Tây-Bắc,None,None,Hà Nội,Quận Bắc Từ Liêm,Bán Nhà riêng tại Phố Phạm Tuấn Tài
+2650,750,35,None,2.0,None,Sổ hồng,None,3.0,1.0,Hà Nội,Quận Hai Bà Trưng,Bán Căn hộ chung cư tại Đường Trần Khát Chân
+2651,2700.0,30,None,3.0,None,Sổ đỏ,Đông-Nam,None,None,Hà Nội,Quận Long Biên,Bán Nhà riêng tại Đường Bát Khối
+2653,Thỏa thuận,55,45m,3.0,None,Sổ đỏ,None,5.0,1.0,Hà Nội,Quận Tây Hồ,Bán Nhà riêng tại Đường Lạc Long Quân
+2654,Thỏa thuận,35,4m,4.0,None,Sổ đỏ,None,6.0,1.0,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Đường Vũ Trọng Phụng
+2656,8000.0,102,"7,64m",None,None,Sổ hồng,Bắc,None,None,Hà Nội,Huyện Hoài Đức,Bán Đất tại Đường Đại lộ Thăng Long
+2658,2950.0,26,"3,6m",3.0,None,Sổ đỏ,None,4.0,1.0,Hà Nội,Quận Đống Đa,Bán Nhà riêng tại Đường Trường Chinh
+2659,6300.0,52,None,3.0,None,Sổ đỏ,None,3.0,None,Hà Nội,Quận Long Biên,Bán Nhà riêng tại Đường Nguyễn Văn Cừ
+2660,4000.0,40,None,4.0,None,Sổ đỏ,None,4.0,None,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Giáp Nhị
+2661,1680.0,76,None,2.0,Đông,Sổ hồng,Đông,None,1.0,Hà Nội,Quận Long Biên,Bán Căn hộ chung cư tại Phố Việt Hưng
+2662,3300.0,33,None,None,None,Sổ đỏ,None,None,None,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Kim Giang
+2663,1600.0,52,None,1.0,None,Sổ đỏ,None,None,None,Hà Nội,Quận Đống Đa,Bán Căn hộ chung cư tại Ngõ Thịnh Hào 1
+2664,3300.0,36,None,3.0,None,Sổ đỏ,None,5.0,None,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Giáp Bát
+2665,"3,35",37,None,3.0,None,Sổ đỏ,None,5.0,None,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Thịnh Liệt
+2667,4550.0,40,None,6.0,None,Sổ đỏ,None,5.0,None,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Trương Định
+2670,600,46,None,2.0,Nam,Sổ hồng,Tây,7.0,1.0,Hà Nội,Quận Hoàng Mai,Bán Căn hộ chung cư tại Đường Giải Phóng
+2671,550,46,None,2.0,Nam,Sổ hồng,Đông,6.0,1.0,Hà Nội,Quận Bắc Từ Liêm,Bán Căn hộ chung cư tại Đường Xuân Đỉnh
+2672,600,46,None,2.0,Nam,Sổ hồng,Đông,6.0,1.0,Hà Nội,Quận Tây Hồ,Bán Căn hộ chung cư tại Đường Xuân La
+2676,800,35,None,2.0,None,Sổ hồng,Đông,6.0,1.0,Hà Nội,Quận Đống Đa,Bán Căn hộ chung cư tại Đường Đông Tác
+2677,13800.0,57,None,None,None,None,None,None,None,Hà Nội,Quận Đống Đa,Bán Nhà riêng tại Phố Thái Thịnh
+2678,750,40,None,2.0,None,Sổ hồng,None,5.0,1.0,Hà Nội,Quận Hai Bà Trưng,Bán Căn hộ chung cư tại Phố Bạch Mai
+2679,750,35,None,3.0,None,Sổ hồng,None,None,1.0,Hà Nội,Quận Hai Bà Trưng,Bán Căn hộ chung cư tại Đường Kim Ngưu
+2681,5500.0,35,6m,4.0,None,Sổ đỏ,Đông-Bắc,5.0,1.0,Hà Nội,Quận Long Biên,Bán Nhà riêng tại Đường Chu Huy Mân
+2686,600,46,None,2.0,Tây-Bắc,Sổ đỏ,Tây,7.0,1.0,Hà Nội,Quận Hoàng Mai,Bán Căn hộ chung cư tại Ngõ Gốc Đề
+2687,600,46,None,2.0,Đông-Bắc,Sổ hồng,Nam,5.0,1.0,Hà Nội,Quận Hai Bà Trưng,Bán Căn hộ chung cư tại Đường Kim Ngưu
+2692,4860.0,50,None,4.0,None,Sổ đỏ,None,None,None,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Kim Giang
+2697,Thỏa thuận,38,4m,3.0,None,None,None,4.0,1.0,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Đường Hoàng Ngân
+2700,16,40,None,None,None,None,None,None,None,Hà Nội,Huyện Thanh Trì,Bán Căn hộ chung cư tại Đường Quốc lộ 1A
+2701,2050.0,115,None,None,None,None,None,None,None,Hà Nội,Quận Hà Đông,Bán Căn hộ chung cư tại Đường Văn Khê
+2702,1960.0,73,None,None,None,None,None,None,None,Hà Nội,Quận Hà Đông,Bán Căn hộ chung cư tại Phường La Khê
+2707,3300.0,94,None,None,None,None,None,None,None,Hà Nội,Quận Thanh Xuân,Bán Căn hộ chung cư tại Đường Nguyễn Tuân
+2719,19000.0,60,None,1.0,None,Sổ đỏ,None,None,None,Hà Nội,Quận Cầu Giấy,Bán Nhà mặt phố tại Đường Xuân Thủy
+2720,1800.0,"240,4",22m,None,None,None,None,None,None,Hà Nội,Huyện Ứng Hòa,Bán Đất tại Đường DT 428
+2724,600,46,None,None,None,None,None,None,None,Hà Nội,Quận Hoàng Mai,Bán Căn hộ chung cư tại Đường Giải Phóng
+2726,1800.0,48,None,None,None,None,None,None,None,Hà Nội,Quận Hoàng Mai,Bán Căn hộ chung cư tại Đường Nghiêm Xuân Yêm
+2730,1290.0,123,None,None,None,None,None,None,None,Hà Nội,Huyện Quốc Oai,Bán Đất tại Đường 21A
+2731,1650.0,35,None,None,None,None,None,None,None,Hà Nội,Huyện Hoài Đức,Bán Đất tại Xã Kim Chung
+2732,1740.0,40,None,None,None,None,None,None,None,Hà Nội,Huyện Hoài Đức,Bán Đất tại Xã Kim Chung
+2733,11000.0,88,7m,5.0,None,Sổ đỏ,Tây-Nam,5.0,None,Hà Nội,Quận Long Biên,Bán Nhà mặt phố tại Đường Ngọc Thụy
+2734,600,60,None,None,None,None,None,None,None,Hà Nội,Huyện Thạch Thất,Bán Đất tại Đường Quốc lộ 21A
+2735,900,64,None,None,None,None,None,None,None,Hà Nội,Huyện Thạch Thất,Bán Đất tại Xã Tân Xã
+2736,950,70,None,None,None,None,None,None,None,Hà Nội,Huyện Thạch Thất,Bán Đất tại Xã Tân Xã
+2737,5280.0,240,None,None,None,None,None,None,None,Hà Nội,Huyện Thạch Thất,Bán Đất tại Xã Bình Yên
+2738,1220.0,81,None,None,None,None,None,None,None,Hà Nội,Huyện Thạch Thất,Bán Đất tại Xã Thạch Hòa
+2739,5500.0,86,4m,3.0,None,Sổ đỏ,None,4.0,None,Hà Nội,Huyện Gia Lâm,Bán Nhà riêng tại Đường Hà Huy Tập
+2740,11600.0,88,"5,3m",3.0,None,Sổ đỏ,None,3.0,None,Hà Nội,Quận Long Biên,Bán Nhà riêng tại Đường Ngọc Lâm
+2741,6600.0,54,None,4.0,None,Sổ đỏ,None,None,None,Hà Nội,Quận Long Biên,Bán Nhà riêng tại Đường Nguyễn Văn Cừ
+2742,5100.0,35,None,None,None,None,None,None,None,Hà Nội,Quận Đống Đa,Bán Nhà riêng tại Đường Nguyễn Lương Bằng
+2743,3300.0,18,None,None,None,None,None,None,None,Hà Nội,Quận Đống Đa,Bán Nhà riêng tại Đường Phạm Ngọc Thạch
+2744,6450.0,38,None,None,None,None,None,None,None,Hà Nội,Quận Đống Đa,Bán Nhà riêng tại Phố Thái Thịnh
+2745,16800.0,60,None,None,None,None,None,None,None,Hà Nội,Quận Đống Đa,Bán Nhà riêng tại Đường Võ Văn Dũng
+2746,5600.0,50,None,None,None,None,None,None,None,Hà Nội,Quận Cầu Giấy,Bán Nhà riêng tại Phố Trung Kính
+2747,9200.0,45,None,None,None,None,None,None,None,Hà Nội,Quận Cầu Giấy,Bán Nhà riêng tại Phố Trung Kính
+2748,14600.0,48,None,None,None,None,None,None,None,Hà Nội,Quận Cầu Giấy,Bán Nhà riêng tại Phố Trung Kính
+2749,7050.0,45,None,None,None,None,None,None,None,Hà Nội,Quận Cầu Giấy,Bán Nhà riêng tại Phố Trung Kính
+2750,30000.0,100,None,None,None,None,None,None,None,Hà Nội,Quận Cầu Giấy,Bán Nhà riêng tại Phố Trung Kính
+2751,16800.0,70,None,None,None,None,None,None,None,Hà Nội,Quận Tây Hồ,Bán Nhà riêng tại Đường Lạc Long Quân
+2752,5600.0,45,None,None,None,None,None,None,None,Hà Nội,Quận Tây Hồ,Bán Nhà riêng tại Phường Nhật Tân
+2753,13600.0,52,None,None,None,None,None,None,None,Hà Nội,Quận Tây Hồ,Bán Nhà riêng tại Đường Võng Thị
+2754,8980.0,61,None,None,None,None,None,None,None,Hà Nội,Quận Tây Hồ,Bán Nhà riêng tại Đường Võ Chí Công
+2755,8980.0,61,None,None,None,None,None,None,None,Hà Nội,Quận Tây Hồ,Bán Nhà riêng tại Đường Xuân La
+2756,2480.0,40,None,None,None,None,None,None,None,Hà Nội,Quận Hà Đông,Bán Nhà riêng tại Phố Phú Lương
+2757,2630.0,35,None,None,None,None,None,None,None,Hà Nội,Quận Hà Đông,Bán Nhà riêng tại Đường Lê Trọng Tấn
+2758,17000.0,100,None,None,None,None,None,None,None,Hà Nội,Quận Hà Đông,Bán Nhà riêng tại Đường Lê Trọng Tấn
+2759,4000.0,35,None,None,None,None,None,None,None,Hà Nội,Quận Hà Đông,Bán Nhà riêng tại Đường Tố Hữu
+2760,4200.0,35,None,None,None,None,None,None,None,Hà Nội,Quận Hà Đông,Bán Nhà riêng tại Đường Vạn Phúc
+2761,10500.0,75,"4,5m",4.0,None,Sổ đỏ,None,8.0,1.0,Hà Nội,Quận Đống Đa,Bán Nhà riêng tại Phường Láng Thượng
+2763,6800.0,40,None,None,None,None,None,None,None,Hà Nội,Quận Nam Từ Liêm,Bán Nhà riêng tại đường Trung Văn
+2764,3200.0,25,None,3.0,None,Sổ đỏ,None,None,None,Hà Nội,Quận Cầu Giấy,Bán Nhà riêng tại Đường Hoàng Quốc Việt
+2765,6480.0,48,None,None,None,None,None,None,None,Hà Nội,Quận Nam Từ Liêm,Bán Nhà riêng tại Đường Lương Thế Vinh
+2766,5400.0,54,None,None,None,None,None,None,None,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Đường Khương Đình
+2767,10600.0,55,None,None,None,None,None,None,None,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Đường Bùi Xương Trạch
+2768,3900.0,30,None,None,None,None,None,None,None,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Phố Khương Hạ
+2769,5700.0,32,None,None,None,None,None,None,None,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Đường Khương Trung
+2770,9300.0,50,None,None,None,None,None,None,None,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Phường Khương Đình
+2771,4850.0,49,None,None,None,None,None,None,None,Hà Nội,Quận Ba Đình,Bán Nhà riêng tại Đường Đào Tấn
+2772,5750.0,45,None,None,None,None,None,None,None,Hà Nội,Quận Ba Đình,Bán Nhà riêng tại Đường Đào Tấn
+2773,3800.0,34,None,None,None,None,None,None,None,Hà Nội,Quận Ba Đình,Bán Nhà riêng tại Đường Đào Tấn
+2774,5750.0,43,None,None,None,None,None,None,None,Hà Nội,Quận Ba Đình,Bán Nhà riêng tại Đường Đào Tấn
+2775,4000.0,40,None,None,None,None,None,None,None,Hà Nội,Quận Ba Đình,Bán Nhà riêng tại Đường Đào Tấn
+2776,2350.0,38,None,None,None,None,None,None,None,Hà Nội,Quận Hà Đông,Bán Nhà riêng tại Đường Yên Bình
+2777,2600.0,32,None,None,None,None,None,None,None,Hà Nội,Quận Hà Đông,Bán Nhà riêng tại Đường Nghĩa Lộ
+2778,"2,4",36,None,None,None,None,None,None,None,Hà Nội,Quận Hà Đông,Bán Nhà riêng tại Đường Yên Bình
+2779,2370.0,53,None,None,None,None,None,None,None,Hà Nội,Quận Hà Đông,Bán Nhà riêng tại Đường Yên Lộ
+2780,2380.0,50,None,None,None,None,None,None,None,Hà Nội,Quận Hà Đông,Bán Nhà riêng tại Đường Quốc lộ 6
+2781,4050.0,32,"3,52m",3.0,None,None,None,5.0,None,Hà Nội,Quận Đống Đa,Bán Nhà riêng tại Đường Ngõ Cẩm Văn
+2782,4300.0,35,4m,3.0,None,Sổ đỏ,None,5.0,1.0,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Phố Quan Nhân
+2783,1900.0,75,None,None,None,None,None,None,None,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Phường Vĩnh Hưng
+2784,3100.0,31,None,None,None,None,None,None,None,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Định Công Thượng
+2785,4700.0,47,None,None,None,None,None,None,None,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Phường Mai Động
+2786,11800.0,60,None,None,None,None,None,None,None,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Nguyễn Đức Cảnh
+2787,3650.0,30,None,None,None,None,None,None,None,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Vĩnh Hưng
+2788,5600.0,110,None,None,None,None,None,None,None,Hà Nội,Quận Hoàn Kiếm,Bán Nhà riêng tại Đường Hồng Hà
+2789,13900.0,96,None,None,None,None,None,None,None,Hà Nội,Quận Hoàn Kiếm,Bán Nhà riêng tại Phường Phúc Tân
+2791,20000.0,96,None,None,None,None,None,None,None,Hà Nội,liền kề tại Quận Long Biên,Bán Nhà biệt thự
+2795,14000.0,75,"5,3m",4.0,None,Sổ đỏ,Đông,5.0,1.0,Hà Nội,Quận Hai Bà Trưng,Bán Nhà riêng tại Phố Yên Lạc
+2796,9200.0,71,"4,5m",4.0,None,Sổ đỏ,Đông-Nam,6.0,1.0,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Lĩnh Nam
+2797,4000.0,52,4m,4.0,None,None,None,5.0,1.0,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Minh Khai
+2798,5000.0,50,"4,5m",4.0,None,Sổ đỏ,Đông-Nam,5.0,1.0,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Tân Mai
+2799,3750.0,45,None,None,None,None,None,None,None,Hà Nội,Huyện Hoài Đức,Bán Đất tại Đường An Trai
+2800,1740.0,40,None,None,None,None,None,None,None,Hà Nội,Huyện Hoài Đức,Bán Đất tại Xã Kim Chung
+2801,1350.0,33,None,None,None,None,None,None,None,Hà Nội,Huyện Hoài Đức,Bán Đất tại Xã An Khánh
+2802,1300.0,40,None,None,None,None,None,None,None,Hà Nội,Huyện Hoài Đức,Bán Đất tại Xã Đức Giang
+2803,3450.0,38,None,3.0,None,Sổ đỏ,None,5.0,None,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Trương Định
+2804,3300.0,36,None,4.0,None,Sổ đỏ,None,4.0,None,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Trương Định
+2805,3880.0,51,None,None,None,None,None,None,None,Hà Nội,Huyện Hoài Đức,Bán Đất tại Xã Vân Canh
+2807,1000.0,41,None,None,None,None,None,None,None,Hà Nội,Huyện Chương Mỹ,Bán Đất tại Đường 6
+2808,1200.0,47,None,None,None,None,None,None,None,Hà Nội,Huyện Chương Mỹ,Bán Đất tại Xã Phụng Châu
+2810,1050.0,60,None,None,None,None,None,None,None,Hà Nội,Huyện Chương Mỹ,Bán Đất tại Xã Thuỷ Xuân Tiên
+2811,7000.0,70,None,None,None,None,None,None,None,Hà Nội,Quận Long Biên,Bán Đất tại Phường Thạch Bàn
+2812,11500.0,79,None,None,None,None,None,None,None,Hà Nội,Quận Long Biên,Bán Đất tại Đường Chu Huy Mân
+2813,3500.0,129,None,None,None,None,None,None,None,Hà Nội,Quận Long Biên,Bán Đất tại Phường Cự Khối
+2814,3500.0,56,None,None,None,None,None,None,None,Hà Nội,Quận Long Biên,Bán Đất tại Đường Thạch Bàn
+2815,22380.0,746,None,None,None,None,None,None,None,Hà Nội,Quận Long Biên,Bán Đất tại Đường Độc Lập
+2816,5290.0,44,None,None,None,None,None,None,None,Hà Nội,Quận Ba Đình,Bán Nhà riêng tại Đường Đội Cấn
+2817,7200.0,50,None,None,None,None,None,None,None,Hà Nội,Quận Ba Đình,Bán Nhà riêng tại Đường Đội Cấn
+2818,7030.0,37,None,None,None,None,None,None,None,Hà Nội,Quận Ba Đình,Bán Nhà riêng tại Đường Đội Nhân
+2819,11500.0,50,None,None,None,None,None,None,None,Hà Nội,Quận Ba Đình,Bán Nhà riêng tại Đường Văn Cao
+2820,12800.0,45,None,None,None,None,None,None,None,Hà Nội,Quận Ba Đình,Bán Nhà riêng tại Phố Vạn Phúc
+2821,4500.0,50,None,None,None,None,None,None,None,Hà Nội,Quận Hà Đông,Bán Đất tại Phường Yên Nghĩa
+2822,4650.0,50,None,None,None,None,None,None,None,Hà Nội,Quận Hà Đông,Bán Đất tại Phường Yên Nghĩa
+2823,4800.0,80,None,None,None,None,None,None,None,Hà Nội,Quận Hà Đông,Bán Đất tại Phường Dương Nội
+2825,1400.0,33,None,None,None,None,None,None,None,Hà Nội,Quận Hà Đông,Bán Đất tại Phường Biên Giang
+2830,4000.0,116,None,None,None,None,None,None,None,Hà Nội,Quận Cầu Giấy,Bán Căn hộ chung cư tại Phố Hoàng Đạo Thúy
+2831,3100.0,38,None,None,None,None,None,None,None,Hà Nội,Quận Hà Đông,Bán Đất tại Đường Trần Phú
+2832,4225.0,37,6m,3.0,None,Sổ đỏ,None,4.0,None,Hà Nội,Quận Cầu Giấy,Bán Nhà riêng tại Đường Xuân Thủy
+2835,3650.0,30,None,None,None,None,None,None,None,Hà Nội,Quận Long Biên,Bán Nhà riêng tại Đường Tư Đình
+2836,45,255,None,None,None,Sổ đỏ,None,None,None,Hà Nội,Quận Long Biên,Bán Nhà riêng tại Phường Phúc Lợi
+2837,4250.0,40,None,5.0,None,Sổ đỏ,None,None,None,Hà Nội,Quận Nam Từ Liêm,Bán Nhà riêng tại Đường Phú Đô
+2838,3300.0,120,None,None,None,Sổ đỏ,None,None,None,Hà Nội,Quận Long Biên,Bán Nhà riêng tại Đường Tư Đình
+2839,2150.0,28,None,None,None,None,None,None,None,Hà Nội,Quận Hai Bà Trưng,Bán Nhà riêng tại Phường Minh Khai
+2840,5450.0,27,None,None,None,None,None,None,None,Hà Nội,Quận Hai Bà Trưng,Bán Nhà riêng tại Phố Hoa Lư
+2841,3640.0,36,None,None,None,None,None,None,None,Hà Nội,Quận Hai Bà Trưng,Bán Nhà riêng tại Đường Tam Trinh
+2842,3750.0,40,None,None,None,None,None,None,None,Hà Nội,Quận Hai Bà Trưng,Bán Nhà riêng tại Phường Bạch Mai
+2843,6000.0,62,None,None,None,None,None,None,None,Hà Nội,Quận Hai Bà Trưng,Bán Nhà riêng tại Đường Trần Khát Chân
+2844,16500.0,66,None,None,None,None,None,None,None,Hà Nội,Quận Cầu Giấy,Bán Nhà riêng tại Đường Nguyễn Thị Định
+2845,8600.0,40,None,None,None,None,None,None,None,Hà Nội,Quận Cầu Giấy,Bán Nhà riêng tại Đường Nguyễn Khang
+2846,11800.0,60,None,None,None,None,None,None,None,Hà Nội,Quận Cầu Giấy,Bán Nhà riêng tại Đường Trần Duy Hưng
+2847,12800.0,63,None,None,None,None,None,None,None,Hà Nội,Quận Cầu Giấy,Bán Nhà riêng tại Đường Lạc Long Quân
+2848,7100.0,40,None,None,None,None,None,None,None,Hà Nội,Quận Cầu Giấy,Bán Nhà riêng tại Đường Hoàng Quốc Việt
+2849,5300.0,45,None,None,None,None,None,None,None,Hà Nội,Quận Long Biên,Bán Nhà riêng tại Đường Nguyễn Văn Cừ
+2850,4500.0,48,None,None,None,None,None,None,None,Hà Nội,Quận Long Biên,Bán Nhà riêng tại Đường Ngọc Thụy
+2851,3200.0,46,None,None,None,None,None,None,None,Hà Nội,Quận Long Biên,Bán Nhà riêng tại Đường Phúc Lợi
+2852,3700.0,45,None,None,None,None,None,None,None,Hà Nội,Quận Long Biên,Bán Nhà riêng tại Phường Ngọc Thụy
+2860,775.0,41.0,None,None,None,None,None,None,1.0,Hà Nội,Quận Ba Đình,Bán Căn hộ chung cư tại Phường Đội Cấn
+2862,880.0,42.5,None,None,None,None,None,None,None,Hà Nội,Quận Cầu Giấy,Bán Căn hộ chung cư tại Phường Dịch Vọng Hậu
+2863,745.0,51.5,None,None,None,None,None,None,1.0,Hà Nội,Quận Hai Bà Trưng,Bán Căn hộ chung cư tại Đường Giải Phóng
+2864,815.0,45.5,None,2.0,None,None,None,6.0,1.0,Hà Nội,Quận Ba Đình,Bán Căn hộ chung cư tại Đường Hoàng Hoa Thám
+2865,890,45.0,None,2.0,None,None,None,None,1.0,Hà Nội,Quận Ba Đình,Bán Căn hộ chung cư tại Đường Hoàng Hoa Thám
+2866,2950.0,26,"3,6m",3.0,None,Sổ đỏ,None,5.0,1.0,Hà Nội,Quận Đống Đa,Bán Nhà riêng tại Đường Trường Chinh
+2868,550,36,None,2.0,Nam,Sổ hồng,Nam,6.0,1.0,Hà Nội,Quận Đống Đa,Bán Căn hộ chung cư tại Đường Đông Tác
+2869,600,46,None,2.0,Bắc,Sổ hồng,Tây,7.0,1.0,Hà Nội,Quận Đống Đa,Bán Căn hộ chung cư tại Phố Chùa Láng
+2870,600,48,None,2.0,Đông-Bắc,Sổ hồng,Đông,7.0,1.0,Hà Nội,Quận Thanh Xuân,Bán Căn hộ chung cư tại Phố Cự Lộc
+2871,500,48,None,2.0,Nam,Sổ hồng,Đông-Bắc,7.0,1.0,Hà Nội,Quận Nam Từ Liêm,Bán Căn hộ chung cư tại đường Mỹ Đình
+2872,600,46,None,2.0,Đông-Bắc,Sổ hồng,Đông,7.0,1.0,Hà Nội,Quận Cầu Giấy,Bán Căn hộ chung cư tại Đường Nguyễn Khang
+2873,600,46,None,2.0,Tây,Sổ hồng,Tây,6.0,1.0,Hà Nội,Quận Ba Đình,Bán Căn hộ chung cư tại Đường Hoàng Hoa Thám
+2874,600,46,None,2.0,Tây-Bắc,Sổ hồng,Tây,7.0,1.0,Hà Nội,Quận Tây Hồ,Bán Căn hộ chung cư tại Đường Trích Sài
+2876,Thỏa thuận,38,None,3.0,None,Sổ đỏ,None,5.0,1.0,Hà Nội,Quận Hà Đông,Bán Nhà riêng tại Đường 19/5
+2877,Thỏa thuận,60,None,None,None,Sổ đỏ,None,7.0,1.0,Hà Nội,Quận Hà Đông,Bán Nhà mặt phố tại Đường Nguyễn Văn Trỗi
+2878,4100.0,104,None,None,None,None,None,None,None,Hà Nội,Quận Bắc Từ Liêm,Bán Căn hộ chung cư tại Đường Phạm Văn Đồng
+2881,395,40,None,None,None,None,None,None,None,Hà Nội,Huyện Thanh Trì,Bán Căn hộ chung cư tại Xã Ngọc Hồi
+2887,Thỏa thuận,45,4m,3.0,None,Sổ hồng,Đông-Nam,3.0,1.0,Hà Nội,Quận Long Biên,Bán Nhà riêng tại Đường Gia Thượng
+2888,52000.0,119,None,None,None,Sổ đỏ,None,None,None,Hà Nội,Quận Ba Đình,Bán Nhà mặt phố tại Đường Văn Cao
+2889,45600.0,193,None,None,None,Sổ đỏ,None,None,None,Hà Nội,Quận Hai Bà Trưng,Bán Nhà mặt phố tại Đường Minh Khai
+2890,10500.0,50,None,5.0,None,Sổ đỏ,None,5.0,None,Hà Nội,Quận Cầu Giấy,Bán Nhà riêng tại Phố Phạm Tuấn Tài
+2891,12200.0,85,"4,4m",5.0,None,Sổ đỏ,None,5.0,None,Hà Nội,Quận Long Biên,Bán Nhà riêng tại Đường Nguyễn Văn Cừ
+2893,1140.0,45,None,2.0,None,Giấy tờ hợp lệ,None,6.0,1.0,Hà Nội,Quận Hai Bà Trưng,Bán Căn hộ chung cư tại Đường Trần Khát Chân
+2894,18300.0,71,"9,5m",6.0,None,Sổ đỏ,None,5.0,None,Hà Nội,Quận Long Biên,Bán Nhà mặt phố tại Đường Hoàng Như Tiếp
+2895,695.0,418.0,None,1.0,None,None,None,None,1.0,Hà Nội,Quận Ba Đình,Bán Căn hộ chung cư tại Phường Đội Cấn
+2896,Thỏa thuận,45.0,None,2.0,None,None,None,None,1.0,Hà Nội,Quận Đống Đa,Bán Căn hộ chung cư tại Đường Trần Quý Cáp
+2897,Thỏa thuận,50.5,None,1.0,None,None,None,None,1.0,Hà Nội,Quận Thanh Xuân,Bán Căn hộ chung cư tại Phường Khương Trung
+2898,645.0,44.5,None,2.0,None,None,None,None,1.0,Hà Nội,Quận Đống Đa,Bán Căn hộ chung cư tại Phố Chùa Bộc
+2899,Thỏa thuận,47.5,None,1.0,None,None,None,None,1.0,Hà Nội,Quận Ba Đình,Bán Căn hộ chung cư tại Đường Hoàng Hoa Thám
+2900,585.0,42.5,None,None,None,None,None,None,None,Hà Nội,Quận Hoàng Mai,Bán Căn hộ chung cư tại Đường Trương Định
+2901,795.0,50.0,None,None,None,None,None,None,1.0,Hà Nội,Quận Ba Đình,Bán Căn hộ chung cư tại Phố Kim Mã
+2902,600.0,50.0,None,None,None,None,None,None,None,Hà Nội,Quận Ba Đình,Bán Căn hộ chung cư tại Phố Kim Mã
+2903,Thỏa thuận,48,None,4.0,None,Sổ đỏ,None,5.0,1.0,Hà Nội,Quận Hai Bà Trưng,Bán Nhà riêng tại Phường Thanh Nhàn
+2904,15800.0,78,"4,2m",2.0,None,Sổ đỏ,None,1.0,None,Hà Nội,Quận Long Biên,Bán Nhà riêng tại Đường Nguyễn Văn Cừ
+2905,4100.0,35,None,4.0,None,Sổ đỏ,None,5.0,None,Hà Nội,Quận Cầu Giấy,Bán Nhà riêng tại Đường Lê Đức Thọ
+2906,10000.0,77,8m,4.0,None,Sổ đỏ,None,3.0,None,Hà Nội,Quận Long Biên,Bán Nhà riêng tại Đường Bồ Đề
+2907,15000.0,170,"8,1m",1.0,None,Sổ đỏ,None,1.0,None,Hà Nội,Quận Long Biên,Bán Nhà mặt phố tại Đường Phú Viên
+2908,12000.0,96,6m,3.0,None,Sổ đỏ,None,3.0,None,Hà Nội,Quận Long Biên,Bán Nhà mặt phố tại Đường Ngọc Thụy
+2910,10500.0,55,None,5.0,None,Sổ đỏ,None,5.0,None,Hà Nội,Quận Cầu Giấy,Bán Nhà riêng tại Đường Hoàng Quốc Việt
+2911,3400.0,36,None,4.0,None,Sổ đỏ,None,None,None,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Kim Đồng
+2913,Thỏa thuận,36,None,None,None,Sổ đỏ,None,None,None,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Đường Kim Giang
+2915,2100.0,30,None,None,None,None,None,None,None,Hà Nội,Quận Long Biên,Bán Đất tại Phố Việt Hưng
+2919,14600.0,96,None,4.0,None,None,None,4.0,None,Hà Nội,Quận Hoàng Mai,Bán Nhà riêng tại Đường Tân Mai
+2921,Thỏa thuận,52,"5,4m",None,None,Sổ đỏ,None,4.0,1.0,Hà Nội,Quận Ba Đình,Bán Nhà riêng tại Đường Đào Tấn
+2922,6600.0,55,None,None,None,None,None,None,None,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Phố Chính Kinh
+2926,7280.0,56,"4,1m",4.0,None,Sổ đỏ,None,4.0,1.0,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Đường Tô Vĩnh Diện
+2927,Thỏa thuận,42,5m,None,None,Sổ đỏ,None,5.0,1.0,Hà Nội,Quận Ba Đình,Bán Nhà riêng tại Đường Ngọc Hà
+2928,Thỏa thuận,51,"6,7m",None,None,Sổ đỏ,None,4.0,1.0,Hà Nội,Quận Ba Đình,Bán Nhà riêng tại Phố Kim Mã
+2929,Thỏa thuận,38,"3,7m",None,None,Sổ đỏ,None,5.0,1.0,Hà Nội,Quận Ba Đình,Bán Nhà riêng tại Đường Hoàng Hoa Thám
+2935,Thỏa thuận,38,"5,3m",None,None,Sổ đỏ,None,5.0,1.0,Hà Nội,Quận Ba Đình,Bán Nhà riêng tại Đường Hoàng Hoa Thám
+2937,27500.0,144,6m,4.0,None,Sổ hồng,None,5.0,None,Hà Nội,Quận Long Biên,Bán Nhà phố thương mại Shophouse tại Đường Thạch Bàn
+2939,88000.0,260,16m,None,None,Sổ hồng,None,None,None,Hà Nội,Quận Ba Đình,Bán Đất tại Đường Giang Văn Minh
+2941,1950.0,31,6m,2.0,None,None,None,3.0,1.0,Hà Nội,Quận Hà Đông,Bán Nhà riêng tại Đường 21B
+2942,4500.0,43,5m,3.0,None,Sổ đỏ,None,4.0,1.0,Hà Nội,Quận Ba Đình,Bán Nhà riêng tại Đường Đội Cấn
+2943,4500.0,38,None,None,None,Sổ đỏ,None,None,None,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Phố Vũ Tông Phan
+2944,5000.0,62,None,4.0,None,Sổ đỏ,None,None,None,Hà Nội,Quận Long Biên,Bán Nhà riêng tại Đường Ngọc Lâm
+2946,5600.0,60,54m,None,None,Sổ đỏ,None,4.0,None,Hà Nội,Quận Long Biên,Bán Nhà riêng tại Đường Vũ Xuân Thiều
+2947,195000.0,219,None,None,None,Sổ đỏ,None,7.0,None,Hà Nội,Quận Tây Hồ,Bán Bất động sản khác tại Đường Trích Sài
+2948,25500.0,129,"5,27m",4.0,None,None,None,None,None,Hà Nội,Quận Tây Hồ,Bán Nhà riêng tại Đường Âu Cơ
+2949,5100.0,44,32m,None,None,Sổ đỏ,None,4.0,1.0,Hà Nội,Quận Long Biên,Bán Nhà riêng tại Đường Vũ Xuân Thiều
+2951,3750.0,30,None,None,None,Sổ đỏ,Đông-Nam,5.0,None,Hà Nội,Quận Long Biên,Bán Căn hộ chung cư tại Đường Phúc Lợi
+2952,2900.0,40,None,None,None,Sổ đỏ,None,4.0,None,Hà Nội,Quận Long Biên,Bán Căn hộ chung cư tại Đường Phúc Lợi
+2953,32500.0,95.0,5m,4.0,None,Sổ đỏ,None,6.0,1.0,Hà Nội,Quận Long Biên,Bán Nhà mặt phố tại Đường Nguyễn Văn Cừ
+2954,3750.0,40,None,None,None,None,None,None,None,Hà Nội,Quận Long Biên,Bán Nhà riêng tại Đường Phúc Lợi
+2965,3500.0,35,4m,3.0,None,Sổ đỏ,None,5.0,1.0,Hà Nội,Quận Long Biên,Bán Nhà riêng tại Đường Ngọc Thụy
+2967,3250.0,28,3m,3.0,None,Sổ đỏ,None,4.0,1.0,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Đường Khương Trung
+2968,2500.0,100,None,None,None,None,None,None,None,Hà Nội,Huyện Quốc Oai,Bán Đất tại Xã Phú Cát
+2969,13150.0,4384,None,None,None,None,None,None,None,Hà Nội,Huyện Quốc Oai,Bán Đất tại Xã Đông Xuân
+2971,5540.0,63,None,None,None,None,None,None,None,Hà Nội,Huyện Hoài Đức,Bán Đất tại Xã An Khánh
+2972,4500.0,50,None,None,None,None,None,None,None,Hà Nội,Huyện Hoài Đức,Bán Đất tại Xã Vân Canh
+2973,48,45,None,None,None,None,None,None,None,Hà Nội,Huyện Hoài Đức,Bán Đất tại Xã An Khánh
+2974,2950.0,67,None,None,None,None,None,None,None,Hà Nội,Huyện Thạch Thất,Bán Đất tại Xã Thạch Hòa
+2975,900,70,None,None,None,None,None,None,None,Hà Nội,Huyện Thạch Thất,Bán Đất tại Xã Tân Xã
+2976,900,60,None,None,None,None,None,None,None,Hà Nội,Huyện Thạch Thất,Bán Đất tại Đường Quốc lộ 21A
+2977,830,62,None,None,None,None,None,None,None,Hà Nội,Huyện Thạch Thất,Bán Đất tại Xã Bình Yên
+2978,2870.0,273,None,None,None,None,None,None,None,Hà Nội,Huyện Thạch Thất,Bán Đất tại Đường Đại lộ Thăng Long
+2981,27500.0,130,None,None,None,None,None,None,None,Hà Nội,Quận Nam Từ Liêm,Bán Đất tại đường Trung Văn
+2982,5000.0,50,None,None,None,None,None,None,None,Hà Nội,Huyện Hoài Đức,Bán Đất tại Xã An Khánh
+2983,4280.0,55,None,None,None,None,None,None,None,Hà Nội,Huyện Hoài Đức,Bán Đất tại Xã Kim Chung
+2984,4960.0,2212,None,None,None,None,None,None,None,Hà Nội,Huyện Ba Vì,Bán Đất tại Xã Ba Trại
+2998,11800.0,77,"5,2m",3.0,None,Sổ đỏ,None,3.0,None,Hà Nội,Quận Long Biên,Bán Nhà riêng tại Đường Hoa Lâm
+2999,18200.0,75,"9,3m",4.0,None,Sổ đỏ,None,5.0,None,Hà Nội,Quận Long Biên,Bán Nhà mặt phố tại Đường Hoàng Như Tiếp
+3004,5050.0,42,4m,4.0,None,Sổ đỏ,None,4.0,1.0,Hà Nội,Quận Cầu Giấy,Bán Nhà riêng tại Phố Nguyễn Ngọc Vũ
+3008,875.0,42.5,None,1.0,None,Giấy chứng nhận quyền sở hữu,None,None,1.0,Hà Nội,Quận Hai Bà Trưng,Bán Căn hộ chung cư tại Đường Kim Ngưu
+3010,1300.0,46,None,1.0,None,Sổ đỏ,None,None,1.0,Hà Nội,Quận Hai Bà Trưng,Bán Căn hộ chung cư tại Đường Kim Ngưu
+3011,4600.0,49,None,3.0,None,Sổ đỏ,None,None,None,Hà Nội,Quận Long Biên,Bán Nhà riêng tại Đường Ngọc Thụy
+3012,10800.0,48,None,None,None,None,None,None,None,Hà Nội,Quận Đống Đa,Bán Nhà riêng tại Phường Ô Chợ Dừa
+3013,4900.0,40,None,None,None,None,None,None,None,Hà Nội,Quận Đống Đa,Bán Nhà riêng tại Đường Láng
+3014,3450.0,30,None,None,None,None,None,None,None,Hà Nội,Quận Đống Đa,Bán Nhà riêng tại Phố Khâm Thiên
+3015,5150.0,35,None,None,None,None,None,None,None,Hà Nội,Quận Đống Đa,Bán Nhà riêng tại Đường Nguyễn Lương Bằng
+3016,38000.0,103,None,None,None,None,None,None,None,Hà Nội,Quận Đống Đa,Bán Nhà riêng tại Phố Hoàng Cầu
+3017,6800.0,50,None,None,None,None,None,None,None,Hà Nội,Quận Cầu Giấy,Bán Nhà riêng tại Phố Trung Kính
+3018,14800.0,56,None,None,None,None,None,None,None,Hà Nội,Quận Cầu Giấy,Bán Nhà riêng tại Phố Trung Kính
+3019,4980.0,47,None,None,None,None,None,None,None,Hà Nội,Quận Cầu Giấy,Bán Nhà riêng tại Phố Trung Kính
+3020,16800.0,86,None,None,None,None,None,None,None,Hà Nội,Quận Cầu Giấy,Bán Nhà riêng tại Phố Trung Kính
+3022,14800.0,52,None,None,None,None,None,None,None,Hà Nội,Quận Cầu Giấy,Bán Nhà riêng tại Phố Trung Kính
+3030,3300.0,28,None,None,None,None,None,None,None,Hà Nội,Quận Tây Hồ,Bán Nhà riêng tại đường Thụy Khuê
+3031,5200.0,40,None,None,None,None,None,None,None,Hà Nội,Quận Tây Hồ,Bán Nhà riêng tại đường Thụy Khuê
+3032,3700.0,33,None,None,None,None,None,None,None,Hà Nội,Quận Tây Hồ,Bán Nhà riêng tại Đường An Dương Vương
+3033,17800.0,65,None,None,None,None,None,None,None,Hà Nội,Quận Tây Hồ,Bán Nhà riêng tại đường Thụy Khuê
+3034,5850.0,40,None,None,None,None,None,None,None,Hà Nội,Quận Tây Hồ,Bán Nhà riêng tại Đường Võng Thị
+3037,2100.0,34,None,None,None,None,None,None,None,Hà Nội,Quận Hà Đông,Bán Nhà riêng tại Đường 21B
+3038,2150.0,35,None,None,None,None,None,None,None,Hà Nội,Quận Hà Đông,Bán Nhà riêng tại Phố Xốm
+3039,4950.0,40,None,None,None,None,None,None,None,Hà Nội,Quận Hà Đông,Bán Nhà riêng tại Đường Trần Phú
+3040,1900.0,50,None,None,None,None,None,None,None,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Phường Khương Đình
+3041,2650.0,31,None,None,None,None,None,None,None,Hà Nội,Quận Hà Đông,Bán Nhà riêng tại Đường Quốc lộ 6
+3042,1870.0,18,None,None,None,None,None,None,None,Hà Nội,Quận Hà Đông,Bán Nhà riêng tại Đường Chiến Thắng
+3043,4300.0,42,None,None,None,None,None,None,None,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Đường Khương Đình
+3044,9400.0,52,None,None,None,None,None,None,None,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Đường Khương Đình
+3045,9300.0,50,None,None,None,None,None,None,None,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Đường Khương Đình
+3046,9500.0,50,None,None,None,None,None,None,None,Hà Nội,Quận Thanh Xuân,Bán Nhà riêng tại Đường Bùi Xương Trạch
+3047,717.5,48.5,None,2.0,None,Giấy tờ hợp lệ,None,6.0,1.0,Hà Nội,Quận Hai Bà Trưng,Bán Căn hộ chung cư tại Đường Kim Ngưu
+3048,18800.0,70,"3,8m",4.0,None,None,None,None,None,Hà Nội,Quận Hoàng Mai,Bán Nhà mặt phố tại Đường Đại Từ
+3051,15000.0,60,4m,3.0,None,None,None,4.0,None,Hà Nội,Quận Hoàng Mai,Bán Nhà mặt phố tại Đường Đại Từ
+3052,5750.0,43,None,None,None,None,None,None,None,Hà Nội,Quận Ba Đình,Bán Nhà riêng tại Đường Đào Tấn
+3053,5750.0,43,None,None,None,None,None,None,None,Hà Nội,Quận Ba Đình,Bán Nhà riêng tại Đường Đào Tấn
+3054,2350.0,53,None,2.0,None,Sổ đỏ,None,None,None,Hà Nội,Quận Cầu Giấy,Bán Căn hộ chung cư tại Đường Nam Trung Yên
+3059,5750.0,43,None,None,None,None,None,None,None,Hà Nội,Quận Ba Đình,Bán Nhà riêng tại Đường Đào Tấn
+3062,9200.0,40,None,None,None,None,None,None,None,Hà Nội,Quận Ba Đình,Bán Nhà riêng tại Đường Đào Tấn
+3072,4570.0,97,None,None,None,None,None,None,None,Hà Nội,Quận Hai Bà Trưng,Bán Căn hộ chung cư tại Đường Minh Khai
+3073,4800.0,134,None,None,None,None,None,None,None,Hà Nội,Quận Hai Bà Trưng,Bán Căn hộ chung cư tại Đường Vĩnh Tuy
+3076,2800.0,74,None,None,None,None,None,None,None,Hà Nội,Huyện Gia Lâm,Bán Căn hộ chung cư tại Xã Dương Xá
+3080,2700.0,74,None,None,None,None,None,None,None,Hà Nội,Huyện Gia Lâm,Bán Căn hộ chung cư tại Xã Dương Xá
