@@ -10,19 +10,22 @@ class EstateData:
     def __init__(self, path:str):
         self.path = path
         self.data = pd.read_csv(path)
-        self.districts = self.data["District"]
+        self.districts = self.data["District"][self.data.Area.notna()]
         self.data = self.data[['House Direction', 'Balcony Direction', 'Toilets','Bedrooms', 
            'Legits', 'Floors', 'Facade', 'Entrance', "Area", 'X', 'Y',
             'Price']]
-        
+        self.data = self.data[self.data.Area.notna()]
         cates = ["House Direction", "Balcony Direction",  "Toilets", "Legits", "Floors", "Bedrooms"]
         for f in cates:
              self.data[f] = self.data[f].astype("category")
         self.train = None
         self.test = None
         
-    def split_data(self, test_size:int=0.2, random_state:int=0):
-        train, test = train_test_split(self.data, test_size = test_size, stratify=self.districts)
+    def split_data(self, test_size:int=0.2, random_state:int=0, stratify=True):
+        if stratify:
+            train, test = train_test_split(self.data, test_size = test_size, stratify=self.districts)
+        else:
+            train, test = train_test_split(self.data, test_size = test_size, random_state=random_state)
         self.train = train
         self.test = test
         
@@ -40,17 +43,19 @@ class EstateData:
     def preprocess(self, tukey=True):
         data = self.train
         #fill missing values
-        amean = data["Area"].mean()
+        #amean = data["Area"].mean()
+        print("Start Process!")
         fmean = data["Facade"].mean()
         emean = data["Entrance"].mean()
-        data["Area"].fillna(value=data["Area"].mean(), inplace=True)
+        #data["Area"].fillna(value=data["Area"].mean(), inplace=True)
         data["Facade"].fillna(value=data["Facade"].mean(), inplace=True)
         data["Entrance"].fillna(value=emean, inplace=True)
         
-        
-        self.test["Area"].fillna(value=amean, inplace=True)
+        #self.test["Area"].fillna(value=amean, inplace=True)
         self.test["Facade"].fillna(value=fmean, inplace=True)
         self.test["Entrance"].fillna(value=emean, inplace=True)
+        
+        print("Fill missing values: Done")
         
         data["PricePerM2"] = data["Price"]/data["Area"]
         data = data[data["PricePerM2"] <= 5000]
@@ -72,7 +77,7 @@ class EstateData:
             #mask = mask & self.hard_fence(data["Entrance"])
             mask = mask & self.hard_fence(data["Area"])
             data = data[mask]
-        print(data.shape)
+        print("Remove outlier: Done")
         #scale features
         scaler = RobustScaler()
         features_ = ['Facade', 'Entrance']
@@ -83,6 +88,7 @@ class EstateData:
         features_ = ['X', 'Y', "Area"]
         data[features_] = scaler.fit_transform(data[features_])
         self.test[features_] = scaler.transform(self.test[features_])
+        print("Scale features: Done")
         
         self.train = data
         
