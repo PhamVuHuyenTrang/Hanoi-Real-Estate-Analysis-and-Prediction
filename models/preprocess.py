@@ -14,7 +14,7 @@ class EstateData:
         self.data = self.data[self.data.Area.notna()]
         self.data["PricePerM2"] = self.data["Price"]/self.data["Area"]
         self.data = self.data[['House Direction', 'Balcony Direction', 'Toilets','Bedrooms', 
-           'Legits', 'Floors', 'Facade', 'Entrance', 'X', 'Y',
+           'Legits', 'Floors', 'Facade', 'Entrance', "Area", 'X', 'Y',
             "PricePerM2"]]
         
         cates = ["House Direction", "Balcony Direction",  "Toilets", "Legits", "Floors", "Bedrooms"]
@@ -91,7 +91,7 @@ class EstateData:
         self.test[features_] = scaler.transform(self.test[features_])
         
         scaler = StandardScaler()
-        features_ = ['X', 'Y']
+        features_ = ['X', 'Y', "Area"]
         data[features_] = scaler.fit_transform(data[features_])
         self.test[features_] = scaler.transform(self.test[features_])
         print("Scale features: Done")
