@@ -72,26 +72,26 @@ class EstateData:
         self.test = self.test[self.test["PricePerM2"]>=10]
         #remove outlier
         if tukey:
-            #mask = self.tukey_fence(data["Area"])
-            mask = self.tukey_fence(data["PricePerM2"])
-            mask = mask & self.tukey_fence(old_entrance, data["Entrance"])
+            mask = self.tukey_fence(data["Area"])
+            mask = mask & self.tukey_fence(data["PricePerM2"])
+            #mask = mask & self.tukey_fence(old_entrance, data["Entrance"])
             mask = mask & self.tukey_fence(old_facade, data["Facade"])
             data = data[mask]
         else:
-            #mask = self.hard_fence(data["Area"])
-            mask = self.hard_fence(data["PricePerM2"])
-            mask = mask & self.hard_fence(old_entrance, data["Entrance"])
+            mask = self.hard_fence(data["Area"])
+            mask = mask & self.hard_fence(data["PricePerM2"])
+            #mask = mask & self.hard_fence(old_entrance, data["Entrance"])
             mask = mask & self.hard_fence(old_facade, data["Facade"])
             data = data[mask]
         print("Remove outlier: Done")
         #scale features
         scaler = RobustScaler()
-        features_ = ['Facade', 'Entrance']
+        features_ = ['Facade', 'Entrance', "Area"]
         data[features_] = scaler.fit_transform(data[features_])
         self.test[features_] = scaler.transform(self.test[features_])
         
         scaler = StandardScaler()
-        features_ = ['X', 'Y', "Area"]
+        features_ = ['X', 'Y']
         data[features_] = scaler.fit_transform(data[features_])
         self.test[features_] = scaler.transform(self.test[features_])
         print("Scale features: Done")
