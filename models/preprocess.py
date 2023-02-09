@@ -23,7 +23,7 @@ class EstateData:
         
     def split_data(self, test_size:int=0.2, random_state:int=0, stratify=True):
         if stratify:
-            train, test = train_test_split(self.data, test_size = test_size, stratify=self.districts)
+            train, test = train_test_split(self.data, test_size = test_size, random_state = random_state ,stratify=self.districts)
         else:
             train, test = train_test_split(self.data, test_size = test_size, random_state=random_state)
         self.train = train
