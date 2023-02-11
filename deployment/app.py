@@ -15,11 +15,11 @@ class parameters(BaseModel):
     Legits: str
     Facade: float
     Entrance: float
+    Area: float
     Ward:str
     District:str
     
 def get_inputs(features):
-    print("Hello")
     inputs = {
             "House Direction": features.House_Direction,
             "Balcony Direction": features.Balcony_Direction,
@@ -28,7 +28,8 @@ def get_inputs(features):
             "Legits":features.Legits,
             "Floors": int(features.Floors),
             "Facade":float(features.Facade),
-            "Entrance":float(features.Entrance)
+            "Entrance":float(features.Entrance),
+            "Area": float(features.Area)
         }
     inputs["Toilets"] = "10+" if inputs["Toilets"] > 10 else str(inputs["Toilets"])
     inputs["Bedrooms"] = "10+" if inputs["Bedrooms"] > 10 else str(inputs["Bedrooms"])
@@ -39,7 +40,7 @@ def get_inputs(features):
         legits +="+đỏ"
     if "hồng" in inputs["Legits"]:
         legits += "+hồng"
-    inputs["Legits"] = legits
+    inputs["Legits"] = legits if len(legits) > 0 else "None"
     loc = Nominatim(user_agent="GetLoc")
     getLoc = loc.geocode(features.Ward+" "+features.District)
     if getLoc is None:
@@ -49,11 +50,19 @@ def get_inputs(features):
     inputs["Y"] = getLoc[-1][1]
     data = pd.DataFrame({i:[inputs[i]] for i in inputs})
     data = data[['House Direction', 'Balcony Direction', 'Toilets','Bedrooms', 
-           'Legits', 'Floors', 'Facade', 'Entrance', 'X', 'Y',
+           'Legits', 'Floors', 'Facade', 'Entrance', "Area",'X', 'Y'
             ]]
     cates = ["House Direction", "Balcony Direction",  "Toilets", "Legits", "Floors", "Bedrooms"]
     for f in cates:
          data[f] = data[f].astype("category")
+            
+    scaler = load("models/scaler1.pkl")
+    features_ = ['Facade', 'Entrance', "Area"]
+    data[features_] = scaler.transform(data[features_])
+    
+    scaler = load("models/scaler2.pkl")
+    features_ = ['X', 'Y']
+    data[features_] = scaler.transform(data[features_])
     return data
     
     
@@ -63,14 +72,14 @@ def root():
     return {"message": "Hanoi Estate Prediction"}
 
 @app.post("/predict_price")
-def predict_sentiment(features: parameters):
+def predict_price(features: parameters):
     name_models = ["XGBoost", "ANN", "LinearRegression", "KNNs"]
     if(features.Model not in name_models):
         raise HTTPException(status_code=400, 
                             detail = "Invalid input")
     inputs = get_inputs(features)
-    results = {"message":"bad"}
+    results = {}
     if features.Model == "XGBoost":
         xgb = load("models/best_tree.pkl")
-        result["Price"] = xgb.predict(inputs)[0]
+        results["Price"] = str(xgb.predict(inputs)[0])
     return results

@@ -4,6 +4,7 @@ from sklearn.model_selection import train_test_split
 from matplotlib import pyplot as plt
 from sklearn.preprocessing import LabelEncoder
 from sklearn.preprocessing import MinMaxScaler, StandardScaler, RobustScaler
+import joblib
 
 class EstateData:
     
@@ -89,11 +90,13 @@ class EstateData:
         features_ = ['Facade', 'Entrance', "Area"]
         data[features_] = scaler.fit_transform(data[features_])
         self.test[features_] = scaler.transform(self.test[features_])
+        joblib.dump(scaler, "log/scaler1.pkl") 
         
         scaler = StandardScaler()
         features_ = ['X', 'Y']
         data[features_] = scaler.fit_transform(data[features_])
         self.test[features_] = scaler.transform(self.test[features_])
+        joblib.dump(scaler, "log/scaler2.pkl") 
         print("Scale features: Done")
         
         self.train = data
