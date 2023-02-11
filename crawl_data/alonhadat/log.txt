@@ -1,0 +1,37 @@
+Excution4: https://alonhadat.com.vn/425m2-dat-chua-so-co-trich-luc-xac-nhan-cua-xa-ban-do-299-lam-duoc-so-thon-9-ba-trai-ba-12313626.html
+Traceback (most recent call last):
+  File "<ipython-input-2-c9dd1206d955>", line 131, in run
+    id = self.get_id(page)
+  File "<ipython-input-2-c9dd1206d955>", line 30, in get_id
+    bs = BeautifulSoup(self.driver.page_source)
+  File "/Users/tranxuanhuy/opt/anaconda3/lib/python3.8/site-packages/selenium/webdriver/remote/webdriver.py", line 926, in page_source
+    return self.execute(Command.GET_PAGE_SOURCE)['value']
+  File "/Users/tranxuanhuy/opt/anaconda3/lib/python3.8/site-packages/selenium/webdriver/remote/webdriver.py", line 424, in execute
+    self.error_handler.check_response(response)
+  File "/Users/tranxuanhuy/opt/anaconda3/lib/python3.8/site-packages/selenium/webdriver/remote/errorhandler.py", line 247, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchWindowException: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=109.0.5414.119)
+Stacktrace:
+0   chromedriver                        0x0000000102b88fa8 chromedriver + 4886440
+1   chromedriver                        0x0000000102b06643 chromedriver + 4351555
+2   chromedriver                        0x0000000102754b27 chromedriver + 477991
+3   chromedriver                        0x000000010272a0a5 chromedriver + 303269
+4   chromedriver                        0x00000001027c48ef chromedriver + 936175
+5   chromedriver                        0x00000001027d9ad3 chromedriver + 1022675
+6   chromedriver                        0x00000001027bf3a3 chromedriver + 914339
+7   chromedriver                        0x000000010278957f chromedriver + 693631
+8   chromedriver                        0x000000010278ab1e chromedriver + 699166
+9   chromedriver                        0x0000000102b55b9e chromedriver + 4676510
+10  chromedriver                        0x0000000102b5a91e chromedriver + 4696350
+11  chromedriver                        0x0000000102b6219f chromedriver + 4727199
+12  chromedriver                        0x0000000102b5b81a chromedriver + 4700186
+13  chromedriver                        0x0000000102b2ea62 chromedriver + 4516450
+14  chromedriver                        0x0000000102b7a8c8 chromedriver + 4827336
+15  chromedriver                        0x0000000102b7aa45 chromedriver + 4827717
+16  chromedriver                        0x0000000102b907ef chromedriver + 4917231
+17  libsystem_pthread.dylib             0x00007ff8080b14e1 _pthread_start + 125
+18  libsystem_pthread.dylib             0x00007ff8080acf6b thread_start + 15
+
+
