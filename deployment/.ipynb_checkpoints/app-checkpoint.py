@@ -6,7 +6,6 @@ import xgboost as XGB
 from geopy.geocoders import Nominatim
 
 class parameters(BaseModel):
-    Model: str
     House_Direction: str
     Balcony_Direction: str
     Toilets: int
@@ -73,13 +72,8 @@ def root():
 
 @app.post("/predict_price")
 def predict_price(features: parameters):
-    name_models = ["XGBoost", "ANN", "LinearRegression", "KNNs"]
-    if(features.Model not in name_models):
-        raise HTTPException(status_code=400, 
-                            detail = "Invalid input")
     inputs = get_inputs(features)
     results = {}
-    if features.Model == "XGBoost":
-        xgb = load("models/best_tree.pkl")
-        results["Price"] = str(xgb.predict(inputs)[0])
+    xgb = load("models/best_tree.pkl")
+    results["Price"] = str(xgb.predict(inputs)[0])
     return results
